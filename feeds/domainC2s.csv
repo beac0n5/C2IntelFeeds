@@ -239,7 +239,7 @@ sanjianke.icu,Possible Cobalt Strike C2 Domain
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain
 seeusdt.com,Possible Cobalt Strike C2 Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
-service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -313,6 +313,8 @@ www.bing.com,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain
 www.edittns.com,Possible Cobalt Strike C2 Domain
+www.himalware.cn,Possible Cobalt Strike C2 Domain
+www.himalware.cn,Possible Cobalt Strike C2 Fronting Domain
 www.iii-service.com,Possible Cobalt Strike C2 Domain
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain
 www.jsdel1vr.com,Possible Cobalt Strike C2 Domain

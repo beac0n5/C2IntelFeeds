@@ -397,7 +397,7 @@ scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dis
 search.zhenai.com,Possible Cobalt Strike C2 Fronted Domain,/owa
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
-service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/api/3
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
@@ -406,7 +406,7 @@ service-3j67aa2t-1259727864.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-6wt8xswb-1307888624.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-7sl14ich-1321035809.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cx
+service-7sl14ich-1321035809.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
 service-7tnbn05f-1319135578.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/enable/PDF/ITZE5SUW
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-a83yg9pg-1307556005.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -450,7 +450,7 @@ servicedesk-solutions.net,Possible Cobalt Strike C2 Domain,/im.php
 sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda
 shoeapi.azureedge.net,Possible Cobalt Strike C2 Domain,/sgn.js
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
-siriusxm.online,Possible Cobalt Strike C2 Fronting Domain,/gv
+siriusxm.online,Possible Cobalt Strike C2 Fronting Domain,/xmlconnect
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -518,6 +518,8 @@ www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain,/oscp/
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/
 www.edittns.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.gdstictk.buzz,Possible Cobalt Strike C2 Domain,/pixel
+www.himalware.cn,Possible Cobalt Strike C2 Domain,/api/3
+www.himalware.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3
 www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/link.html
 www.iii-service.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -534,7 +536,7 @@ www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.porkchopsandwich.net,Possible Cobalt Strike C2 Domain,/en_US/all.js
 www.porkchopsandwich.net,Possible Cobalt Strike C2 Domain,/ga.js
-www.siriusxm.online,Possible Cobalt Strike C2 Fronted Domain,/gv
+www.siriusxm.online,Possible Cobalt Strike C2 Fronted Domain,/xmlconnect
 www.taxresource-strategy.org,Possible Cobalt Strike C2 Domain,/wp-content/themes/am51-1/dist/settings
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/ca
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/fwlink
