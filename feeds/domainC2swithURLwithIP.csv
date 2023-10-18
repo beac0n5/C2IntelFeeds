@@ -89,6 +89,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
+display.iha-medical.com,Possible Cobalt Strike C2 Domain,/j.ad,3.144.169.164
 dlx.ti-instruments.com,Possible Cobalt Strike C2 Domain,/qrc.css,104.168.59.69
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel,104.223.121.37
@@ -114,6 +115,7 @@ exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPn
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,23.95.44.80
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel,121.4.155.50
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel,121.4.155.50
+explanation.cuphandles.com,Possible Cobalt Strike C2 Domain,/j.ad,18.223.190.169
 file.baidu-cdn.cloud,Possible Cobalt Strike C2 Domain,/api/getit,47.108.238.83
 firefox.org.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,81.70.190.25
 forcorpor.com,Possible Cobalt Strike C2 Domain,/g.pixel,31.44.184.73
