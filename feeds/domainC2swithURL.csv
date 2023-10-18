@@ -299,6 +299,8 @@ spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search
 startupsystemte.net,Possible Cobalt Strike C2 Domain,/register/101/6XZY7OX91
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
+submit-data.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+submit-data.com.store,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/default.jsp
 sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/security.jsp
