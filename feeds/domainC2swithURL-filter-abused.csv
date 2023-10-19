@@ -1,6 +1,7 @@
 #domain,ioc,uri_path
 1398747042169696.cn-hangzhou.fc.aliyuncs.com,Possible Cobalt Strike C2 Domain,/2016-08-15/proxy/kkk.LATEST/proxy/index.html
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/include/template/isx.php
+a.dbapps.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain,/ad71d350-167d-4337-b3b8-d146b5d3d96b/
 a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 acornservices.org,Possible Cobalt Strike C2 Domain,/ex4600.html
@@ -69,6 +70,7 @@ dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
 devopspdx.com,Possible Cobalt Strike C2 Domain,/mobile-ipad-home
 devopspdx.com,Possible Cobalt Strike C2 Domain,/nd.html
+dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -131,6 +133,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 milkforhome.com,Possible Cobalt Strike C2 Domain,/restore/ingres/0WWJ48JAC6AW
 mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
+mociyijame.us,Possible Cobalt Strike C2 Fronted Domain,/boxes
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 msdn.ajax-microsoft.com,Possible Cobalt Strike C2 Domain,/link/v3.22/4EN738VY
 mycomeone.net,Possible Cobalt Strike C2 Domain,/go/encryption/PUWULKVJ
