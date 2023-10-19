@@ -328,8 +328,6 @@ tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,
 tsvsnjv.com,Possible Cobalt Strike C2 Domain,/Damage/references/M36H9AYJ6,88.214.26.31
 tysers-evadc4f2eaa4a5fs.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/owa/VDDMacyno1daWDdFqAO8iQQw-V5oAp3ypW5,146.185.22.148
 upbetanetworks.org,Possible Cobalt Strike C2 Domain,/dz,104.168.59.9
-upbetanetworks.org,Possible Cobalt Strike C2 Domain,/dz,91.103.253.22
-upbetanetworks.org,Possible Cobalt Strike C2 Domain,/r_config.html,104.168.59.9
 upbetanetworks.org,Possible Cobalt Strike C2 Domain,/r_config.html,91.103.253.22
 upcls.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,79.110.62.156
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
@@ -351,7 +349,6 @@ www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,64.176.7.118
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain,/oscp/,123.60.97.110
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,123.60.97.110
 www.edittns.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,134.122.160.187
-www.himalware.cn,Possible Cobalt Strike C2 Domain,/api/3,39.100.83.53
 www.himalware.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3,39.100.83.53
 www.iii-service.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,103.15.29.41
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3,121.4.111.221
