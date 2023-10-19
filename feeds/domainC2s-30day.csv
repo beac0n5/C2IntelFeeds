@@ -457,6 +457,7 @@ test.g-security.cn,Possible Cobalt Strike C2 Domain
 test.mydhx.top,Possible Cobalt Strike C2 Domain
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
+tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain
 tourist.healthgradespro.com,Possible Cobalt Strike C2 Domain
 tsvsnjv.com,Possible Cobalt Strike C2 Domain
 ttxxx.club,Possible Cobalt Strike C2 Fronted Domain
@@ -471,6 +472,8 @@ update.edgeupdates.com,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
+update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain
+update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain
 upload.flash-update.info,Possible Cobalt Strike C2 Domain
 utilityupdate.com,Possible Cobalt Strike C2 Domain

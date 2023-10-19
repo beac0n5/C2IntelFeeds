@@ -1,7 +1,6 @@
 #domain,ioc,uri_path
 1398747042169696.cn-hangzhou.fc.aliyuncs.com,Possible Cobalt Strike C2 Domain,/2016-08-15/proxy/kkk.LATEST/proxy/index.html
 703a0668e1be.sn.mynetname.net,Possible Cobalt Strike C2 Domain,/fo
-703a0668e1be.sn.mynetname.net,Possible Cobalt Strike C2 Domain,/gv
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain,/ad71d350-167d-4337-b3b8-d146b5d3d96b/
 a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
@@ -26,7 +25,6 @@ c1.flashjick.top,Possible Cobalt Strike C2 Domain,/api/3
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/fwlink
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
-calamity9.ddns.net,Possible Cobalt Strike C2 Domain,/fo
 calamity9.ddns.net,Possible Cobalt Strike C2 Domain,/gv
 cambiardinero.com,Possible Cobalt Strike C2 Fronted Domain,/user/admin
 canadaforestry.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -113,7 +111,6 @@ golds-touch.com,Possible Cobalt Strike C2 Domain,/show/redirect/VVGPLUTB6I
 h4ck3r.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/index.jsp
 high.ehealthnutrition.com,Possible Cobalt Strike C2 Domain,/j.ad
-horse4horse.ddns.net,Possible Cobalt Strike C2 Domain,/fo
 horse4horse.ddns.net,Possible Cobalt Strike C2 Domain,/gv
 hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates
 igo0gle.com,Possible Cobalt Strike C2 Domain,/produce/v5.96/17NUIT3F7W
@@ -242,7 +239,6 @@ reward.itipit.com,Possible Cobalt Strike C2 Domain,/j.ad
 rokllofrold29.com,Possible Cobalt Strike C2 Domain,/Upset/v3.22/WGRDACX3
 rokllold279.com,Possible Cobalt Strike C2 Domain,/display/cgi-sys/KV0L5VRPLUTU
 safetylawtax.com,Possible Cobalt Strike C2 Domain,/Reactivate/v10.53/MMYD2RII5H
-sanjianke.icu,Possible Cobalt Strike C2 Domain,/api/getit
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
@@ -313,6 +309,8 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
+update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

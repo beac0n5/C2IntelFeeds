@@ -482,6 +482,8 @@ update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/api/getStatus
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
+update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 upload.flash-update.info,Possible Cobalt Strike C2 Domain,/api/3
 utilityupdate.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_
