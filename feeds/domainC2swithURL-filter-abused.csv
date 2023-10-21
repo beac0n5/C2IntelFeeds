@@ -92,7 +92,6 @@ domline.online,Possible Cobalt Strike C2 Domain,/owa/
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
-drententech.net,Possible Cobalt Strike C2 Domain,/terminate/portfolio/0DSMVOSJ
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 egg.healthcareexpertsllc.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -138,8 +137,6 @@ milkforhome.com,Possible Cobalt Strike C2 Domain,/restore/ingres/0WWJ48JAC6AW
 mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 mociyijame.us,Possible Cobalt Strike C2 Fronted Domain,/boxes
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
-msdn.ajax-microsoft.com,Possible Cobalt Strike C2 Domain,/link/v3.22/4EN738VY
-mycomeone.net,Possible Cobalt Strike C2 Domain,/go/encryption/PUWULKVJ
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -224,7 +221,6 @@ pay1.ptsecurity.net,Possible Cobalt Strike C2 Domain,/push
 pbfenergy.azurewebsites.net,Possible Cobalt Strike C2 Domain,/api/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
 permit.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad
-petersenliner.com,Possible Cobalt Strike C2 Domain,/select/v4.04/YBSGNK9H
 piac.elsewhens.org,Possible Cobalt Strike C2 Domain,/ptj
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search
