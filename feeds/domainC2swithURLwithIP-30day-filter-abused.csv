@@ -128,7 +128,6 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 digital.yesky.com,Possible Cobalt Strike C2 Fronted Domain,/owa,114.116.15.43
 directdefense.consulting,Possible Cobalt Strike C2 Domain,/cm,76.74.127.144
-dirt.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad,44.211.200.71
 display.iha-medical.com,Possible Cobalt Strike C2 Domain,/j.ad,3.144.169.164
 dlx.ti-instruments.com,Possible Cobalt Strike C2 Domain,/qrc.css,104.168.59.69
 dns.5itk.cn,Possible Cobalt Strike C2 Domain,/updates.rss,8.219.145.30
@@ -442,7 +441,6 @@ service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-iord9vog-1317136909.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ca,139.196.127.27
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.180.115
 service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js,82.156.151.200
-service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.223.3.171
 service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,8.140.55.217
 service-lqymkqhs-1306655841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,60.204.151.115
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,111.231.21.154
