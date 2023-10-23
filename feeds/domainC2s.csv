@@ -53,7 +53,6 @@ cloudflear.cf,Possible Cobalt Strike C2 Domain
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain
-comeonlogistics.com,Possible Cobalt Strike C2 Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
@@ -75,7 +74,6 @@ dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 display.iha-medical.com,Possible Cobalt Strike C2 Domain
-dlx.ti-instruments.com,Possible Cobalt Strike C2 Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain
@@ -103,10 +101,8 @@ explanation.cuphandles.com,Possible Cobalt Strike C2 Domain
 file.baidu-cdn.cloud,Possible Cobalt Strike C2 Domain
 firefox.org.cn,Possible Cobalt Strike C2 Domain
 forcorpor.com,Possible Cobalt Strike C2 Domain
-freehish.xyz,Possible Cobalt Strike C2 Domain
 fswtf.azureedge.net,Possible Cobalt Strike C2 Fronting Domain
 gk-stst.ru,Possible Cobalt Strike C2 Domain
-golds-touch.com,Possible Cobalt Strike C2 Domain
 h4ck3r.ml,Possible Cobalt Strike C2 Domain
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain
 high.ehealthnutrition.com,Possible Cobalt Strike C2 Domain
@@ -303,6 +299,7 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain
 update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain
+update.windows-push.com,Possible Cobalt Strike C2 Domain
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain
