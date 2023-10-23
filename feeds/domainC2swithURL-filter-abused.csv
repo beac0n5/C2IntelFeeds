@@ -82,6 +82,7 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 domline.online,Possible Cobalt Strike C2 Domain,/owa/
+dot.healthtricks101.com,Possible Cobalt Strike C2 Domain,/j.ad
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -91,8 +92,8 @@ egg.healthcareexpertsllc.com,Possible Cobalt Strike C2 Domain,/j.ad
 enc.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
 epsonupdate.uk,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 equal.fairtaxcolorado.org,Possible Cobalt Strike C2 Domain,/j.ad
-exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
-exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
+exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
+exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 explanation.cuphandles.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -135,6 +136,7 @@ ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.chinare.cf,Possible Cobalt Strike C2 Domain,/poll
 ns.mydhx.top,Possible Cobalt Strike C2 Domain,/j.ad
+ns0.luccycatch.tech,Possible Cobalt Strike C2 Domain,/dot.gif
 ns1.623866.xyz,Possible Cobalt Strike C2 Domain,/g.pixel
 ns1.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain,/dpixel
 ns1.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
@@ -198,6 +200,8 @@ ns3.gsafc.co,Possible Cobalt Strike C2 Domain,/help
 ns3.sangfor911.top,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns3.sangforssl.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load
+ns4.luccycatch.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
+ns5.luccycatch.tech,Possible Cobalt Strike C2 Domain,/cx
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/pixel.gif
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 nsss.chtcom.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
