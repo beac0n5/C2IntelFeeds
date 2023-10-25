@@ -269,7 +269,6 @@ service-oocpa72a-1305610678.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
 service-p1lbi0ix-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-qsbfdyq7-1318430534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/fwlink
@@ -292,7 +291,6 @@ tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 ts.appliedrc.com,Possible Cobalt Strike C2 Domain,/match
 ts.ibuilder360.com,Possible Cobalt Strike C2 Domain,/dot.gif
 tsvsnjv.com,Possible Cobalt Strike C2 Domain,/Damage/references/M36H9AYJ6
-tysers-evadc4f2eaa4a5fs.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/owa/VDDMacyno1daWDdFqAO8iQQw-V5oAp3ypW5
 upcls.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 updalo-1942638394.cos.ap-hongkong.tencent.lat,Possible Cobalt Strike C2 Fronted Domain,/update_wapp2.aspx
 update-services.azureedge.net,Possible Cobalt Strike C2 Domain,/ms-settings-privacy
