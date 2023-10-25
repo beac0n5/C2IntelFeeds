@@ -14,7 +14,6 @@ appreciation-hub.azureedge.net,Possible Cobalt Strike C2 Domain
 appsoftwareupdate.com,Possible Cobalt Strike C2 Domain
 as.svcregsvr.com,Possible Cobalt Strike C2 Domain
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain
-atmosferiktarq.myddns.me,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 baltlifeapp.com,Possible Cobalt Strike C2 Domain
 betshopkipstri.com,Possible Cobalt Strike C2 Domain
@@ -33,6 +32,7 @@ cc.cert-ex.net,Possible Cobalt Strike C2 Domain
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain
 cdn.carepassmedservices.com,Possible Cobalt Strike C2 Fronting Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
+cdn.fayevalentine.world,Possible Cobalt Strike C2 Fronting Domain
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Domain
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
@@ -121,7 +121,6 @@ m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 medtechgroups.com,Possible Cobalt Strike C2 Domain
-meetlak.link,Possible Cobalt Strike C2 Domain
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
 micrusroft.com,Possible Cobalt Strike C2 Domain
 mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
@@ -220,7 +219,9 @@ qw.svcregsvr.com,Possible Cobalt Strike C2 Domain
 rand.ptsecurity.net,Possible Cobalt Strike C2 Domain
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
+recharge-fr.myddns.me,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
+redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain
 renew-certificate.azureedge.net,Possible Cobalt Strike C2 Domain
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
 rokllofrold29.com,Possible Cobalt Strike C2 Domain
@@ -304,6 +305,7 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain
 www.edittns.com,Possible Cobalt Strike C2 Domain
+www.fayevalentine.world,Possible Cobalt Strike C2 Fronted Domain
 www.himalware.cn,Possible Cobalt Strike C2 Fronting Domain
 www.iii-service.com,Possible Cobalt Strike C2 Domain
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain

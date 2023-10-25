@@ -59,6 +59,7 @@ cdn.apiadmin.live,Possible Cobalt Strike C2 Domain
 cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain
 cdn.carepassmedservices.com,Possible Cobalt Strike C2 Fronting Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
+cdn.fayevalentine.world,Possible Cobalt Strike C2 Fronting Domain
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Domain
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
@@ -124,7 +125,6 @@ dns.greypsecurity.training,Possible Cobalt Strike C2 Domain
 dns.incididunt.com,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.veriernano.com,Possible Cobalt Strike C2 Domain
-dns.zonstdns.xyz,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 domline.online,Possible Cobalt Strike C2 Domain
@@ -212,8 +212,6 @@ microsoft-support.zapto.org,Possible PoshC2 Domain
 micrusroft.com,Possible Cobalt Strike C2 Domain
 milkforhome.com,Possible Cobalt Strike C2 Domain
 mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
-mobile.static.apiproxy.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain
-mobile.static.apiproxy.cloud.360.net.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 mociyijame.us,Possible Cobalt Strike C2 Fronted Domain
 mom.pain.capetown,Possible Cobalt Strike C2 Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
@@ -377,7 +375,9 @@ rand.ptsecurity.net,Possible Cobalt Strike C2 Domain
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 rapidevolution.org,Possible Cobalt Strike C2 Domain
+recharge-fr.myddns.me,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
+redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain
 renew-certificate.azureedge.net,Possible Cobalt Strike C2 Domain
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
 reward.itipit.com,Possible Cobalt Strike C2 Domain
@@ -437,7 +437,6 @@ service-p1lbi0ix-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-q79zqijz-1259125056.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-qsbfdyq7-1318430534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-rsb9hux9-1258128533.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service.opposrv.top,Possible Cobalt Strike C2 Domain
 servicedesk-solutions.net,Possible Cobalt Strike C2 Domain
 sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain
@@ -507,6 +506,7 @@ www.chtcom.tw,Possible Cobalt Strike C2 Domain
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain
 www.edittns.com,Possible Cobalt Strike C2 Domain
+www.fayevalentine.world,Possible Cobalt Strike C2 Fronted Domain
 www.himalware.cn,Possible Cobalt Strike C2 Fronting Domain
 www.iii-service.com,Possible Cobalt Strike C2 Domain
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain
