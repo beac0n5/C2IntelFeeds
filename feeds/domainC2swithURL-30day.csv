@@ -441,9 +441,9 @@ service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 service-iord9vog-1317136909.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ca
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm
+service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 service-lqymkqhs-1306655841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
+service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/j.ad
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-n0tf95ic-1305872204.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js
@@ -550,6 +550,8 @@ www.topsec.com,Possible Cobalt Strike C2 Fronting Domain,/broadcast
 www.ttxxx.club,Possible Cobalt Strike C2 Fronting Domain,/api/3
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weatherths.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.wenwen.shop,Possible Cobalt Strike C2 Fronting Domain,/update_wapp2.aspx
+www.wenweng.shop,Possible Cobalt Strike C2 Fronted Domain,/update_wapp2.aspx
 www.wenweng.shop,Possible Cobalt Strike C2 Fronting Domain,/update_wapp2.aspx
 www.wlndows.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.xss.mba,Possible Cobalt Strike C2 Domain,/push
