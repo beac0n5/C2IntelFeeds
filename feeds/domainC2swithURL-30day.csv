@@ -30,6 +30,7 @@ aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js
 atmosferiktarq.myddns.me,Possible Cobalt Strike C2 Domain,/async/newtab_promos
 awda.updatecode.xyz,Possible Cobalt Strike C2 Domain,/cx
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+bacon.danger-zone.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 baltlifeapp.com,Possible Cobalt Strike C2 Domain,/d_config
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/jd/
@@ -84,6 +85,7 @@ cloudhoststatic.com,Possible Cobalt Strike C2 Domain,/Consolidate/v9.44/UBXP14P3
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 cmtscbt.bsnl.wiki,Possible Cobalt Strike C2 Domain,/Contact/termsofuse/ITU8UYG7
+code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
