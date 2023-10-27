@@ -20,6 +20,7 @@
 "clsr.ca","Possible Cobaltstrike DNS C2 Domain","178.128.193.49","ns12.clsr.ca"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
 "controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","rss.controlcavi.com"
+"credsera.org","Possible Cobaltstrike DNS C2 Domain","5.255.114.119","cms.credsera.org"
 "d1am0nd.ddns.net","Possible Cobaltstrike DNS C2 Domain","194.135.17.31","d1am0nd.ddns.net"
 "digihealthlocker.com","Possible Cobaltstrike DNS C2 Domain","54.226.3.99","recommendation.digihealthlocker.com"
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
@@ -87,4 +88,3 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
-
