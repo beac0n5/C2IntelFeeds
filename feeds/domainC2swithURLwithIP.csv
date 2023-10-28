@@ -134,7 +134,6 @@ logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js,118.25.137.239
 m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js,118.25.137.239
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
-medtechgroups.com,Possible Cobalt Strike C2 Domain,/universal-access.css,192.3.76.8
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
@@ -237,7 +236,6 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.22
 redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/j.ad,66.113.100.100
 renew-certificate.azureedge.net,Possible Cobalt Strike C2 Domain,/ms-settings-privacy,204.48.17.158
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
-rokllofrold29.com,Possible Cobalt Strike C2 Domain,/Upset/v3.22/WGRDACX3,194.165.17.9
 rss.controlcavi.com,Possible Cobalt Strike C2 Domain,/_/SubscriptionsManagementUi/data/batchexecute,84.32.131.0
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css,138.68.129.245
 sebasticookhospital.org,Possible Cobalt Strike C2 Domain,/wp-content/themes/am43-6/dist/records,143.110.224.98
@@ -265,6 +263,7 @@ service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/__utm.gif,47.108.198.218
 service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss,8.140.55.217
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj,111.231.21.154
+service-m2easdvn-1303971391.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,139.224.206.244
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-n0tf95ic-1305872204.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js,124.223.52.82
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel,49.232.24.38
