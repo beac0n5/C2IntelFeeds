@@ -105,7 +105,6 @@ cs.vegaking.xyz,Possible Cobalt Strike C2 Domain,/api/3,198.74.112.233
 cs1.accountsync.net,Possible Cobalt Strike C2 Domain,/api/1.1/1dc954cb,24.137.215.159
 cs1.accountsync.net,Possible Cobalt Strike C2 Domain,/api/1.1/1dc954cb,72.142.102.158
 cs45upb230906.iqiyid.com,Possible Cobalt Strike C2 Domain,/pixel.gif,208.70.74.144
-cusihunej.info,Possible Cobalt Strike C2 Fronted Domain,/lt.html,23.106.223.97
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
 d1qzl7xiwymjyn.cloudfront.net,Possible Cobalt Strike C2 Domain,/groupcp.html,3.115.40.76
 d2cpd93ebiah9g.cloudfront.net,Possible Cobalt Strike C2 Domain,/jdbc.htm,3.23.99.111
@@ -230,7 +229,6 @@ msdn.ajax-microsoft.com,Possible Cobalt Strike C2 Domain,/link/v3.22/4EN738VY,45
 mycomeone.net,Possible Cobalt Strike C2 Domain,/go/encryption/PUWULKVJ,217.69.10.241
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3,146.56.118.82
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
-netflix.com,Possible Cobalt Strike C2 Fronting Domain,/lt.html,23.106.223.97
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.49.116
 nitronclub.com,Possible Cobalt Strike C2 Domain,/Level/ebay/YSL03QXGGO,45.76.94.224
