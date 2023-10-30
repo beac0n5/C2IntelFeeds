@@ -83,6 +83,7 @@
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "nanyafpg.com","Possible Cobaltstrike DNS C2 Domain","52.195.16.11","ns88.nanyafpg.com"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
+"pain.capetown","Possible Cobaltstrike DNS C2 Domain","95.142.40.85","mom.pain.capetown"
 "pebrord.com","Possible Cobaltstrike DNS C2 Domain","107.21.217.80","ns1.pebrord.com"
 "peerscash.com","Possible Cobaltstrike DNS C2 Domain","54.237.14.58","permit.peerscash.com"
 "polytechit.org","Possible Cobaltstrike DNS C2 Domain","45.125.67.27","casc.polytechit.org"
@@ -106,4 +107,3 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
-
