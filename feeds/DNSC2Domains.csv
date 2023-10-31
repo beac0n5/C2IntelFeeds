@@ -1,6 +1,7 @@
 #domain,ioc,IPs,C2Domains
 "227api.com","Possible Cobaltstrike DNS C2 Domain","103.146.141.98","ns2.227api.com ns3.227api.com"
 "365ub.cn","Possible Cobaltstrike DNS C2 Domain","43.159.136.92","ns.365ub.cn"
+"4399tv.net","Possible Cobaltstrike DNS C2 Domain","192.3.255.42","dns.4399tv.net dns1.4399tv.net dns2.4399tv.net"
 "623866.xyz","Possible Cobaltstrike DNS C2 Domain","43.143.58.212","ns1.623866.xyz ns2.623866.xyz"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
@@ -89,6 +90,7 @@
 "polytechit.org","Possible Cobaltstrike DNS C2 Domain","45.125.67.27","casc.polytechit.org"
 "ptsecurity.net","Possible Cobaltstrike DNS C2 Domain","165.227.141.64","pay1.ptsecurity.net rand.ptsecurity.net"
 "pycharm-edu.us","Possible Cobaltstrike DNS C2 Domain","119.91.31.246","ns1.pycharm-edu.us"
+"quicksmartmoney.com","Possible Cobaltstrike DNS C2 Domain","18.226.79.33","activity.quicksmartmoney.com"
 "sangfor911.top","Possible Cobaltstrike DNS C2 Domain","42.192.137.198","ns1.sangfor911.top ns2.sangfor911.top ns3.sangfor911.top"
 "sangforssl.xyz","Possible Cobaltstrike DNS C2 Domain","43.132.152.51","ns1.sangforssl.xyz ns2.sangforssl.xyz ns3.sangforssl.xyz sec.sangforssl.xyz"
 "skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
@@ -107,4 +109,3 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
-
