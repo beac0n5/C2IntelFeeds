@@ -95,7 +95,7 @@
 "localhost-microsoft.com","Possible Cobaltstrike DNS C2 Domain","43.129.28.136","clouds.localhost-microsoft.com"
 "luccycatch.tech","Possible Cobaltstrike DNS C2 Domain","223.165.4.101","ns0.luccycatch.tech ns4.luccycatch.tech ns5.luccycatch.tech"
 "mammothspoon.xyz","Possible Cobaltstrike DNS C2 Domain","123.56.75.209","ns2.mammothspoon.xyz"
-"marfei.zone","Possible Cobaltstrike DNS C2 Domain", "121.40.119.94","c2.marfei.zone"
+"marfei.zone","Possible Cobaltstrike DNS C2 Domain","121.40.119.94","c2.marfei.zone"
 "micorsoft.pro","Possible Cobaltstrike DNS C2 Domain","43.138.179.58","ns1.micorsoft.pro ns2.micorsoft.pro"
 "micros0ft-security.org","Possible Cobaltstrike DNS C2 Domain","167.172.147.163","pic.micros0ft-security.org"
 "microsoeft.com.cn","Possible Cobaltstrike DNS C2 Domain","13.208.185.148","ns1.microsoeft.com.cn ns2.microsoeft.com.cn"
@@ -145,3 +145,4 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
+
