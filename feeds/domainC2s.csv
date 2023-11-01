@@ -28,6 +28,7 @@ cdn.mww2.com,Possible Cobalt Strike C2 Domain
 cdn.mww2.com,Possible Cobalt Strike C2 Fronting Domain
 cdn.qq2s.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
+cdnjsdelivr.xyz,Possible Cobalt Strike C2 Fronted Domain
 check.judicical.ml,Possible Cobalt Strike C2 Domain
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 check1.judicical.ml,Possible Cobalt Strike C2 Domain
@@ -38,9 +39,9 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
 cs.10011.fun,Possible Cobalt Strike C2 Domain
-cs1.accountsync.net,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 d22h19icfueroa.cloudfront.net,Possible Cobalt Strike C2 Domain
+d2m9vnw3tqtaju.cloudfront.net,Possible Cobalt Strike C2 Domain
 databasewebdevelopment.com,Possible Cobalt Strike C2 Domain
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -96,7 +97,6 @@ logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
-mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
 mom.pain.capetown,Possible Cobalt Strike C2 Domain
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain
 ns.365ub.cn,Possible Cobalt Strike C2 Domain
@@ -242,6 +242,7 @@ wuxay.top,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain
 www.baidu.com,Possible Cobalt Strike C2 Fronting Domain
+www.bing.com,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain
 www.fayevalentine.world,Possible Cobalt Strike C2 Fronted Domain
