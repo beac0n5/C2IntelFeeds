@@ -93,7 +93,6 @@
 "marfei.zone","Possible Cobaltstrike DNS C2 Domain","121.40.119.94","c2.marfei.zone"
 "micorsoft.pro","Possible Cobaltstrike DNS C2 Domain","43.138.179.58","ns1.micorsoft.pro ns2.micorsoft.pro"
 "micros0ft-security.org","Possible Cobaltstrike DNS C2 Domain","167.172.147.163","pic.micros0ft-security.org"
-"microsoeft.com.cn","Possible Cobaltstrike DNS C2 Domain","13.208.185.148","ns1.microsoeft.com.cn ns2.microsoeft.com.cn"
 "microsoft-hk.com","Possible Cobaltstrike DNS C2 Domain","124.220.19.234","cdn.microsoft-hk.com"
 "microsoft2888.top","Possible Cobaltstrike DNS C2 Domain","1.117.93.65","ns1.microsoft2888.top"
 "microsoftapply.com","Possible Cobaltstrike DNS C2 Domain","103.97.177.106","update.microsoftapply.com"
@@ -141,4 +140,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
