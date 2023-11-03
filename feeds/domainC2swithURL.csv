@@ -10,7 +10,6 @@ anservusa.com,Possible Cobalt Strike C2 Domain,/panel
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/match
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-as.svcregsvr.com,Possible Cobalt Strike C2 Domain,/bg
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink
 bacon.danger-zone.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -100,7 +99,6 @@ mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mom.pain.capetown,Possible Cobalt Strike C2 Domain,/ga.js
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
 ns.365ub.cn,Possible Cobalt Strike C2 Domain,/dpixel
-ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.chinare.cf,Possible Cobalt Strike C2 Domain,/poll
 ns.mydhx.top,Possible Cobalt Strike C2 Domain,/j.ad
@@ -181,12 +179,12 @@ pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 quit.industrybankingllc.com,Possible Cobalt Strike C2 Domain,/j.ad
-qw.svcregsvr.com,Possible Cobalt Strike C2 Domain,/bg
 rand.ptsecurity.net,Possible Cobalt Strike C2 Domain,/push
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 recharge-fr.myddns.me,Possible Cobalt Strike C2 Domain,/mail
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
+richusaprod.azurewebsites.net,Possible Cobalt Strike C2 Domain,/api/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/dot.gif
 rss.controlcavi.com,Possible Cobalt Strike C2 Domain,/_/SubscriptionsManagementUi/data/batchexecute
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
@@ -237,7 +235,6 @@ webmail.gpuxdrv.com,Possible Cobalt Strike C2 Domain,/uG
 wordst7512.net,Possible Cobalt Strike C2 Domain,/promote/v10.26/GMLZ7S5R7Z3
 wordstt182.com,Possible Cobalt Strike C2 Domain,/develop/v5.10/M3HCONPDRLQ
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-wuxay.top,Possible Cobalt Strike C2 Domain,/api/3
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/jquery.js
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
@@ -250,4 +247,3 @@ www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-zx.svcregsvr.com,Possible Cobalt Strike C2 Domain,/bg
