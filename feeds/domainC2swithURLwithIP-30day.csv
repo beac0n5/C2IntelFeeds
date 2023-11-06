@@ -169,6 +169,7 @@ file.baidu-cdn.cloud,Possible Cobalt Strike C2 Domain,/api/getit,47.108.238.83
 financialservicesunion.com,Possible Cobalt Strike C2 Domain,/admin.js,50.3.132.230
 financialservicesunion.com,Possible Cobalt Strike C2 Domain,/ro,50.3.132.230
 firefox.org.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,81.70.190.25
+flow.baidu666.pw,Possible Cobalt Strike C2 Domain,/case.js,163.197.199.246
 fooddeliviringgg.net,Possible Cobalt Strike C2 Domain,/Inquiry/feed/SM5LM8FXWO,78.141.230.133
 forcorpor.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,31.44.184.73
 freehish.xyz,Possible Cobalt Strike C2 Domain,/image/,154.204.60.102
@@ -411,7 +412,7 @@ service-iord9vog-1317136909.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.180.115
 service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss,8.140.55.217
 service-lqymkqhs-1306655841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,60.204.151.115
-service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj,111.231.21.154
+service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,111.231.21.154
 service-m2easdvn-1303971391.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,139.224.206.244
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-n0tf95ic-1305872204.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js,124.223.52.82
