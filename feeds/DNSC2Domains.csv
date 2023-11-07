@@ -13,7 +13,7 @@
 "beta-microsoft.com","Possible Cobaltstrike DNS C2 Domain","172.93.165.117","ns1.beta-microsoft.com ns2.beta-microsoft.com"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "bookworld-langchao.work","Possible Cobaltstrike DNS C2 Domain","82.157.145.234","ns1.bookworld-langchao.work"
-"bphsearch.com","Possible Cobaltstrike DNS C2 Domain","38.54.101.95","ssa.bphsearch.com"
+"bphsearch.com","Possible Cobaltstrike DNS C2 Domain","216.120.201.106 38.54.101.95","ssa.bphsearch.com"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
@@ -77,6 +77,7 @@
 "n0reply.eu.org","Possible Cobaltstrike DNS C2 Domain","122.10.118.19","dnm.n0reply.eu.org"
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "nanyafpg.com","Possible Cobaltstrike DNS C2 Domain","52.195.16.11","ns88.nanyafpg.com"
+"ndgnetlabs.com","Possible Cobaltstrike DNS C2 Domain","13.59.217.103 18.221.245.196 3.135.234.20","cdn.ndgnetlabs.com poop.ndgnetlabs.com"
 "obenkyou.site","Possible Cobaltstrike DNS C2 Domain","142.171.221.6","ns1.obenkyou.site ns2.obenkyou.site"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "pain.capetown","Possible Cobaltstrike DNS C2 Domain","95.142.40.85","mom.pain.capetown"
@@ -106,4 +107,3 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
-

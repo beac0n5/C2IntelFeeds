@@ -70,6 +70,9 @@ cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,
 cdn.microsolt.top,Possible Cobalt Strike C2 Domain,/wp-admin,43.134.23.107
 cdn.mww2.com,Possible Cobalt Strike C2 Domain,/ca,103.108.67.154
 cdn.mww2.com,Possible Cobalt Strike C2 Fronting Domain,/cx,103.108.67.154
+cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,13.59.217.103
+cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,18.221.245.196
+cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,3.135.234.20
 cdn.qq2s.com,Possible Cobalt Strike C2 Fronted Domain,/cx,103.108.67.154
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.125.214
 cdnet-web.com,Possible Cobalt Strike C2 Domain,/ex4600.html,91.103.253.34
@@ -330,6 +333,9 @@ permit.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad,54.237.14.58
 petersenliner.com,Possible Cobalt Strike C2 Domain,/select/v4.04/YBSGNK9H,108.61.39.103
 piac.elsewhens.org,Possible Cobalt Strike C2 Domain,/ptj,185.132.125.151
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js,167.172.147.163
+poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,13.59.217.103
+poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,18.221.245.196
+poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,3.135.234.20
 portal.oneban.cn,Possible Cobalt Strike C2 Fronting Domain,/updates.rss,150.158.90.188
 portal.oneban.cn.1fk9m76w.kuocaidns.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss,150.158.90.188
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.18
@@ -414,6 +420,7 @@ software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad,52.14.74.190
 spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain,/search,154.39.157.5
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.60
+ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search,216.120.201.106
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search,38.54.101.95
 startupsystemte.net,Possible Cobalt Strike C2 Domain,/register/101/6XZY7OX91,78.141.220.240
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190

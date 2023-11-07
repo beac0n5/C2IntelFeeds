@@ -63,6 +63,7 @@ cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
 cdn.microsolt.top,Possible Cobalt Strike C2 Domain,/wp-admin
 cdn.mww2.com,Possible Cobalt Strike C2 Domain,/ca
 cdn.mww2.com,Possible Cobalt Strike C2 Fronting Domain,/cx
+cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 cdn.qq2s.com,Possible Cobalt Strike C2 Fronted Domain,/cx
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdnet-web.com,Possible Cobalt Strike C2 Domain,/ex4600.html
@@ -322,6 +323,7 @@ petersenliner.com,Possible Cobalt Strike C2 Domain,/select/v4.04/YBSGNK9H
 piac.elsewhens.org,Possible Cobalt Strike C2 Domain,/ptj
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js
 pinterest.com,Possible Cobalt Strike C2 Fronting Domain,/boxes
+poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 portal.oneban.cn,Possible Cobalt Strike C2 Fronting Domain,/updates.rss
 portal.oneban.cn.1fk9m76w.kuocaidns.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search
