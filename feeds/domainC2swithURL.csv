@@ -92,6 +92,7 @@ logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
 m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+meetlak.link,Possible Cobalt Strike C2 Domain,/api/3
 mom.pain.capetown,Possible Cobalt Strike C2 Domain,/j.ad
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
