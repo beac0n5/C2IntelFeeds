@@ -62,6 +62,7 @@
 "localhost-microsoft.com","Possible Cobaltstrike DNS C2 Domain","43.129.28.136","clouds.localhost-microsoft.com"
 "marfei.zone","Possible Cobaltstrike DNS C2 Domain","121.40.119.94","c2.marfei.zone"
 "micros0ft-security.org","Possible Cobaltstrike DNS C2 Domain","167.172.147.163","pic.micros0ft-security.org"
+"microsoft-hk.com","Possible Cobaltstrike DNS C2 Domain","124.220.19.234","cdn.microsoft-hk.com"
 "microsoft2888.top","Possible Cobaltstrike DNS C2 Domain","1.117.93.65","ns1.microsoft2888.top"
 "microsoftapply.com","Possible Cobaltstrike DNS C2 Domain","103.97.177.106","update.microsoftapply.com"
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsofthk.com"
@@ -104,3 +105,4 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
+

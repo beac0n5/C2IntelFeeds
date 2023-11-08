@@ -21,6 +21,7 @@ cc.emergency-coms.com,Possible PoshC2 Domain,/wpaas/load.php/,184.72.153.18
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain,/c986e4a8-46ff-4083-b6e8-e744c780e36b/,85.10.151.245
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,213.61.251.56
 cdn.fayevalentine.world,Possible Cobalt Strike C2 Fronting Domain,/jquery.min.js,123.60.43.138
+cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234
 cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,13.59.217.103
 cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,18.221.245.196
 cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,3.135.234.20
@@ -34,7 +35,6 @@ clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.2
 cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/,5.255.114.119
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css,138.68.129.245
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
-cs.10011.fun,Possible Cobalt Strike C2 Domain,/match,104.194.233.213
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
 d22h19icfueroa.cloudfront.net,Possible Cobalt Strike C2 Domain,/ca,44.198.16.37
 d2m9vnw3tqtaju.cloudfront.net,Possible Cobalt Strike C2 Domain,/profile.html,34.199.123.211
@@ -162,7 +162,7 @@ ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.195.1
 nsss.chtcom.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.76.124.230
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/g.pixel,45.76.90.103
-pay1.ptsecurity.net,Possible Cobalt Strike C2 Domain,/cm,165.227.141.64
+pay1.ptsecurity.net,Possible Cobalt Strike C2 Domain,/activity,165.227.141.64
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.51.227
 permit.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad,54.237.14.58
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js,167.172.147.163
@@ -172,7 +172,7 @@ poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.18
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,119.91.31.246
 qq.monolthicpower.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,111.230.194.172
-rand.ptsecurity.net,Possible Cobalt Strike C2 Domain,/ca,165.227.141.64
+rand.ptsecurity.net,Possible Cobalt Strike C2 Domain,/dot.gif,165.227.141.64
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,103.16.231.87
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99

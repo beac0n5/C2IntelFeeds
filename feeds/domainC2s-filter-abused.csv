@@ -20,6 +20,7 @@ cc.emergency-coms.com,Possible PoshC2 Domain
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.fayevalentine.world,Possible Cobalt Strike C2 Fronting Domain
+cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
 cdnjsdelivr.xyz,Possible Cobalt Strike C2 Fronted Domain
@@ -31,7 +32,6 @@ clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 cms.credsera.org,Possible Cobalt Strike C2 Domain
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
-cs.10011.fun,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 d22h19icfueroa.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2m9vnw3tqtaju.cloudfront.net,Possible Cobalt Strike C2 Domain
