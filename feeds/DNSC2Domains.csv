@@ -22,6 +22,8 @@
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
 "chtcom.tw","Possible Cobaltstrike DNS C2 Domain","35.76.124.230","nsss.chtcom.tw"
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
+"cloudns.nz","Possible Cobaltstrike DNS C2 Domain","94.131.113.34","ns2.tosohindia.cloudns.nz"
+"cloudns.ph","Possible Cobaltstrike DNS C2 Domain","94.131.8.31","india.tosoh.cloudns.ph"
 "clsr.ca","Possible Cobaltstrike DNS C2 Domain","178.128.193.49","ns12.clsr.ca"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
 "controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","rss.controlcavi.com"
