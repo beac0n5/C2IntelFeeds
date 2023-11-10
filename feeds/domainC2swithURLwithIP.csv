@@ -39,7 +39,6 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css,138.68.129.245
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
-d2m9vnw3tqtaju.cloudfront.net,Possible Cobalt Strike C2 Domain,/profile.html,34.199.123.211
 databasewebdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js,91.103.253.21
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search,38.54.45.144
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml,3.137.214.117
@@ -216,8 +215,6 @@ spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.60
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search,216.120.201.106
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search,38.54.101.95
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
-ts.appliedrc.com,Possible Cobalt Strike C2 Domain,/match,172.172.32.86
-ts.ibuilder360.com,Possible Cobalt Strike C2 Domain,/dot.gif,172.172.32.86
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
@@ -232,7 +229,6 @@ viewservice.org,Possible PoshC2 Domain,/usersync/tradedesk/,3.131.100.38
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
 webmail.gpuxdrv.com,Possible Cobalt Strike C2 Domain,/uG,3.254.254.189
-wordstt182.com,Possible Cobalt Strike C2 Domain,/develop/v5.10/M3HCONPDRLQ,167.88.166.109
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/jquery.js,82.157.145.234
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,134.209.164.110
