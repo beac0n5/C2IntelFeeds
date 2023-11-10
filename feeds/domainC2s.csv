@@ -89,8 +89,10 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
+mahamaya1ifesciences.com,Possible Cobalt Strike C2 Fronting Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 meetlak.link,Possible Cobalt Strike C2 Domain
+microsoft.updatestore.live,Possible Cobalt Strike C2 Fronted Domain
 mom.pain.capetown,Possible Cobalt Strike C2 Domain
 n0tion.link,Possible Cobalt Strike C2 Domain
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain
