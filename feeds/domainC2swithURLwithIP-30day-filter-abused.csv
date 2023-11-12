@@ -322,6 +322,9 @@ ns5.luccycatch.tech,Possible Cobalt Strike C2 Domain,/cx,223.165.4.101
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/pixel.gif,199.195.251.219
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.195.16.11
 nsss.chtcom.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.76.124.230
+nt1.227api.com,Possible Cobalt Strike C2 Domain,/push,154.92.16.150
+nt2.227api.com,Possible Cobalt Strike C2 Domain,/load,154.92.16.150
+nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.92.16.150
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js,39.105.107.87
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/g.pixel,45.76.90.103
@@ -434,6 +437,7 @@ t.takaelot.com,Possible Cobalt Strike C2 Domain,/j.ad,46.101.108.125
 tadkadfads.beauty,Possible Cobalt Strike C2 Domain,/api/3,101.43.10.123
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif,154.83.17.116
+test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.245.117.155
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match,82.157.63.28
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain,/azure/api/v2/userinfo/get,39.107.250.164
@@ -488,6 +492,7 @@ www.wenweng.shop,Possible Cobalt Strike C2 Fronting Domain,/update_wapp2.aspx,16
 www.xss.mba,Possible Cobalt Strike C2 Domain,/match,58.51.152.18
 www.ymmxc.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,183.165.35.133
 www.zhaoyr.online,Possible Cobalt Strike C2 Domain,/pixel.gif,58.53.128.27
+www1.canadaeast.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson,52.229.108.220
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162

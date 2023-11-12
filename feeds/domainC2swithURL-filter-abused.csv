@@ -61,7 +61,6 @@ dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 domline.online,Possible Cobalt Strike C2 Domain,/owa/
 dot.healthtricks101.com,Possible Cobalt Strike C2 Domain,/j.ad
-download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -168,6 +167,9 @@ ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/pixel.gif
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 nsss.chtcom.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+nt1.227api.com,Possible Cobalt Strike C2 Domain,/push
+nt2.227api.com,Possible Cobalt Strike C2 Domain,/load
+nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/g.pixel
 pay1.ptsecurity.net,Possible Cobalt Strike C2 Domain,/ptj
@@ -213,6 +215,7 @@ spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain,/search
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
+test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
@@ -233,9 +236,9 @@ www.fayevalentine.world,Possible Cobalt Strike C2 Fronted Domain,/jquery.min.js
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
-www.xss.mba,Possible Cobalt Strike C2 Domain,/match
 www.ymmxc.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.zhaoyr.online,Possible Cobalt Strike C2 Domain,/pixel.gif
+www1.canadaeast.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

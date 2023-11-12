@@ -301,6 +301,9 @@ ns5.luccycatch.tech,Possible Cobalt Strike C2 Domain,/cx
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/pixel.gif
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 nsss.chtcom.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+nt1.227api.com,Possible Cobalt Strike C2 Domain,/push
+nt2.227api.com,Possible Cobalt Strike C2 Domain,/load
+nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -406,6 +409,7 @@ sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/pages.jsp
 t.takaelot.com,Possible Cobalt Strike C2 Domain,/j.ad
 tadkadfads.beauty,Possible Cobalt Strike C2 Domain,/api/3
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif
+test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain,/azure/api/v2/userinfo/get
@@ -459,6 +463,7 @@ www.wenweng.shop,Possible Cobalt Strike C2 Fronting Domain,/update_wapp2.aspx
 www.xss.mba,Possible Cobalt Strike C2 Domain,/match
 www.ymmxc.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.zhaoyr.online,Possible Cobalt Strike C2 Domain,/pixel.gif
+www1.canadaeast.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

@@ -60,7 +60,6 @@ dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 domline.online,Possible Cobalt Strike C2 Domain
 dot.healthtricks101.com,Possible Cobalt Strike C2 Domain
-download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 downsexv.com,Possible Cobalt Strike C2 Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain
@@ -167,6 +166,9 @@ ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain
 nsss.chtcom.tw,Possible Cobalt Strike C2 Domain
+nt1.227api.com,Possible Cobalt Strike C2 Domain
+nt2.227api.com,Possible Cobalt Strike C2 Domain
+nt3.227api.com,Possible Cobalt Strike C2 Domain
 oa.cncb.info,Possible Cobalt Strike C2 Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 pay1.ptsecurity.net,Possible Cobalt Strike C2 Domain
@@ -212,6 +214,7 @@ spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
+test.blueteam.asia,Possible Cobalt Strike C2 Domain
 test.mydhx.top,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
@@ -232,9 +235,9 @@ www.fayevalentine.world,Possible Cobalt Strike C2 Fronted Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain
 www.weepstakes.com,Possible Cobalt Strike C2 Domain
-www.xss.mba,Possible Cobalt Strike C2 Domain
 www.ymmxc.top,Possible Cobalt Strike C2 Domain
 www.zhaoyr.online,Possible Cobalt Strike C2 Domain
+www1.canadaeast.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
