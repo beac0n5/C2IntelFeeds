@@ -71,7 +71,6 @@ cloudhoststatic.com,Possible Cobalt Strike C2 Domain,/Consolidate/v9.44/UBXP14P3
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/
-cmtscbt.bsnl.wiki,Possible Cobalt Strike C2 Domain,/Contact/termsofuse/ITU8UYG7
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
@@ -182,7 +181,6 @@ logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
 m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
 mahamaya1ifesciences.com,Possible Cobalt Strike C2 Fronting Domain,/metro91/admin/1/ppptp.jpg
-mail.admin666.xyz,Possible Cobalt Strike C2 Domain,/load
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 medtechgroups.com,Possible Cobalt Strike C2 Domain,/universal-access.css
 meetlak.link,Possible Cobalt Strike C2 Domain,/api/3
@@ -394,7 +392,6 @@ service-oocpa72a-1305610678.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
 service-p1lbi0ix-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-q79zqijz-1259125056.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cx
 service-qsbfdyq7-1318430534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 setrester.com,Possible Cobalt Strike C2 Domain,/stop/v6.62/B6B0LQMJ
 sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda
@@ -425,7 +422,6 @@ ts.appliedrc.com,Possible Cobalt Strike C2 Domain,/match
 ts.ibuilder360.com,Possible Cobalt Strike C2 Domain,/dot.gif
 tsvsnjv.com,Possible Cobalt Strike C2 Domain,/Damage/references/M36H9AYJ6
 up.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
-upbetanetworks.org,Possible Cobalt Strike C2 Domain,/dz
 upcls.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 updalo-1942638394.cos.ap-hongkong.tencent.lat,Possible Cobalt Strike C2 Fronted Domain,/update_wapp2.aspx
 update-services.azureedge.net,Possible Cobalt Strike C2 Domain,/ms-settings-privacy
