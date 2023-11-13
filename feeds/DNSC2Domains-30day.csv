@@ -39,7 +39,6 @@
 "d1am0nd.ddns.net","Possible Cobaltstrike DNS C2 Domain","194.135.17.31","d1am0nd.ddns.net"
 "davantaged.com","Possible Cobaltstrike DNS C2 Domain","34.238.176.99","api-prod.davantaged.com"
 "digihealthlocker.com","Possible Cobaltstrike DNS C2 Domain","54.226.3.99","recommendation.digihealthlocker.com"
-"digitelela.com","Possible Cobaltstrike DNS C2 Domain","64.176.7.118","ns1.digitelela.com"
 "dingtaIk.tk","Possible Cobaltstrike DNS C2 Domain","47.94.43.210","ns1.dingtaIk.tk ns2.dingtaIk.tk"
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "dnslogik.com","Possible Cobaltstrike DNS C2 Domain","107.150.5.221","ns1.dnslogik.com ns2.dnslogik.com"
@@ -75,9 +74,7 @@
 "incididunt.com","Possible Cobaltstrike DNS C2 Domain","104.245.213.48","dns.incididunt.com incididunt.com"
 "industrybankingllc.com","Possible Cobaltstrike DNS C2 Domain","18.223.161.211","quit.industrybankingllc.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
-"itipit.com","Possible Cobaltstrike DNS C2 Domain","3.92.66.160","reward.itipit.com"
 "jangholi.info","Possible Cobaltstrike DNS C2 Domain","188.121.110.191","1.jangholi.info"
-"jd-1111.cn","Possible Cobaltstrike DNS C2 Domain","62.234.13.73","ns1.jd-1111.cn ns2.jd-1111.cn"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "jieinchangan.cn","Possible Cobaltstrike DNS C2 Domain","206.237.1.241","ns1.jieinchangan.cn ns2.jieinchangan.cn"
 "jsdel1vr.com","Possible Cobaltstrike DNS C2 Domain","138.68.129.245","code.jsdel1vr.com enc.jsdel1vr.com scripts.jsdel1vr.com"
@@ -145,4 +142,3 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
-
