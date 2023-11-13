@@ -135,6 +135,7 @@
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
 "we-bank.icu","Possible Cobaltstrike DNS C2 Domain","43.136.113.152","ns1.we-bank.icu ns2.we-bank.icu"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
+"windowsupdate.mom","Possible Cobaltstrike DNS C2 Domain","172.245.81.35","download.windowsupdate.mom"
 "winexmarkets11.com","Possible Cobaltstrike DNS C2 Domain","54.226.51.227","peace.winexmarkets11.com"
 "www1.canadaeast.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www1.canadaeast.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
