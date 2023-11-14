@@ -82,9 +82,7 @@ cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/boxes.css,167.179.99.125
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css,167.179.99.125
 cityoall.com,Possible Cobalt Strike C2 Domain,/visit.js,104.223.121.37
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3,101.35.4.152
-cloudhoststatic.com,Possible Cobalt Strike C2 Domain,/Consolidate/v9.44/UBXP14P3YA,158.255.213.215
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
-cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
 cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/,5.255.114.119
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,34.241.150.254
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
@@ -144,7 +142,6 @@ domline.online,Possible Cobalt Strike C2 Domain,/owa/,91.92.246.43
 dot.healthtricks101.com,Possible Cobalt Strike C2 Domain,/j.ad,18.204.15.103
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
-download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,79.110.62.156
 download.windowsupdate.mom,Possible Cobalt Strike C2 Domain,/update/data.aspx,172.245.81.35
 downsexv.com,Possible Cobalt Strike C2 Domain,/api/3,146.56.118.82
