@@ -204,6 +204,7 @@ mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.ph
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3,146.56.118.82
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,76.74.127.144
+netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,76.74.127.145
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.49.116
 note.jianshu.com,Possible Cobalt Strike C2 Fronting Domain,/azure/api/v2/userinfo/get,39.107.250.164
