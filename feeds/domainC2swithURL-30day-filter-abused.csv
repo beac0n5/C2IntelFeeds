@@ -24,6 +24,7 @@ awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.
 bacon.danger-zone.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 baltlifeapp.com,Possible Cobalt Strike C2 Domain,/d_config
 betshopkipstri.com,Possible Cobalt Strike C2 Domain,/pixel
+bibogajan.network,Possible Cobalt Strike C2 Fronted Domain,/ki.js
 bismillahsolutions.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -349,7 +350,7 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-gw6u6362-1318524606.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-i90zbgul-1300518372.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/__utm.gif
+service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-lj2mtzly-1318135905.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x

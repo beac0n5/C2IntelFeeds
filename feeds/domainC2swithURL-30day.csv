@@ -26,6 +26,7 @@ bacon.danger-zone.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 baltlifeapp.com,Possible Cobalt Strike C2 Domain,/d_config
 betshopkipstri.com,Possible Cobalt Strike C2 Domain,/pixel
+bibogajan.network,Possible Cobalt Strike C2 Fronted Domain,/ki.js
 bismillahsolutions.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -355,7 +356,7 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-gw6u6362-1318524606.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-i90zbgul-1300518372.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/__utm.gif
+service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-lj2mtzly-1318135905.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -394,6 +395,7 @@ ticketbox23.com,Possible Cobalt Strike C2 Domain,/promote/php/KZW7D2J79GK
 ts.appliedrc.com,Possible Cobalt Strike C2 Domain,/match
 ts.ibuilder360.com,Possible Cobalt Strike C2 Domain,/dot.gif
 tsvsnjv.com,Possible Cobalt Strike C2 Domain,/Damage/references/M36H9AYJ6
+twitter.com,Possible Cobalt Strike C2 Fronting Domain,/ki.js
 up.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 upcls.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 updalo-1942638394.cos.ap-hongkong.tencent.lat,Possible Cobalt Strike C2 Fronted Domain,/update_wapp2.aspx
