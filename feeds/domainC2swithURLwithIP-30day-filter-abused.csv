@@ -35,6 +35,7 @@ c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,124.220.29.161
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/fwlink,121.40.119.94
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search,38.180.78.177
 cambiardinero.com,Possible Cobalt Strike C2 Fronted Domain,/user/admin,161.35.218.255
+campaign.dchalegal.com,Possible Cobalt Strike C2 Domain,/j.ad,3.15.148.108
 canadaforestry.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.178.76.170
 card.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js,43.138.10.93
 carepassmedservices.com,Possible Cobalt Strike C2 Fronted Domain,/search,45.134.225.249
@@ -318,7 +319,6 @@ poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,18.221.245.196
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,3.135.234.20
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.18
-push-gnb.azureedge.net,Possible Cobalt Strike C2 Domain,/owa/,165.22.230.16
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,119.91.31.246
 qaq.social,Possible Cobalt Strike C2 Domain,/api/3,139.196.136.202
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3,47.243.104.189
@@ -338,7 +338,6 @@ ringatpstul.com,Possible Cobalt Strike C2 Domain,/dot.gif,38.60.251.60
 road.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad,54.237.14.58
 rockpython.xyz,Possible Cobalt Strike C2 Domain,/match,192.46.232.181
 rokllofrold29.com,Possible Cobalt Strike C2 Domain,/Upset/v3.22/WGRDACX3,194.165.17.9
-rokllofrold29.com,Possible Cobalt Strike C2 Domain,/Upset/v3.22/WGRDACX3,88.214.25.250
 rokllold279.com,Possible Cobalt Strike C2 Domain,/display/cgi-sys/KV0L5VRPLUTU,5.8.18.230
 rss.controlcavi.com,Possible Cobalt Strike C2 Domain,/_/SubscriptionsManagementUi/data/batchexecute,84.32.131.0
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css,138.68.129.245
