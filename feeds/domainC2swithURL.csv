@@ -37,7 +37,6 @@ databasewebdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search
 demandonet.com,Possible PoshC2 Fronting Domain,//Philips/v902/
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
-dev.theokanegroup.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -172,6 +171,7 @@ permit.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search
+pwn.safetygarden.ru,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3
 qq.monolthicpower.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
