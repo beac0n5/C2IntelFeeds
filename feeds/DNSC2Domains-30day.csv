@@ -35,6 +35,7 @@
 "controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","rss.controlcavi.com"
 "corpais900.co","Possible Cobaltstrike DNS C2 Domain","45.136.255.189","ns1.corpais900.co ns2.corpais900.co"
 "credsera.org","Possible Cobaltstrike DNS C2 Domain","5.255.114.119","cms.credsera.org"
+"crnbchina.top","Possible Cobaltstrike DNS C2 Domain","47.242.37.176","ns1.crnbchina.top ns2.crnbchina.top"
 "cstest.buzz","Possible Cobaltstrike DNS C2 Domain","103.234.72.147","dns.cstest.buzz"
 "cuphandles.com","Possible Cobaltstrike DNS C2 Domain","18.223.190.169","explanation.cuphandles.com"
 "d1am0nd.ddns.net","Possible Cobaltstrike DNS C2 Domain","194.135.17.31","d1am0nd.ddns.net"
@@ -144,4 +145,3 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
-
