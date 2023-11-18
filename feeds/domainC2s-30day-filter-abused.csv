@@ -171,6 +171,7 @@ mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
 mociyijame.us,Possible Cobalt Strike C2 Fronted Domain
 mom.pain.capetown,Possible Cobalt Strike C2 Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+mricossoftmanager.info,Possible Cobalt Strike C2 Domain
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
@@ -374,8 +375,6 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
-update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain
-update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain
 update.twittermisc.com,Possible Cobalt Strike C2 Fronted Domain
 update.windows-push.com,Possible Cobalt Strike C2 Domain
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain

@@ -48,7 +48,6 @@ dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/activity
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/dpixel
-dns.microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif
 dns.ncats.link,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2019/12/E0IPnB4QohY9aXRGrE
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/dpixel
@@ -95,6 +94,7 @@ many.praccountingandtax.com,Possible Cobalt Strike C2 Domain,/j.ad
 microsoft.updatestore.live,Possible Cobalt Strike C2 Fronted Domain,/metro91/admin/1/ppptp.jpg
 microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif
 mom.pain.capetown,Possible Cobalt Strike C2 Domain,/push
+mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.manager.moonlighter.space,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
@@ -205,7 +205,6 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-lj2mtzly-1318135905.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit

@@ -192,6 +192,7 @@ mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,64.176.42.217
 mociyijame.us,Possible Cobalt Strike C2 Fronted Domain,/boxes,172.93.179.253
 mom.pain.capetown,Possible Cobalt Strike C2 Domain,/push,95.142.40.85
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
+mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/,88.119.169.58
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3,146.56.118.82
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,76.74.127.144
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,76.74.127.145
@@ -403,8 +404,6 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,4
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
-update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,198.144.187.19
-update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,198.144.187.19
 update.twittermisc.com,Possible Cobalt Strike C2 Fronted Domain,/check,150.109.103.16
 update.windows-push.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.66.230.74
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.95.15.23

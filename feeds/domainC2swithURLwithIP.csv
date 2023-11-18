@@ -51,7 +51,6 @@ dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/dot.gif,103.234.72.147
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/activity,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/dpixel,104.245.213.48
-dns.microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif,3.95.172.216
 dns.ncats.link,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2019/12/E0IPnB4QohY9aXRGrE,57.180.177.13
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx,198.98.57.123
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/dpixel,173.249.201.170
@@ -98,6 +97,7 @@ many.praccountingandtax.com,Possible Cobalt Strike C2 Domain,/j.ad,3.145.101.221
 microsoft.updatestore.live,Possible Cobalt Strike C2 Fronted Domain,/metro91/admin/1/ppptp.jpg,52.204.111.102
 microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif,3.95.172.216
 mom.pain.capetown,Possible Cobalt Strike C2 Domain,/push,95.142.40.85
+mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/,88.119.169.58
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,76.74.127.144
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,76.74.127.145
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
@@ -210,7 +210,6 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.158.218
 service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,47.108.198.218
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.40.126.71
-service-lj2mtzly-1318135905.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.222.54.66
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel,49.232.24.38
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,129.211.222.142
