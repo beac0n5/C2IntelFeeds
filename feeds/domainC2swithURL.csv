@@ -46,7 +46,7 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/activity
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
-dns.incididunt.com,Possible Cobalt Strike C2 Domain,/dpixel
+dns.incididunt.com,Possible Cobalt Strike C2 Domain,/cx
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/dpixel
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
@@ -95,6 +95,7 @@ mom.pain.capetown,Possible Cobalt Strike C2 Domain,/push
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
+ns.controlcavi.com,Possible Cobalt Strike C2 Domain,/_/SubscriptionsManagementUi/data/batchexecute
 ns.manager.moonlighter.space,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 ns.mydhx.top,Possible Cobalt Strike C2 Domain,/j.ad
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
@@ -166,7 +167,6 @@ res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/dot.gif
 road.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad
 rockpython.xyz,Possible Cobalt Strike C2 Domain,/match
-rss.controlcavi.com,Possible Cobalt Strike C2 Domain,/_/SubscriptionsManagementUi/data/batchexecute
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
@@ -189,7 +189,7 @@ service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ptj
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain,/search
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
