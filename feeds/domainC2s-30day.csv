@@ -106,6 +106,8 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain
 dns1.4399tv.net,Possible Cobalt Strike C2 Domain
 dns2.4399tv.net,Possible Cobalt Strike C2 Domain
+dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain
+dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain
 dnslog.twittermisc.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 do1qi.ntttd.com,Possible PoshC2 Domain
@@ -166,7 +168,6 @@ mahamaya1ifesciences.com,Possible Cobalt Strike C2 Fronting Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 manager.moonlighter.space,Possible Cobalt Strike C2 Domain
 many.praccountingandtax.com,Possible Cobalt Strike C2 Domain
-medtechgroups.com,Possible Cobalt Strike C2 Domain
 meetlak.link,Possible Cobalt Strike C2 Domain
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
 microsoft.updatestore.live,Possible Cobalt Strike C2 Fronted Domain
@@ -303,7 +304,6 @@ richusaprod.azurewebsites.net,Possible Cobalt Strike C2 Domain
 ringatpstul.com,Possible Cobalt Strike C2 Domain
 road.peerscash.com,Possible Cobalt Strike C2 Domain
 rockpython.xyz,Possible Cobalt Strike C2 Domain
-rokllofrold29.com,Possible Cobalt Strike C2 Domain
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain
 sebasticookhospital.org,Possible Cobalt Strike C2 Domain
 sec.sangforssl.xyz,Possible Cobalt Strike C2 Domain
