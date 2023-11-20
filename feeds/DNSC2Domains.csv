@@ -17,6 +17,7 @@
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
 "ceshi897.cn","Possible Cobaltstrike DNS C2 Domain","45.152.67.162","www1.ceshi897.cn www2.ceshi897.cn www3.ceshi897.cn"
+"charitykp.info","Possible Cobaltstrike DNS C2 Domain","47.251.36.32","check.mis.charitykp.info login.mis.charitykp.info update.mis.charitykp.info"
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"
 "chintelecom.com.cn","Possible Cobaltstrike DNS C2 Domain","43.138.20.240","hw.chintelecom.com.cn"
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"

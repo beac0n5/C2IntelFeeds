@@ -21,6 +21,7 @@
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
 "ceshi897.cn","Possible Cobaltstrike DNS C2 Domain","45.152.67.162","www1.ceshi897.cn www2.ceshi897.cn www3.ceshi897.cn"
+"charitykp.info","Possible Cobaltstrike DNS C2 Domain","47.251.36.32","check.mis.charitykp.info login.mis.charitykp.info update.mis.charitykp.info"
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"
 "chinare.cf","Possible Cobaltstrike DNS C2 Domain","129.150.43.163","ns.chinare.cf"
 "chintelecom.com.cn","Possible Cobaltstrike DNS C2 Domain","43.138.20.240","hw.chintelecom.com.cn"
@@ -101,7 +102,7 @@
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "nanyafpg.com","Possible Cobaltstrike DNS C2 Domain","52.195.16.11","ns88.nanyafpg.com"
 "ncats.link","Possible Cobaltstrike DNS C2 Domain","57.180.177.13","dns.ncats.link"
-"ndgnetlabs.com","Possible Cobaltstrike DNS C2 Domain","13.58.48.135 13.59.217.103 18.219.71.131 18.221.245.196 3.135.234.20","cdn.ndgnetlabs.com poop.ndgnetlabs.com"
+"ndgnetlabs.com","Possible Cobaltstrike DNS C2 Domain","13.58.48.135 13.59.217.103 18.219.71.131 18.221.245.196 3.135.234.20","cdn.ndgnetlabs.com poop.ndgnetlabs.com "
 "noranekoheart.top","Possible Cobaltstrike DNS C2 Domain","173.249.201.170 198.98.57.123","dns.noranekoheart.top"
 "obenkyou.site","Possible Cobaltstrike DNS C2 Domain","142.171.221.6","ns1.obenkyou.site ns2.obenkyou.site"
 "osslog.com","Possible Cobaltstrike DNS C2 Domain","167.179.74.154","a.osslog.com"
@@ -143,3 +144,4 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
+
