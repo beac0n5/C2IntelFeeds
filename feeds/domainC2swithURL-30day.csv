@@ -349,7 +349,7 @@ service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-p1lbi0ix-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 setrester.com,Possible Cobalt Strike C2 Domain,/stop/v6.62/B6B0LQMJ
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ga.js
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain,/search
@@ -366,6 +366,7 @@ ticketbox23.com,Possible Cobalt Strike C2 Domain,/promote/php/KZW7D2J79GK
 ts.appliedrc.com,Possible Cobalt Strike C2 Domain,/match
 ts.ibuilder360.com,Possible Cobalt Strike C2 Domain,/dot.gif
 twitter.com,Possible Cobalt Strike C2 Fronting Domain,/ki.js
+twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 up.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 updalo-1942638394.cos.ap-hongkong.tencent.lat,Possible Cobalt Strike C2 Fronted Domain,/update_wapp2.aspx
 update-services.azureedge.net,Possible Cobalt Strike C2 Domain,/ms-settings-privacy
