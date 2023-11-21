@@ -189,7 +189,7 @@ microsoft.updatestore.live,Possible Cobalt Strike C2 Fronted Domain,/metro91/adm
 microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif,3.95.172.216
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,64.176.42.217
-mom.pain.capetown,Possible Cobalt Strike C2 Domain,/push,95.142.40.85
+mom.pain.capetown,Possible Cobalt Strike C2 Domain,/pixel,95.142.40.85
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/,88.119.169.58
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3,146.56.118.82
@@ -380,7 +380,6 @@ ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search,38.54.101.95
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/pages.jsp,43.138.52.211
 t.takaelot.com,Possible Cobalt Strike C2 Domain,/j.ad,46.101.108.125
-tadkadfads.beauty,Possible Cobalt Strike C2 Domain,/api/3,101.43.10.123
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif,154.83.17.116
 test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.245.117.155
@@ -397,6 +396,7 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,4
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
+update.microsoftus.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.8.145.80
 update.mis.charitykp.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.251.36.32
 update.twittermisc.com,Possible Cobalt Strike C2 Fronted Domain,/check,150.109.103.16
 update.windows-push.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.66.230.74

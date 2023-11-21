@@ -172,7 +172,7 @@ microsoft.updatestore.live,Possible Cobalt Strike C2 Fronted Domain,/metro91/adm
 microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
-mom.pain.capetown,Possible Cobalt Strike C2 Domain,/push
+mom.pain.capetown,Possible Cobalt Strike C2 Domain,/pixel
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -356,7 +356,6 @@ ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/pages.jsp
 t.takaelot.com,Possible Cobalt Strike C2 Domain,/j.ad
-tadkadfads.beauty,Possible Cobalt Strike C2 Domain,/api/3
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match
@@ -372,6 +371,7 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
+update.microsoftus.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.mis.charitykp.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.twittermisc.com,Possible Cobalt Strike C2 Fronted Domain,/check
 update.windows-push.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
