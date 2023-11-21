@@ -284,6 +284,7 @@ permit.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad
 piac.elsewhens.org,Possible Cobalt Strike C2 Domain,/ptj
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
+pos.inostage.ru,Possible PoshC2 Fronting Domain,/wpaas/load.php/
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/nv.js
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search
 pwn.safetygarden.ru,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
