@@ -12,6 +12,8 @@ anservusa.com,Possible Cobalt Strike C2 Domain,/panel
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
+apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 app.jinnahinternational.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 as.svcregsvr.com,Possible Cobalt Strike C2 Domain,/bg
 aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain,/activity
@@ -74,7 +76,7 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/activity
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
-dns.incididunt.com,Possible Cobalt Strike C2 Domain,/cx
+dns.incididunt.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 dns.microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif
 dns.ncats.link,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2019/12/E0IPnB4QohY9aXRGrE
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx
@@ -118,7 +120,7 @@ hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 igo0gle.com,Possible Cobalt Strike C2 Domain,/produce/v5.96/17NUIT3F7W
-incididunt.com,Possible Cobalt Strike C2 Domain,/activity
+incididunt.com,Possible Cobalt Strike C2 Domain,/push
 income.greenlandpharmacy.org,Possible Cobalt Strike C2 Domain,/j.ad
 india.tosoh.cloudns.ph,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 info.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
@@ -300,6 +302,7 @@ service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
 service-m2easdvn-1303971391.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-ndozu6av-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905

@@ -14,6 +14,8 @@ anservusa.com,Possible Cobalt Strike C2 Domain,/panel,66.63.188.3
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity,47.75.108.68
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/,161.35.24.190
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.242.203.102
+apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.92.67.152
+apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.67.152
 app.jinnahinternational.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
 as.svcregsvr.com,Possible Cobalt Strike C2 Domain,/bg,5.188.87.41
 aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain,/activity,178.128.193.49
@@ -84,7 +86,7 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel,104.223.121.37
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/dot.gif,103.234.72.147
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/activity,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
-dns.incididunt.com,Possible Cobalt Strike C2 Domain,/cx,104.245.213.48
+dns.incididunt.com,Possible Cobalt Strike C2 Domain,/pixel.gif,104.245.213.48
 dns.microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif,3.95.172.216
 dns.ncats.link,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2019/12/E0IPnB4QohY9aXRGrE,57.180.177.13
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx,198.98.57.123
@@ -129,7 +131,7 @@ hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates,43.138.20.240
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,103.16.231.87
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 igo0gle.com,Possible Cobalt Strike C2 Domain,/produce/v5.96/17NUIT3F7W,81.19.138.95
-incididunt.com,Possible Cobalt Strike C2 Domain,/activity,104.245.213.48
+incididunt.com,Possible Cobalt Strike C2 Domain,/push,104.245.213.48
 income.greenlandpharmacy.org,Possible Cobalt Strike C2 Domain,/j.ad,54.197.46.140
 india.tosoh.cloudns.ph,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,94.131.8.31
 info.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js,43.138.10.93
@@ -316,6 +318,7 @@ service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,111.231.21.154
 service-m2easdvn-1303971391.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,139.224.206.244
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
+service-ndozu6av-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.163.194.174
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel,49.232.24.38
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,129.211.222.142
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905,114.132.156.55
