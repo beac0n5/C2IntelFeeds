@@ -162,7 +162,6 @@ redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink,66.113.100.10
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/dot.gif,38.60.251.60
 road.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad,54.237.14.58
-rockpython.xyz,Possible Cobalt Strike C2 Domain,/match,192.46.232.181
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css,138.68.129.245
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity,190.123.44.150
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
@@ -214,3 +213,4 @@ www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson,52.229.108.220
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
+wwwrecaro.com,Possible PoshC2 Domain,/load/pages/index.php/,18.222.5.8
