@@ -302,7 +302,7 @@ service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
 setrester.com,Possible Cobalt Strike C2 Domain,/stop/v6.62/B6B0LQMJ
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ga.js
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain,/search
