@@ -61,8 +61,6 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/cx,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/cx,8.140.135.23
 cs.10011.fun,Possible Cobalt Strike C2 Domain,/match,104.194.233.213
-cs1.accountsync.net,Possible Cobalt Strike C2 Domain,/api/1.1/1dc954cb,24.137.215.159
-cs1.accountsync.net,Possible Cobalt Strike C2 Domain,/api/1.1/1dc954cb,72.142.102.158
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,44.200.80.224
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
 d22h19icfueroa.cloudfront.net,Possible Cobalt Strike C2 Domain,/ca,44.198.16.37
@@ -154,7 +152,6 @@ many.praccountingandtax.com,Possible Cobalt Strike C2 Domain,/j.ad,3.145.101.221
 meetlak.link,Possible Cobalt Strike C2 Domain,/api/3,139.159.196.229
 microsoft.updatestore.live,Possible Cobalt Strike C2 Fronted Domain,/metro91/admin/1/ppptp.jpg,52.204.111.102
 microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif,3.95.172.216
-mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,64.176.42.217
 mom.pain.capetown,Possible Cobalt Strike C2 Domain,/pixel,95.142.40.85
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/,88.119.169.58
 nc1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3,146.56.118.82
