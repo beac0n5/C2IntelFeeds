@@ -31,8 +31,8 @@ cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/cx
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/cx
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/pixel.gif
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/pixel.gif
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search
