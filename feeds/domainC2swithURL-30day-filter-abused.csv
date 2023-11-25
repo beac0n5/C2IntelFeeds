@@ -168,7 +168,7 @@ ns1.bre1ce.top,Possible Cobalt Strike C2 Domain,/ptj
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns1.dingtaIk.tk,Possible Cobalt Strike C2 Domain,/updates
+ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns1.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
 ns1.domainsec.club,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns1.downsexv.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -182,14 +182,18 @@ ns1.jieinchangan.cn,Possible Cobalt Strike C2 Domain,/load
 ns1.microsoft2888.top,Possible Cobalt Strike C2 Domain,/visit.js
 ns1.mikrokredit.shop,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js
 ns1.obenkyou.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.onesdriveupdate.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.pebrord.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ns1.pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ns1.sangfor911.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.sangforssl.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.scalaganai.buzz,Possible Cobalt Strike C2 Domain,/j.ad
 ns1.siegemachine.cn,Possible Cobalt Strike C2 Domain,/activity
+ns1.vip404.eu.org,Possible Cobalt Strike C2 Domain,/updates.rss
 ns1.we-bank.icu,Possible Cobalt Strike C2 Domain,/introduction/edr
 ns1.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/__utm.gif
+ns1.xtest.asia,Possible Cobalt Strike C2 Domain,/cm
 ns1.xvmp.eu.org,Possible Cobalt Strike C2 Domain,/pixel
 ns1.zengjunhe.top,Possible Cobalt Strike C2 Domain,/fwlink
 ns18.clsr.ca,Possible Cobalt Strike C2 Domain,/dot.gif
@@ -204,7 +208,7 @@ ns2.bingapp.cloudns.nz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns2.dingtaIk.tk,Possible Cobalt Strike C2 Domain,/updates
+ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns2.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
 ns2.fcdncloud.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
@@ -213,10 +217,13 @@ ns2.gdcmxy.xyz,Possible Cobalt Strike C2 Domain,/load
 ns2.jieinchangan.cn,Possible Cobalt Strike C2 Domain,/pixel
 ns2.mikrokredit.shop,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js
 ns2.obenkyou.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns2.onesdriveupdate.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.sangfor911.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.sangforssl.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns2.scalaganai.buzz,Possible Cobalt Strike C2 Domain,/visit.js
 ns2.siegemachine.cn,Possible Cobalt Strike C2 Domain,/ca
 ns2.tosohindia.cloudns.nz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns2.vip404.eu.org,Possible Cobalt Strike C2 Domain,/cx
 ns2.we-bank.icu,Possible Cobalt Strike C2 Domain,/introduction/edr
 ns2.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns2.zengjunhe.top,Possible Cobalt Strike C2 Domain,/ca
@@ -227,6 +234,7 @@ ns3.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 ns3.ga0.co,Possible Cobalt Strike C2 Domain,/help
 ns3.sangfor911.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns3.sangforssl.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns3.vip404.eu.org,Possible Cobalt Strike C2 Domain,/j.ad
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/match
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -238,6 +246,7 @@ nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 oak-d5fmc3bzezh2dwhk.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/ClientWebService
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
+one.gxzf.site,Possible Cobalt Strike C2 Domain,/clemente/details
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/g.pixel
 pay1.ptsecurity.net,Possible Cobalt Strike C2 Domain,/j.ad
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -247,6 +256,7 @@ pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 pos.inostage.ru,Possible PoshC2 Fronting Domain,/wpaas/load.php/
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/nv.js
+primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 pro.gamorastudio.com,Possible Cobalt Strike C2 Domain,/search
 pwn.safetygarden.ru,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
