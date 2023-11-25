@@ -25,7 +25,7 @@
 "charitykp.info","Possible Cobaltstrike DNS C2 Domain","47.251.36.32","check.mis.charitykp.info login.mis.charitykp.info update.mis.charitykp.info"
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"
 "chinare.cf","Possible Cobaltstrike DNS C2 Domain","129.150.43.163","ns.chinare.cf"
-"chintelecom.com.cn","Possible Cobaltstrike DNS C2 Domain","43.138.20.240","hw.chintelecom.com.cn"
+"chintelecom.com.cn","Possible Cobaltstrike DNS C2 Domain","43.138.20.240", "hw.chintelecom.com.cn"
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
 "chtcom.tw","Possible Cobaltstrike DNS C2 Domain","35.76.124.230","nsss.chtcom.tw"
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
@@ -145,4 +145,3 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
-
