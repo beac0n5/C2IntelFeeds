@@ -26,7 +26,7 @@
 "cloudns.ph","Possible Cobaltstrike DNS C2 Domain","94.131.8.31","india.tosoh.cloudns.ph"
 "clsr.ca","Possible Cobaltstrike DNS C2 Domain","178.128.193.49","ns18.clsr.ca"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
-"controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","ns.controlcavi.com rss.controlcavi.com"
+"controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","ns.controlcavi.com"
 "credsera.org","Possible Cobaltstrike DNS C2 Domain","5.255.114.119","cms.credsera.org"
 "crnbchina.top","Possible Cobaltstrike DNS C2 Domain","47.242.37.176","ns1.crnbchina.top ns2.crnbchina.top"
 "d1am0nd.ddns.net","Possible Cobaltstrike DNS C2 Domain","194.135.17.31","d1am0nd.ddns.net"
@@ -96,6 +96,7 @@
 "thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
 "vip404.eu.org","Possible Cobaltstrike DNS C2 Domain","114.115.157.144","ns1.vip404.eu.org ns2.vip404.eu.org ns3.vip404.eu.org"
+"we-bank.icu","Possible Cobaltstrike DNS C2 Domain","43.136.113.152","ns1.we-bank.icu ns2.we-bank.icu"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "windowsupdate.mom","Possible Cobaltstrike DNS C2 Domain","172.245.81.35","download.windowsupdate.mom"
 "winexmarkets11.com","Possible Cobaltstrike DNS C2 Domain","54.226.51.227","peace.winexmarkets11.com"
@@ -105,4 +106,3 @@
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
