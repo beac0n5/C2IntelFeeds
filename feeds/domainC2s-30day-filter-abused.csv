@@ -14,7 +14,6 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 app.jinnahinternational.org,Possible Cobalt Strike C2 Domain
-as.svcregsvr.com,Possible Cobalt Strike C2 Domain
 aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain
 bacon.danger-zone.net,Possible Cobalt Strike C2 Fronted Domain
 bibogajan.network,Possible Cobalt Strike C2 Fronted Domain
@@ -140,7 +139,6 @@ nc1.downsexv.com,Possible Cobalt Strike C2 Domain
 netskope0.azureedge.net,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 ns.365ub.cn,Possible Cobalt Strike C2 Domain
-ns.b1ing.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
 ns.chinare.cf,Possible Cobalt Strike C2 Domain
 ns.controlcavi.com,Possible Cobalt Strike C2 Domain
@@ -257,7 +255,6 @@ pycharm-edu.us,Possible Cobalt Strike C2 Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
 qq.monolthicpower.com,Possible Cobalt Strike C2 Domain
 quit.industrybankingllc.com,Possible Cobalt Strike C2 Domain
-qw.svcregsvr.com,Possible Cobalt Strike C2 Domain
 rand.ptsecurity.net,Possible Cobalt Strike C2 Domain
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
@@ -291,6 +288,7 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-l3k4wvla-1322622051.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-lj2mtzly-1318135905.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-m2easdvn-1303971391.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -336,7 +334,6 @@ webmail.gpuxdrv.com,Possible Cobalt Strike C2 Domain
 wordst7512.net,Possible Cobalt Strike C2 Domain
 wordstt182.com,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
-wuxay.top,Possible Cobalt Strike C2 Domain
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain
 www.domainsec.club,Possible Cobalt Strike C2 Domain
@@ -357,4 +354,3 @@ wwwrecaro.com,Possible PoshC2 Domain
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain
 zamtel.co.zm.global.prod.fastly.net,Possible Cobalt Strike C2 Domain
 zhsq.ppctech.xyz,Possible Cobalt Strike C2 Domain
-zx.svcregsvr.com,Possible Cobalt Strike C2 Domain
