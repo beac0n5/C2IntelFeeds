@@ -191,7 +191,7 @@ service-ndozu6av-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/activity
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain,/search
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
@@ -221,4 +221,5 @@ www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wwwrecaro.com,Possible PoshC2 Fronting Domain,/load/pages/index.php/
-yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/push
+wylns.matrika.cn,Possible Cobalt Strike C2 Domain,/ptj
+yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/ga.js

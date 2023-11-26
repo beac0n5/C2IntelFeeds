@@ -300,7 +300,7 @@ service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
 setrester.com,Possible Cobalt Strike C2 Domain,/stop/v6.62/B6B0LQMJ
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/activity
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain,/search
@@ -331,7 +331,6 @@ verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx
 viapaths.co.uk,Possible Cobalt Strike C2 Domain,/resources/main.js
 viewservice.org,Possible PoshC2 Fronting Domain,/usersync/tradedesk/
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
-volkswagenvansuk.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 webmail.gpuxdrv.com,Possible Cobalt Strike C2 Domain,/uG
 wordst7512.net,Possible Cobalt Strike C2 Domain,/promote/v10.26/GMLZ7S5R7Z3
 wordstt182.com,Possible Cobalt Strike C2 Domain,/develop/v5.10/M3HCONPDRLQ
@@ -353,6 +352,7 @@ www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wwwrecaro.com,Possible PoshC2 Fronting Domain,/load/pages/index.php/
-yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/push
+wylns.matrika.cn,Possible Cobalt Strike C2 Domain,/ptj
+yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/ga.js
 zamtel.co.zm.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/start/proxy/NX9PPCCU7UFT
 zhsq.ppctech.xyz,Possible Cobalt Strike C2 Domain,/Microsoft/owa/
