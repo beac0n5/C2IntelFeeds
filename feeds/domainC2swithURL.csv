@@ -32,8 +32,8 @@ cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/dot.gif
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/dot.gif
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/ca
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 d0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif
 d1.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif
@@ -216,6 +216,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
+www.qzyp.buzz,Possible Cobalt Strike C2 Domain,/j.ad
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

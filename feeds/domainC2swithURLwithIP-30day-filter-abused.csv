@@ -50,7 +50,7 @@ clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.2
 cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/,5.255.114.119
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css,138.68.129.245
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/dot.gif,8.140.135.23
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca,8.140.135.23
 cs.10011.fun,Possible Cobalt Strike C2 Domain,/match,104.194.233.213
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,44.200.80.224
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
@@ -343,6 +343,7 @@ www.domainsec.club,Possible Cobalt Strike C2 Domain,/__utm.gif,92.38.178.83
 www.fayevalentine.world,Possible Cobalt Strike C2 Fronted Domain,/jquery.min.js,123.60.43.138
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg,8.210.2.157
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/,81.71.68.50
+www.qzyp.buzz,Possible Cobalt Strike C2 Domain,/j.ad,47.113.218.234
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js,47.242.203.102
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
 www.xss.mba,Possible Cobalt Strike C2 Domain,/match,58.51.152.18

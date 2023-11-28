@@ -32,8 +32,8 @@ cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/,5.255.114.119
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 code.jsdel1vr.com,Possible Cobalt Strike C2 Domain,/npm/fullpage.js@2.9.7/dist/jquery.fullpage.min.css,138.68.129.245
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/dot.gif,8.140.135.23
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/dot.gif,8.140.135.23
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/ca,8.140.135.23
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca,8.140.135.23
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,44.200.80.224
 d0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif,165.169.94.43
 d1.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif,165.169.94.43
@@ -219,6 +219,7 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3,121.43.188.26
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3,39.100.83.53
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg,8.210.2.157
+www.qzyp.buzz,Possible Cobalt Strike C2 Domain,/j.ad,47.113.218.234
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb,52.229.108.220
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
