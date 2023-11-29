@@ -8,7 +8,7 @@
 "amazon-shopping.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.245","cdn.amazon-shopping.nl"
 "anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.211.18.108","ns1.anaitea.com ns2.anaitea.com"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
-"baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","106.54.228.198" ,"ns1.baidu12366.xyz"
+"baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","106.54.228.198","ns1.baidu12366.xyz"
 "beta-microsoft.com","Possible Cobaltstrike DNS C2 Domain","172.93.165.117","ns1.beta-microsoft.com ns2.beta-microsoft.com"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "bphsearch.com","Possible Cobaltstrike DNS C2 Domain","216.120.201.106","ssa.bphsearch.com"
