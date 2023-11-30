@@ -17,6 +17,7 @@ block.health-degree.com,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
 cache.thorjane.com,Possible Cobalt Strike C2 Domain
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain
+cc.emergency-coms.com,Possible PoshC2 Domain
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
@@ -34,7 +35,6 @@ content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain
-demandonet.com,Possible PoshC2 Domain
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
