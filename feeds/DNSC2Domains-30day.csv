@@ -68,7 +68,6 @@
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jangholi.info","Possible Cobaltstrike DNS C2 Domain","188.121.110.191","1.jangholi.info"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
-"jieinchangan.cn","Possible Cobaltstrike DNS C2 Domain","206.237.1.241","ns1.jieinchangan.cn ns2.jieinchangan.cn"
 "jinnahinternational.org","Possible Cobaltstrike DNS C2 Domain","192.248.177.82","app.jinnahinternational.org check-in.jinnahinternational.org login.jinnahinternational.org"
 "jsdel1vr.com","Possible Cobaltstrike DNS C2 Domain","138.68.129.245","code.jsdel1vr.com enc.jsdel1vr.com scripts.jsdel1vr.com"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
@@ -122,8 +121,8 @@
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "sunsetwxllc.com","Possible Cobaltstrike DNS C2 Domain","38.54.45.144","dc.sunsetwxllc.com"
 "superpeggy.com","Possible Cobaltstrike DNS C2 Domain","68.170.2.60","spf1.superpeggy.com"
-"takaelot.com","Possible Cobaltstrike DNS C2 Domain","46.101.108.125","t.takaelot.com"
 "thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
+"tmuh-tw.one","Possible Cobaltstrike DNS C2 Domain","143.198.199.241","tmuh.tmuh-tw.one"
 "twittermisc.com","Possible Cobaltstrike DNS C2 Domain","150.109.103.16","dnslog.twittermisc.com"
 "union-pay.vip","Possible Cobaltstrike DNS C2 Domain","43.138.10.93","card.union-pay.vip info.union-pay.vip life.union-pay.vip up.union-pay.vip"
 "unirorm.xyz","Possible Cobaltstrike DNS C2 Domain","124.220.29.161","c1.unirorm.xyz"
@@ -141,3 +140,4 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
+
