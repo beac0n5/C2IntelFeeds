@@ -169,7 +169,7 @@ rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink,66.113.100.100
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
-s1.rsrc.eu.org,Possible Cobalt Strike C2 Domain,/fwlink,168.138.178.209
+s1.rsrc.eu.org,Possible Cobalt Strike C2 Domain,/en_US/all.js,168.138.178.209
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity,190.123.44.150
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
 service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,121.43.188.26
@@ -205,6 +205,7 @@ update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
 update.microsoftus.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.8.145.80
+update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_,185.179.216.11
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.95.15.23
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
