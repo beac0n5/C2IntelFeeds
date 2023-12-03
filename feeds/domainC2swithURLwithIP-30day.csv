@@ -57,7 +57,6 @@ ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,44.20
 d0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif,165.169.94.43
 d1.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif,165.169.94.43
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
-d2m9vnw3tqtaju.cloudfront.net,Possible Cobalt Strike C2 Domain,/profile.html,34.199.123.211
 d36nuygiqfjnnv.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/,139.180.156.126
 databasewebdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js,91.103.253.21
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search,38.54.45.144
@@ -318,8 +317,6 @@ summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.245.117.155
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match,82.157.63.28
 tmuh.tmuh-tw.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,143.198.199.241
-ts.appliedrc.com,Possible Cobalt Strike C2 Domain,/match,172.172.32.86
-ts.ibuilder360.com,Possible Cobalt Strike C2 Domain,/dot.gif,172.172.32.86
 twitter.com,Possible Cobalt Strike C2 Fronting Domain,/ki.js,142.202.205.155
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.79.179
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
@@ -339,7 +336,6 @@ viewservice.org,Possible PoshC2 Domain,/usersync/tradedesk/,3.131.100.38
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
 webmail.gpuxdrv.com,Possible Cobalt Strike C2 Domain,/uG,3.254.254.189
-wordstt182.com,Possible Cobalt Strike C2 Domain,/develop/v5.10/M3HCONPDRLQ,167.88.166.109
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain,/__utm.gif,64.227.139.185
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/jquery.js,82.157.145.234
