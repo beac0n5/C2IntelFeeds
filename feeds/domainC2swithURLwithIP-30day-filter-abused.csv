@@ -308,6 +308,7 @@ test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.245.
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match,82.157.63.28
 tmuh.tmuh-tw.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,143.198.199.241
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.79.179
+unzip2.xyz,Possible Cobalt Strike C2 Domain,/api/3,43.134.57.109
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
@@ -324,7 +325,6 @@ viapaths.co.uk,Possible Cobalt Strike C2 Domain,/resources/main.js,138.197.62.89
 viewservice.org,Possible PoshC2 Domain,/usersync/tradedesk/,3.131.100.38
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
-webmail.gpuxdrv.com,Possible Cobalt Strike C2 Domain,/uG,3.254.254.189
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain,/__utm.gif,64.227.139.185
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain,/oscp/,123.60.97.110

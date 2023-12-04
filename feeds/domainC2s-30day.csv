@@ -304,6 +304,7 @@ test.mydhx.top,Possible Cobalt Strike C2 Domain
 tmuh.tmuh-tw.one,Possible Cobalt Strike C2 Domain
 twitter.com,Possible Cobalt Strike C2 Fronting Domain
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain
+unzip2.xyz,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
@@ -319,7 +320,6 @@ verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 viapaths.co.uk,Possible Cobalt Strike C2 Domain
 viewservice.org,Possible PoshC2 Domain
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
-webmail.gpuxdrv.com,Possible Cobalt Strike C2 Domain
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
