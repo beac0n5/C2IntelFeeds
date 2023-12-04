@@ -14,6 +14,8 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain
+baidusec.top,Possible Cobalt Strike C2 Fronted Domain
+biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 bibogajan.network,Possible Cobalt Strike C2 Fronted Domain
 block.health-degree.com,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
@@ -56,6 +58,7 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dnm.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 dns.4399tv.net,Possible Cobalt Strike C2 Domain
+dns.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain
@@ -84,10 +87,12 @@ download.windowsupdate.mom,Possible Cobalt Strike C2 Domain
 downsexv.com,Possible Cobalt Strike C2 Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 dsbrwv9wmb7cj.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
+dsf.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 eas.cqivc.com,Possible Cobalt Strike C2 Fronted Domain
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain
 enc.jsdel1vr.com,Possible Cobalt Strike C2 Domain
 equal.fairtaxcolorado.org,Possible Cobalt Strike C2 Domain
+esg.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain
@@ -314,6 +319,7 @@ viewservice.org,Possible PoshC2 Domain
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
+www.baidusec.top,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain
 www.domainsec.club,Possible Cobalt Strike C2 Domain

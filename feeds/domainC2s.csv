@@ -11,6 +11,8 @@ api.officeserviced.com,Possible Cobalt Strike C2 Domain
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
+baidusec.top,Possible Cobalt Strike C2 Fronted Domain
+biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 block.health-degree.com,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
 cache.thorjane.com,Possible Cobalt Strike C2 Domain
@@ -44,6 +46,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
+dns.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain
@@ -59,10 +62,12 @@ dot.healthtricks101.com,Possible Cobalt Strike C2 Domain
 download.micknow.com,Possible Cobalt Strike C2 Fronted Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 dsbrwv9wmb7cj.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
+dsf.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 eas.cqivc.com,Possible Cobalt Strike C2 Fronted Domain
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain
 equal.fairtaxcolorado.org,Possible Cobalt Strike C2 Domain
+esg.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain
@@ -224,6 +229,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain
+www.baidusec.top,Possible Cobalt Strike C2 Fronting Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.qzyp.buzz,Possible Cobalt Strike C2 Domain

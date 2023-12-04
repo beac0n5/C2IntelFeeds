@@ -11,6 +11,8 @@ api.officeserviced.com,Possible Cobalt Strike C2 Domain,/level/ch/N08U2YSOIU,173
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.242.203.102
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.92.67.152
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.67.152
+baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/panel,62.234.54.38
+biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/FAQ,62.234.54.38
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad,54.145.9.123
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,156.245.19.127
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search,38.180.78.177
@@ -45,6 +47,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
+dns.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/RELEASE,62.234.54.38
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/cm,104.223.121.37
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/match,31.44.184.73
@@ -60,10 +63,12 @@ dot.healthtricks101.com,Possible Cobalt Strike C2 Domain,/j.ad,18.204.15.103
 download.micknow.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 dsbrwv9wmb7cj.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/___utm.gif,165.169.94.43
+dsf.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/RELEASE,62.234.54.38
 eas.cqivc.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.181.228.196
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 equal.fairtaxcolorado.org,Possible Cobalt Strike C2 Domain,/j.ad,18.219.103.66
+esg.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/panel,62.234.54.38
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc,23.95.44.80
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc,23.95.44.80
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel,121.4.155.50
@@ -232,6 +237,9 @@ wpengine.clsr.ca,Possible Cobalt Strike C2 Domain,/__utm.gif,64.227.139.185
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3,121.43.188.26
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3,39.100.83.53
+www.baidusec.top,Possible Cobalt Strike C2 Fronting Domain,/FAQ,62.234.54.38
+www.baidusec.top,Possible Cobalt Strike C2 Fronting Domain,/RELEASE,62.234.54.38
+www.baidusec.top,Possible Cobalt Strike C2 Fronting Domain,/panel,62.234.54.38
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg,8.210.2.157
 www.qzyp.buzz,Possible Cobalt Strike C2 Domain,/j.ad,47.113.218.234
