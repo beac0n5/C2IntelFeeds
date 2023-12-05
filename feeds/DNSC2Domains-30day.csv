@@ -96,7 +96,7 @@
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "nanyafpg.com","Possible Cobaltstrike DNS C2 Domain","52.195.16.11","ns88.nanyafpg.com"
 "ncats.link","Possible Cobaltstrike DNS C2 Domain","57.180.177.13","dns.ncats.link"
-"ndgnetlabs.com","Possible Cobaltstrike DNS C2 Domain","13.58.48.135 13.59.217.103 18.219.71.131 18.221.245.196 3.135.234.20","cdn.ndgnetlabs.com poop.ndgnetlabs.com"
+"ndgnetlabs.com","Possible Cobaltstrike DNS C2 Domain","13.58.48.135 13.59.217.103 18.219.71.131 18.221.245.196 3.135.234.20 ","cdn.ndgnetlabs.com poop.ndgnetlabs.com"
 "noranekoheart.top","Possible Cobaltstrike DNS C2 Domain","173.249.201.170 198.98.57.123","dns.noranekoheart.top"
 "obenkyou.site","Possible Cobaltstrike DNS C2 Domain","142.171.221.6","ns1.obenkyou.site ns2.obenkyou.site"
 "onesdriveupdate.xyz","Possible Cobaltstrike DNS C2 Domain","47.111.65.37","ns1.onesdriveupdate.xyz ns2.onesdriveupdate.xyz"
@@ -139,3 +139,4 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
+
