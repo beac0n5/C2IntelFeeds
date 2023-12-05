@@ -13,6 +13,7 @@ api.officeserviced.com,Possible Cobalt Strike C2 Domain
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
+arbfile.azureedge.net,Possible Cobalt Strike C2 Domain
 aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain
 baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
@@ -47,6 +48,7 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
+d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain
 d36nuygiqfjnnv.cloudfront.net,Possible Cobalt Strike C2 Domain
 databasewebdevelopment.com,Possible Cobalt Strike C2 Domain
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain
@@ -314,7 +316,6 @@ updates.imedicalhub.com,Possible Cobalt Strike C2 Domain
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
-viapaths.co.uk,Possible Cobalt Strike C2 Domain
 viewservice.org,Possible PoshC2 Domain
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain
@@ -324,6 +325,7 @@ www.consumershop.lenovo.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com,Possible Cobalt Strike C2 Fronted Domain
 www.domainsec.club,Possible Cobalt Strike C2 Domain
 www.fayevalentine.world,Possible Cobalt Strike C2 Fronted Domain
+www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.qzyp.buzz,Possible Cobalt Strike C2 Domain
@@ -341,4 +343,3 @@ wwwrecaro.com,Possible PoshC2 Domain
 wylns.matrika.cn,Possible Cobalt Strike C2 Domain
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain
 zamtel.co.zm.global.prod.fastly.net,Possible Cobalt Strike C2 Domain
-zhsq.ppctech.xyz,Possible Cobalt Strike C2 Domain
