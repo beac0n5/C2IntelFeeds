@@ -13,6 +13,7 @@ anservusa.com,Possible Cobalt Strike C2 Domain,/panel,66.63.188.3
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity,47.75.108.68
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/,161.35.24.190
 api.officeserviced.com,Possible Cobalt Strike C2 Domain,/level/ch/N08U2YSOIU,173.82.219.5
+api.taipowers.com,Possible Cobalt Strike C2 Domain,/login,74.48.56.215
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.242.203.102
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.92.67.152
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.67.152
