@@ -52,6 +52,7 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dnslog.twittermisc.com,Possible Cobalt Strike C2 Domain,/check
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+domline.online,Possible Cobalt Strike C2 Domain,/owa/
 download.micknow.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dsbrwv9wmb7cj.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/___utm.gif
