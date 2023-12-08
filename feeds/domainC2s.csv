@@ -41,7 +41,7 @@ d1.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain
-dashboard.help.googli.info,Possible Cobalt Strike C2 Domain
+dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
@@ -54,6 +54,8 @@ dns.cstest.buzz,Possible Cobalt Strike C2 Domain
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
+dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain
+dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 domline.online,Possible Cobalt Strike C2 Domain
@@ -83,7 +85,7 @@ leno.outlookonlines.com,Possible Cobalt Strike C2 Domain
 log.ddm11125.com,Possible Cobalt Strike C2 Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
-login.help.googli.info,Possible Cobalt Strike C2 Domain
+login.help.drb_da.info,Possible Cobalt Strike C2 Domain
 logs.ddm11125.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
@@ -197,7 +199,7 @@ spf1.superpeggy.com,Possible Cobalt Strike C2 Domain
 srns.matrika.cn,Possible Cobalt Strike C2 Domain
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
-swf.help.googli.info,Possible Cobalt Strike C2 Domain
+swf.help.drb_da.info,Possible Cobalt Strike C2 Domain
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain
 unzip2.xyz,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
@@ -225,3 +227,5 @@ www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
 wwwrecaro.com,Possible PoshC2 Domain
+xmr1.vvvvvbeng.com,Possible Cobalt Strike C2 Domain
+xmr2.vvvvvbeng.com,Possible Cobalt Strike C2 Domain

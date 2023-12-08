@@ -57,7 +57,7 @@ d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
 d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/
 d36nuygiqfjnnv.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/
-dashboard.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 databasewebdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search
 demandonet.com,Possible PoshC2 Fronting Domain,//Philips/v902/
@@ -125,7 +125,7 @@ leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 log.ddm11125.com,Possible Cobalt Strike C2 Domain,/Logs
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
-login.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+login.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 login.mis.charitykp.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 logs.ddm11125.com,Possible Cobalt Strike C2 Domain,/api/get_log.txt
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
@@ -306,7 +306,7 @@ srns.matrika.cn,Possible Cobalt Strike C2 Domain,/ptj
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search
 starinteriordesigns.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
-swf.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+swf.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 test.blueteam.asia,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match
 tmuh.tmuh-tw.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -349,5 +349,7 @@ www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wwwrecaro.com,Possible PoshC2 Fronting Domain,/load/pages/index.php/
 wylns.matrika.cn,Possible Cobalt Strike C2 Domain,/ptj
+xmr1.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3
+xmr2.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/ga.js
 zamtel.co.zm.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/start/proxy/NX9PPCCU7UFT

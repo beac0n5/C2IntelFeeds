@@ -41,8 +41,8 @@ d1.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif,165.169.94
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
 d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/,91.92.251.4
-dashboard.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
-dashboard.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,208.85.19.189
+dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
+dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,208.85.19.189
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search,38.54.45.144
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -55,6 +55,8 @@ dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/match,103.149.200.212
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/match,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
+dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,47.101.148.200
+dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,47.101.148.200
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.218.129.91
 domline.online,Possible Cobalt Strike C2 Domain,/owa/,91.92.246.43
@@ -84,8 +86,8 @@ leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 log.ddm11125.com,Possible Cobalt Strike C2 Domain,/Logs,203.24.92.243
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
-login.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
-login.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,208.85.19.189
+login.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
+login.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,208.85.19.189
 logs.ddm11125.com,Possible Cobalt Strike C2 Domain,/api/get_log.txt,203.24.92.243
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/hp/api/v1/carousel,118.25.137.239
@@ -200,8 +202,8 @@ spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.60
 srns.matrika.cn,Possible Cobalt Strike C2 Domain,/ptj,60.204.227.242
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain,/search,216.120.201.106
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
-swf.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
-swf.help.googli.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,208.85.19.189
+swf.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
+swf.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,208.85.19.189
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.79.179
 unzip2.xyz,Possible Cobalt Strike C2 Domain,/api/3,43.134.57.109
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
@@ -233,3 +235,5 @@ www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson,52.229.108.220
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 wwwrecaro.com,Possible PoshC2 Domain,/load/pages/index.php/,18.222.5.8
+xmr1.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3,103.24.219.44
+xmr2.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3,103.24.219.44

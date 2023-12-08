@@ -31,6 +31,7 @@
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "dnslogik.com","Possible Cobaltstrike DNS C2 Domain","107.150.5.221","ns1.dnslogik.com ns2.dnslogik.com"
 "douosadgaadonline.org","Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
+"drb_da.info","Possible Cobaltstrike DNS C2 Domain","192.248.177.82 208.85.19.189","dashboard.help.drb_da.info login.help.drb_da.info swf.help.drb_da.info"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "ehealthnutrition.com","Possible Cobaltstrike DNS C2 Domain","52.70.93.129","high.ehealthnutrition.com"
 "electric-coop.com","Possible Cobaltstrike DNS C2 Domain","18.209.36.79","ns1.electric-coop.com ns2.electric-coop.com"
@@ -72,6 +73,7 @@
 "siegemachine.cn","Possible Cobaltstrike DNS C2 Domain","124.71.5.199","ns1.siegemachine.cn ns2.siegemachine.cn"
 "skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
+"starbucksvip.com","Possible Cobaltstrike DNS C2 Domain","47.101.148.200","dns31.starbucksvip.com dns32.starbucksvip.com"
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "sumikuma.tw","Possible Cobaltstrike DNS C2 Domain","18.181.228.196 35.77.79.179","easycard-t.sumikuma.tw twlifeuat.sumikuma.tw"
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
@@ -80,6 +82,7 @@
 "thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
 "vip404.eu.org","Possible Cobaltstrike DNS C2 Domain","114.115.157.144","ns1.vip404.eu.org ns2.vip404.eu.org ns3.vip404.eu.org"
+"vvvvvbeng.com","Possible Cobaltstrike DNS C2 Domain","103.24.219.44","xmr1.vvvvvbeng.com xmr2.vvvvvbeng.com"
 "we-bank.icu","Possible Cobaltstrike DNS C2 Domain","43.136.113.152","ns1.we-bank.icu ns2.we-bank.icu"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www2.eastus.cloudapp.azure.com"
@@ -87,4 +90,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
