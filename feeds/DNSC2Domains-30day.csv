@@ -14,7 +14,7 @@
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "blueteam.asia","Possible Cobaltstrike DNS C2 Domain","47.245.117.155","test.blueteam.asia"
 "bookworld-langchao.work","Possible Cobaltstrike DNS C2 Domain","82.157.145.234","ns1.bookworld-langchao.work"
-"bphsearch.com","Possible Cobaltstrike DNS C2 Domain","216.120.201.106 38.54.101.95","ssa.bphsearch.com"
+"bphsearch.com","Possible Cobaltstrike DNS C2 Domain","216.120.201.106","ssa.bphsearch.com"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
