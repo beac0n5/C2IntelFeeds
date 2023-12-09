@@ -1,8 +1,6 @@
 #domain,ioc,uri_path
-a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 a.osslog.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain,/ad71d350-167d-4337-b3b8-d146b5d3d96b/
-a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 activity.quicksmartmoney.com,Possible Cobalt Strike C2 Domain,/j.ad
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity
 api.taipowers.com,Possible Cobalt Strike C2 Domain,/login
@@ -157,7 +155,6 @@ percheck.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.mi
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/es.html
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
-pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
