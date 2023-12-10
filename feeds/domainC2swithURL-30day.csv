@@ -28,8 +28,10 @@ campaign.dchalegal.com,Possible Cobalt Strike C2 Domain,/j.ad
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.emergency-coms.com,Possible PoshC2 Fronting Domain,/wpaas/load.php/
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain,/c986e4a8-46ff-4083-b6e8-e744c780e36b/
+cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
+cdn.mlcrosoft.fyi,Possible Cobalt Strike C2 Domain,/enable/v9.35/OTEIZVY9GDN
 cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 cdn.spark.re,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -239,6 +241,7 @@ oak-d5fmc3bzezh2dwhk.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/ClientWeb
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
 one.gxzf.site,Possible Cobalt Strike C2 Domain,/clemente/details
 opsqhv54xl33qcahhakpdl7gf40bkhoj.lambda-url.us-east-1.on.aws,Possible Cobalt Strike C2 Domain,/__utm.gif
+osssss.huawei.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ptj
 pay1.ptsecurity.net,Possible Cobalt Strike C2 Domain,/j.ad
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
