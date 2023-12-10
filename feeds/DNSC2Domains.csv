@@ -61,6 +61,7 @@
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","121.4.155.50 23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top exchanges1.microsoftser.top exchanges2.microsoftser.top"
 "mikrokredit.shop","Possible Cobaltstrike DNS C2 Domain","139.180.212.88","ns1.mikrokredit.shop ns2.mikrokredit.shop"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
+"monolthicpower.com","Possible Cobaltstrike DNS C2 Domain","106.52.219.135","qq.monolthicpower.com"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
 "n0reply.eu.org","Possible Cobaltstrike DNS C2 Domain","167.86.127.180","ns.n0reply.eu.org"
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
@@ -85,9 +86,9 @@
 "vvvvvbeng.com","Possible Cobaltstrike DNS C2 Domain","103.24.219.44","xmr1.vvvvvbeng.com xmr2.vvvvvbeng.com"
 "we-bank.icu","Possible Cobaltstrike DNS C2 Domain","43.136.113.152","ns1.we-bank.icu ns2.we-bank.icu"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
+"wps.bj.cn","Possible Cobaltstrike DNS C2 Domain","43.138.10.232","ns_update1.wps.bj.cn ns_update2.wps.bj.cn"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
