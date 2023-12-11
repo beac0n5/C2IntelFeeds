@@ -82,7 +82,6 @@ dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/match,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/pixel.gif,104.245.213.48
 dns.ionoslaba.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF,207.246.79.109
-dns.microsofts.live,Possible Cobalt Strike C2 Domain,/__utm.gif,3.95.172.216
 dns.ncats.link,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2019/12/E0IPnB4QohY9aXRGrE,57.180.177.13
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx,198.98.57.123
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/dpixel,173.249.201.170
@@ -302,7 +301,6 @@ service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.40.126.71
 service-l3k4wvla-1322622051.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel,47.115.203.107
 service-lew09ujr-1307700818.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/path,49.234.126.221
-service-lj2mtzly-1318135905.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.222.54.66
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-ndozu6av-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.163.194.174
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel,49.232.24.38
