@@ -82,7 +82,6 @@
 "microsoftdata.site","Possible Cobaltstrike DNS C2 Domain","154.9.228.107","ns1.data.microsoftdata.site ns2.data.microsoftdata.site ns3.data.microsoftdata.site ns4.data.microsoftdata.site"
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsofthk.com"
 "microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsoftkernel.com"
-"microsofts.live","Possible Cobaltstrike DNS C2 Domain","3.95.172.216","dns.microsofts.live"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","121.4.155.50 23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top exchanges1.microsoftser.top exchanges2.microsoftser.top"
 "microsoftus.com","Possible Cobaltstrike DNS C2 Domain","45.8.145.80","update.microsoftus.com"
 "mikrokredit.shop","Possible Cobaltstrike DNS C2 Domain","139.180.212.88","ns1.mikrokredit.shop ns2.mikrokredit.shop"
@@ -139,4 +138,3 @@
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
-
