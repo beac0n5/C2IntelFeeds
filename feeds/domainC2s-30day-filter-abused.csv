@@ -63,6 +63,7 @@ dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dns.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
+dns.check.support,Possible Cobalt Strike C2 Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain
@@ -74,6 +75,7 @@ dns.ncats.link,Possible Cobalt Strike C2 Domain
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain
+dns1.engie.com,Possible Cobalt Strike C2 Domain
 dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain
 dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain
 dnslog.twittermisc.com,Possible Cobalt Strike C2 Domain
@@ -90,6 +92,7 @@ dsf.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 eas.cqivc.com,Possible Cobalt Strike C2 Fronted Domain
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain
 enc.jsdel1vr.com,Possible Cobalt Strike C2 Domain
+engie.red,Possible Cobalt Strike C2 Domain
 epsonupdate.uk,Possible Cobalt Strike C2 Domain
 equal.fairtaxcolorado.org,Possible Cobalt Strike C2 Domain
 esg.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
@@ -142,6 +145,7 @@ ns1.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain
 ns1.ace3.ru,Possible Cobalt Strike C2 Domain
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 ns1.anaitea.com,Possible Cobalt Strike C2 Domain
+ns1.az-gateway.com,Possible Cobalt Strike C2 Domain
 ns1.baidu12366.xyz,Possible Cobalt Strike C2 Domain
 ns1.beta-microsoft.com,Possible Cobalt Strike C2 Domain
 ns1.bookworld-langchao.work,Possible Cobalt Strike C2 Fronted Domain
@@ -179,6 +183,7 @@ ns2.227api.com,Possible Cobalt Strike C2 Domain
 ns2.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain
 ns2.ace3.ru,Possible Cobalt Strike C2 Domain
 ns2.anaitea.com,Possible Cobalt Strike C2 Domain
+ns2.az-gateway.com,Possible Cobalt Strike C2 Domain
 ns2.beta-microsoft.com,Possible Cobalt Strike C2 Domain
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
@@ -249,6 +254,7 @@ res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
 ringatpstul.com,Possible Cobalt Strike C2 Domain
 road.peerscash.com,Possible Cobalt Strike C2 Domain
 rockpython.xyz,Possible Cobalt Strike C2 Domain
+runanywhere.myvnc.com,Possible Cobalt Strike C2 Domain
 s1.rsrc.eu.org,Possible Cobalt Strike C2 Domain
 scripts.jsdel1vr.com,Possible Cobalt Strike C2 Domain
 seeusdt.com,Possible Cobalt Strike C2 Domain
