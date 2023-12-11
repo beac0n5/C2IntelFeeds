@@ -49,7 +49,7 @@
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
-"karachihelpdesk.org","Possible Cobaltstrike DNS C2 Domain","192.248.177.82 208.85.19.189","app.up.karachihelpdesk.org check.help.karachihelpdesk.org login.help.karachihelpdesk.org swf.help.karachihelpdesk.org"
+"karachihelpdesk.org","Possible Cobaltstrike DNS C2 Domain","192.248.177.82 208.85.19.189","check.help.karachihelpdesk.org login.help.karachihelpdesk.org swf.help.karachihelpdesk.org"
 "matrika.cn","Possible Cobaltstrike DNS C2 Domain","60.204.227.242","srns.matrika.cn"
 "micros0ft-security.org","Possible Cobaltstrike DNS C2 Domain","167.172.147.163","pic.micros0ft-security.org"
 "microsoft-hk.com","Possible Cobaltstrike DNS C2 Domain","124.220.19.234","cdn.microsoft-hk.com"
@@ -92,4 +92,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
