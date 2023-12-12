@@ -341,7 +341,9 @@ www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wwwrecaro.com,Possible PoshC2 Fronting Domain,/load/pages/index.php/
 wylns.matrika.cn,Possible Cobalt Strike C2 Domain,/ptj
 xmr1.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3
+xmr1.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/match
 xmr2.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3
+xmr2.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/dpixel
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/ga.js
 zamtel.co.zm.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/start/proxy/NX9PPCCU7UFT
 zhsq.ppctech.xyz,Possible Cobalt Strike C2 Domain,/Microsoft/owa/

@@ -123,7 +123,7 @@
 "twittermisc.com","Possible Cobaltstrike DNS C2 Domain","150.109.103.16","dnslog.twittermisc.com"
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
 "vip404.eu.org","Possible Cobaltstrike DNS C2 Domain","114.115.157.144","ns1.vip404.eu.org ns2.vip404.eu.org ns3.vip404.eu.org"
-"vvvvvbeng.com","Possible Cobaltstrike DNS C2 Domain","103.24.219.44","xmr1.vvvvvbeng.com xmr2.vvvvvbeng.com"
+"vvvvvbeng.com","Possible Cobaltstrike DNS C2 Domain","103.24.219.42 103.24.219.44","xmr1.vvvvvbeng.com xmr2.vvvvvbeng.com"
 "we-bank.icu","Possible Cobaltstrike DNS C2 Domain","43.136.113.152","ns1.we-bank.icu ns2.we-bank.icu"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "windowsupdate.mom","Possible Cobaltstrike DNS C2 Domain","172.245.81.35","download.windowsupdate.mom"

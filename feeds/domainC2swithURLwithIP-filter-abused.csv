@@ -213,5 +213,7 @@ www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson,52.229.108.220
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 xmr1.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3,103.24.219.44
+xmr1.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/match,103.24.219.42
 xmr2.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/api/3,103.24.219.44
+xmr2.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/dpixel,103.24.219.42
 zhsq.ppctech.xyz,Possible Cobalt Strike C2 Domain,/Microsoft/owa/,107.175.111.199
