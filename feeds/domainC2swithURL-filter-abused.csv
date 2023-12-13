@@ -9,7 +9,6 @@ api.taipowers.com,Possible Cobalt Strike C2 Domain,/login
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
-arbfile.azureedge.net,Possible Cobalt Strike C2 Domain,/nntp.xml
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
@@ -19,7 +18,6 @@ cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
 cdn.mlcrosoft.fyi,Possible Cobalt Strike C2 Domain,/enable/v9.35/OTEIZVY9GDN
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
-cdn.t411.re,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -53,7 +51,6 @@ dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 domline.online,Possible Cobalt Strike C2 Domain,/owa/
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
-dsbrwv9wmb7cj.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/___utm.gif
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 engie.red,Possible Cobalt Strike C2 Domain,/api/v1/getLast
 epsonupdate.uk,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -78,8 +75,6 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/o
 login.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 logs.ddm11125.com,Possible Cobalt Strike C2 Domain,/api/get_log.txt
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
-m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/hp/api/v1/carousel
-m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/hp/api/v1/carousel
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
@@ -181,7 +176,6 @@ summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 swf.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 thuushohkeengeidohteemai.spenserfitolife.com,Possible Cobalt Strike C2 Domain,/start/pic/5T0IGVJXMR3
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-unzip2.xyz,Possible Cobalt Strike C2 Domain,/api/3
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
