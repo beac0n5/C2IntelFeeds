@@ -90,7 +90,6 @@ ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,167.86.12
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,152.32.135.165
 ns1.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain,/push,124.223.83.171
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,100.26.145.203
-ns1.anaitea.com,Possible Cobalt Strike C2 Domain,/jquery.com/,154.211.18.108
 ns1.az-gateway.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,185.161.211.17
 ns1.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc,106.54.228.198
 ns1.bre1ce.top,Possible Cobalt Strike C2 Domain,/ptj,155.94.170.73
@@ -114,7 +113,6 @@ ns1.zengjunhe.top,Possible Cobalt Strike C2 Domain,/fwlink,39.105.143.177
 ns2.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,152.32.135.165
 ns2.227api.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.146.141.98
 ns2.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain,/cm,124.223.83.171
-ns2.anaitea.com,Possible Cobalt Strike C2 Domain,/jquery.com/,154.211.18.108
 ns2.az-gateway.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,185.161.211.17
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
