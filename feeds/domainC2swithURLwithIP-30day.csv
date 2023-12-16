@@ -79,9 +79,10 @@ dns.ionoslaba.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF,207.246.7
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx,198.98.57.123
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/dpixel,173.249.201.170
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
+dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink,5.188.183.171
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel,38.60.251.60
-dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel,5.188.183.171
 dns.smwanyi1.top,Possible Cobalt Strike C2 Domain,/pixel.gif,121.37.215.155
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/__utm.gif,186.64.113.28
 dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast,195.25.243.89
 dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,47.101.148.200
 dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,47.101.148.200
@@ -266,7 +267,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.22
 redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink,66.113.100.100
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/dot.gif,38.60.251.60
-ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel,5.188.183.171
+ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js,5.188.183.171
 road.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad,54.237.14.58
 rockpython.xyz,Possible Cobalt Strike C2 Domain,/match,192.46.232.181
 runanywhere.myvnc.com,Possible Cobalt Strike C2 Domain,/j.ad,64.176.40.46
@@ -329,6 +330,7 @@ updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
+veriernano.com,Possible Cobalt Strike C2 Domain,/load,186.64.113.28
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx,45.76.90.103
 viewservice.org,Possible PoshC2 Domain,/usersync/tradedesk/,3.131.100.38
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31

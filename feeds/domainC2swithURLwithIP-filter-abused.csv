@@ -44,8 +44,9 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/cm,104.223.121.37
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/match,103.149.200.212
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/match,31.44.184.73
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
-dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel,5.188.183.171
+dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink,5.188.183.171
 dns.smwanyi1.top,Possible Cobalt Strike C2 Domain,/pixel.gif,121.37.215.155
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/__utm.gif,186.64.113.28
 dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast,195.25.243.89
 dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,47.101.148.200
 dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,47.101.148.200
@@ -163,7 +164,7 @@ rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink,66.113.100.100
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
-ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel,5.188.183.171
+ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js,5.188.183.171
 runanywhere.myvnc.com,Possible Cobalt Strike C2 Domain,/j.ad,64.176.40.46
 schumacherbar.com,Possible Cobalt Strike C2 Domain,/acquire/research/6XC6CUWV,185.196.9.241
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity,190.123.44.150
@@ -200,6 +201,7 @@ updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
+veriernano.com,Possible Cobalt Strike C2 Domain,/load,186.64.113.28
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx,45.76.90.103
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196

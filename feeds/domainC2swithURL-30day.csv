@@ -77,8 +77,10 @@ dns.ionoslaba.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/dpixel
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
+dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel
 dns.smwanyi1.top,Possible Cobalt Strike C2 Domain,/pixel.gif
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast
 dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png
 dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png
@@ -260,7 +262,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/dot.gif
-ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel
+ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js
 road.peerscash.com,Possible Cobalt Strike C2 Domain,/j.ad
 rockpython.xyz,Possible Cobalt Strike C2 Domain,/match
 runanywhere.myvnc.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -320,6 +322,7 @@ updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+veriernano.com,Possible Cobalt Strike C2 Domain,/load
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx
 viewservice.org,Possible PoshC2 Fronting Domain,/usersync/tradedesk/
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
