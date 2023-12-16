@@ -3,7 +3,6 @@
 "227api.com","Possible Cobaltstrike DNS C2 Domain","103.146.141.98 154.92.16.150","ns2.227api.com ns3.227api.com nt1.227api.com nt2.227api.com nt3.227api.com"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "aallianz.com.tw","Possible Cobaltstrike DNS C2 Domain","43.206.102.244","nsff.aallianz.com.tw"
-"ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "aliyunn.com.cn","Possible Cobaltstrike DNS C2 Domain","47.111.182.150","ns1.aliyunn.com.cn ns2.aliyunn.com.cn ns3.aliyunn.com.cn"
 "allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www1.allegiancefithealth.com"
@@ -25,7 +24,6 @@
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"
 "chintelecom.com.cn","Possible Cobaltstrike DNS C2 Domain","43.138.20.240","hw.chintelecom.com.cn"
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
-"chtcom.tw","Possible Cobaltstrike DNS C2 Domain","35.76.124.230","nsss.chtcom.tw"
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
 "cloudns.nz","Possible Cobaltstrike DNS C2 Domain","94.131.113.34","ns2.tosohindia.cloudns.nz"
 "cloudns.ph","Possible Cobaltstrike DNS C2 Domain","94.131.8.31","india.tosoh.cloudns.ph"
@@ -144,4 +142,4 @@
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-"zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","58.53.128.27","www.zhaoyr.online"
+
