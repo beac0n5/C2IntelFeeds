@@ -57,6 +57,7 @@
 "goporsche.de","Possible Cobaltstrike DNS C2 Domain","185.155.96.178","ns1.goporsche.de"
 "greypsecurity.training","Possible Cobaltstrike DNS C2 Domain","54.149.61.80","dns.greypsecurity.training"
 "grp.jpn.com","Possible Cobaltstrike DNS C2 Domain","3.113.212.171","ns.grp.jpn.com"
+"gsafc.co","Possible Cobaltstrike DNS C2 Domain","106.52.251.233","ns1.gsafc.co ns2.gsafc.co ns3.gsafc.co"
 "gxzf.site","Possible Cobaltstrike DNS C2 Domain","23.94.76.46","one.gxzf.site"
 "h1ck0r.com","Possible Cobaltstrike DNS C2 Domain","116.211.120.25","ns1.h1ck0r.com"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
