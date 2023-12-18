@@ -11,7 +11,7 @@
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17","ns1.az-gateway.com ns2.az-gateway.com"
 "baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","106.54.228.198","ns1.baidu12366.xyz"
-"beta-microsoft.com","Possible Cobaltstrike DNS C2 Domain","172.93.165.117","ns1.beta-microsoft.com ns2.beta-microsoft.com"
+"beta-microsoft.com","Possible Cobaltstrike DNS C2 Domain"," 172.93.165.117","ns1.beta-microsoft.com ns2.beta-microsoft.com"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "blueteam.asia","Possible Cobaltstrike DNS C2 Domain","47.245.117.155","test.blueteam.asia"
 "bphsearch.com","Possible Cobaltstrike DNS C2 Domain","216.120.201.106","ssa.bphsearch.com"
