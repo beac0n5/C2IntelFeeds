@@ -28,6 +28,8 @@ cityoall.com,Possible Cobalt Strike C2 Domain
 cms.credsera.org,Possible Cobalt Strike C2 Domain
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 cs1.francy.world,Possible Cobalt Strike C2 Domain
 cs2.francy.world,Possible Cobalt Strike C2 Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
@@ -80,6 +82,7 @@ login.help.drb_da.info,Possible Cobalt Strike C2 Domain
 logs.ddm11125.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
+metersphere.zenmen.cloud,Possible Cobalt Strike C2 Domain
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
