@@ -16,6 +16,7 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 arbfile.azureedge.net,Possible Cobalt Strike C2 Domain
 aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain
+awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 block.health-degree.com,Possible Cobalt Strike C2 Domain
@@ -293,6 +294,7 @@ service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 social.soft-update.services,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
+spenserfitolife.com,Possible Cobalt Strike C2 Domain
 spf.lemeridie-fiji.com,Possible Cobalt Strike C2 Domain
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain
 srns.matrika.cn,Possible Cobalt Strike C2 Domain
