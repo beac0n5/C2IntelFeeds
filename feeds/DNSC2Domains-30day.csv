@@ -62,7 +62,9 @@
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
 "health-degree.com","Possible Cobaltstrike DNS C2 Domain","54.145.9.123","block.health-degree.com"
 "healthtricks101.com","Possible Cobaltstrike DNS C2 Domain","18.204.15.103","dot.healthtricks101.com"
+"ibmxwork.com","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ibmxwork.com"
 "icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","118.25.137.239","m1.icbcbc.com.cn m2.icbcbc.com.cn"
+"ifcr.top","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ifcr.top"
 "imedicalhub.com","Possible Cobaltstrike DNS C2 Domain","138.197.127.231","updates.imedicalhub.com"
 "incididunt.com","Possible Cobaltstrike DNS C2 Domain","104.245.213.48","dns.incididunt.com incididunt.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
@@ -141,3 +143,4 @@
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "xvmp.eu.org","Possible Cobaltstrike DNS C2 Domain","103.176.91.148","ns1.xvmp.eu.org"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
