@@ -73,6 +73,7 @@ dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/cx,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/pixel.gif,104.245.213.48
 dns.ionoslaba.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF,207.246.79.109
+dns.nightmare.su,Possible Cobalt Strike C2 Domain,/PZVM,94.228.118.45
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/cx,198.98.57.123
 dns.noranekoheart.top,Possible Cobalt Strike C2 Domain,/dpixel,173.249.201.170
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
@@ -178,6 +179,7 @@ ns1.mikrokredit.shop,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js,139.1
 ns1.mylcyz.top,Possible Cobalt Strike C2 Domain,/fwlink,23.94.77.121
 ns1.onesdriveupdate.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.111.65.37
 ns1.pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,119.91.31.246
+ns1.rememdam.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,195.54.171.198
 ns1.sangfor911.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,42.192.137.198
 ns1.siegemachine.cn,Possible Cobalt Strike C2 Domain,/activity,124.71.5.199
 ns1.sojuan.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,155.94.182.212
@@ -211,6 +213,7 @@ ns2.microsoftgame.online,Possible Cobalt Strike C2 Domain,/owa/,117.50.178.197
 ns2.mikrokredit.shop,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js,139.180.212.88
 ns2.mylcyz.top,Possible Cobalt Strike C2 Domain,/ptj,23.94.77.121
 ns2.onesdriveupdate.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.111.65.37
+ns2.rememdam.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,195.54.171.198
 ns2.sangfor911.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,42.192.137.198
 ns2.siegemachine.cn,Possible Cobalt Strike C2 Domain,/ca,124.71.5.199
 ns2.sojuan.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,155.94.182.212
