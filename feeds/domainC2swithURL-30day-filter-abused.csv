@@ -153,6 +153,7 @@ ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.data.microsoftdata.site,Possible Cobalt Strike C2 Domain,/ga.js
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+ns1.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns1.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
 ns1.electric-coop.com,Possible Cobalt Strike C2 Domain,/j.ad
 ns1.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
@@ -191,6 +192,7 @@ ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.data.microsoftdata.site,Possible Cobalt Strike C2 Domain,/visit.js
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+ns2.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns2.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
 ns2.electric-coop.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
@@ -285,7 +287,7 @@ service-ndozu6av-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/dpixel
 social.soft-update.services,Possible Cobalt Strike C2 Domain,/ca
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spenserfitolife.com,Possible Cobalt Strike C2 Domain,/detect/properties/B2QCQJTLLH4
