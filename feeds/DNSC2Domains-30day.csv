@@ -36,6 +36,7 @@
 "digihealthlocker.com","Possible Cobaltstrike DNS C2 Domain","54.226.3.99","recommendation.digihealthlocker.com"
 "dingtaIk.tk","Possible Cobaltstrike DNS C2 Domain","47.94.43.210","ns1.dingtaIk.tk ns2.dingtaIk.tk"
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
+"dns-supports.online","Possible Cobaltstrike DNS C2 Domain","45.8.158.71","ns1.dns-supports.online ns2.dns-supports.online"
 "dnslogik.com","Possible Cobaltstrike DNS C2 Domain","107.150.5.221","ns1.dnslogik.com ns2.dnslogik.com"
 "douosadgaadonline.org","Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
 "drb_da.info","Possible Cobaltstrike DNS C2 Domain","192.248.177.82 208.85.19.189","dashboard.help.drb_da.info login.help.drb_da.info swf.help.drb_da.info"
@@ -140,4 +141,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
