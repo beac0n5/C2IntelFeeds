@@ -24,7 +24,6 @@
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
 "cloudns.nz","Possible Cobaltstrike DNS C2 Domain","94.131.113.34","ns2.tosohindia.cloudns.nz"
-"cloudns.ph","Possible Cobaltstrike DNS C2 Domain","94.131.8.31","india.tosoh.cloudns.ph"
 "clsr.ca","Possible Cobaltstrike DNS C2 Domain","178.128.193.49","ns18.clsr.ca"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
 "controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","ns.controlcavi.com"
@@ -72,7 +71,6 @@
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "jinnahinternational.org","Possible Cobaltstrike DNS C2 Domain","192.248.177.82","app.jinnahinternational.org check-in.jinnahinternational.org login.jinnahinternational.org"
 "johnchen88.com","Possible Cobaltstrike DNS C2 Domain","43.139.189.54","n1.johnchen88.com"
-"jsdel1vr.com","Possible Cobaltstrike DNS C2 Domain","138.68.129.245","code.jsdel1vr.com enc.jsdel1vr.com scripts.jsdel1vr.com"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
 "karachihelpdesk.org","Possible Cobaltstrike DNS C2 Domain","192.248.177.82 208.85.19.189","app.up.karachihelpdesk.org check.help.karachihelpdesk.org login.help.karachihelpdesk.org swf.help.karachihelpdesk.org"
 "lemeridie-fiji.com","Possible Cobaltstrike DNS C2 Domain","154.39.157.5","spf.lemeridie-fiji.com"
@@ -141,4 +139,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
