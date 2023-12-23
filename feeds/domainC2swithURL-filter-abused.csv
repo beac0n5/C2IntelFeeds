@@ -202,6 +202,7 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/V1/V2/ASA/qw
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
+www.sangfor.com.cn,Possible Cobalt Strike C2 Fronting Domain,/lib/v2/wcp-consent.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
