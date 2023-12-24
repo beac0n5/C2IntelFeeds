@@ -98,6 +98,7 @@ edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.
 engie.red,Possible Cobalt Strike C2 Domain,/api/v1/getLast
 epsonupdate.uk,Possible Cobalt Strike C2 Domain,/j.ad
 equal.fairtaxcolorado.org,Possible Cobalt Strike C2 Domain,/j.ad
+erihudeg.com,Possible Cobalt Strike C2 Domain,/Validate/Account/KDIKPCOYWU
 esg.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/panel
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
@@ -342,6 +343,7 @@ www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
 www.qianxin.today,Possible Cobalt Strike C2 Domain,/pixel.gif
 www.qzyp.buzz,Possible Cobalt Strike C2 Domain,/j.ad
 www.sangfor.com.cn,Possible Cobalt Strike C2 Fronting Domain,/lib/v2/wcp-consent.js
+www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
