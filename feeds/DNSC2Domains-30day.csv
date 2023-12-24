@@ -45,7 +45,7 @@
 "engie.com","Possible Cobaltstrike DNS C2 Domain","195.25.243.89","dns1.engie.com"
 "engie.red","Possible Cobaltstrike DNS C2 Domain","195.25.243.89","engie.red"
 "enove-dental.com","Possible Cobaltstrike DNS C2 Domain","3.145.13.69","extreme.enove-dental.com"
-"ericleexx.com","Possible Cobaltstrike DNS C2 Domain","114.132.159.186" ,"c1.ericleexx.com"
+"ericleexx.com","Possible Cobaltstrike DNS C2 Domain","114.132.159.186","c1.ericleexx.com"
 "fairtaxcolorado.org","Possible Cobaltstrike DNS C2 Domain","18.219.103.66","equal.fairtaxcolorado.org"
 "forcorpor.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.73","dns.forcorpor.com forcorpor.com"
 "francy.world","Possible Cobaltstrike DNS C2 Domain","95.169.27.92","cs1.francy.world cs2.francy.world"
@@ -138,4 +138,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
