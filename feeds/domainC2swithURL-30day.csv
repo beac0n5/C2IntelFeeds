@@ -17,7 +17,6 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 arbfile.azureedge.net,Possible Cobalt Strike C2 Domain,/nntp.xml
 as.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr
-aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain,/activity
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/panel
 biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/FAQ
@@ -49,6 +48,7 @@ conectmeto.net,Possible Cobalt Strike C2 Domain,/reactivate/robotics/6JMNBRXRQKF
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/dpixel
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/dpixel
+cs.mlcrosoft.fyi,Possible Cobalt Strike C2 Domain,/enable/v9.35/OTEIZVY9GDN
 cs1.francy.world,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 cs2.francy.world,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -147,6 +147,7 @@ ns.grp.jpn.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.0.min.js
 ns.manager.moonlighter.space,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+ns1.623866.xyz,Possible Cobalt Strike C2 Domain,/pixel
 ns1.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain,/push
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 ns1.aliyunn.com.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -180,6 +181,7 @@ ns1.rememdam.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.sangfor911.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.siegemachine.cn,Possible Cobalt Strike C2 Domain,/activity
 ns1.sojuan.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.teleradiocom.com,Possible Cobalt Strike C2 Domain,/GoodsType/CreateNew
 ns1.vip404.eu.org,Possible Cobalt Strike C2 Domain,/updates.rss
 ns1.we-bank.icu,Possible Cobalt Strike C2 Domain,/introduction/edr
 ns1.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
@@ -189,6 +191,7 @@ ns1.zengjunhe.top,Possible Cobalt Strike C2 Domain,/fwlink
 ns18.clsr.ca,Possible Cobalt Strike C2 Domain,/dot.gif
 ns2.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 ns2.227api.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+ns2.623866.xyz,Possible Cobalt Strike C2 Domain,/dot.gif
 ns2.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain,/cm
 ns2.aliyunn.com.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.anaitea.com,Possible Cobalt Strike C2 Domain,/jquery.com/

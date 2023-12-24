@@ -1,6 +1,7 @@
 #domain,ioc,IPs,C2Domains
 "163microsoft.com","Possible Cobaltstrike DNS C2 Domain","152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","103.146.141.98 154.92.16.150","ns2.227api.com ns3.227api.com nt1.227api.com nt2.227api.com nt3.227api.com"
+"623866.xyz","Possible Cobaltstrike DNS C2 Domain","43.143.58.212","ns1.623866.xyz ns2.623866.xyz"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "aallianz.com.tw","Possible Cobaltstrike DNS C2 Domain","43.206.102.244","nsff.aallianz.com.tw"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
@@ -87,6 +88,7 @@
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","121.4.155.50 23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top exchanges1.microsoftser.top exchanges2.microsoftser.top"
 "microsoftus.com","Possible Cobaltstrike DNS C2 Domain","45.8.145.80","update.microsoftus.com"
 "mikrokredit.shop","Possible Cobaltstrike DNS C2 Domain","139.180.212.88","ns1.mikrokredit.shop ns2.mikrokredit.shop"
+"mlcrosoft.fyi","Possible Cobaltstrike DNS C2 Domain","43.136.40.179","cs.mlcrosoft.fyi"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
 "monolthicpower.com","Possible Cobaltstrike DNS C2 Domain","106.52.219.135","qq.monolthicpower.com"
 "moonlighter.space","Possible Cobaltstrike DNS C2 Domain","146.190.145.40","manager.moonlighter.space ns.manager.moonlighter.space"
@@ -122,6 +124,7 @@
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "sunsetwxllc.com","Possible Cobaltstrike DNS C2 Domain","38.54.45.144","dc.sunsetwxllc.com"
 "superpeggy.com","Possible Cobaltstrike DNS C2 Domain","68.170.2.60","spf1.superpeggy.com"
+"teleradiocom.com","Possible Cobaltstrike DNS C2 Domain","2.58.14.243","ns1.teleradiocom.com"
 "thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
 "tmuh-tw.one","Possible Cobaltstrike DNS C2 Domain","143.198.199.241","tmuh.tmuh-tw.one"
 "twittermisc.com","Possible Cobaltstrike DNS C2 Domain","150.109.103.16","dnslog.twittermisc.com"
@@ -138,3 +141,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+

@@ -17,7 +17,6 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 arbfile.azureedge.net,Possible Cobalt Strike C2 Domain
 as.regsvcast.com,Possible Cobalt Strike C2 Domain
-aspmx5.googlemail.clsr.ca,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
@@ -46,6 +45,7 @@ cmtscbt.bsnl.wiki,Possible Cobalt Strike C2 Domain
 conectmeto.net,Possible Cobalt Strike C2 Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
+cs.mlcrosoft.fyi,Possible Cobalt Strike C2 Domain
 cs1.francy.world,Possible Cobalt Strike C2 Domain
 cs2.francy.world,Possible Cobalt Strike C2 Domain
 ctic.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -137,6 +137,7 @@ ns.grp.jpn.com,Possible Cobalt Strike C2 Domain
 ns.manager.moonlighter.space,Possible Cobalt Strike C2 Domain
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain
+ns1.623866.xyz,Possible Cobalt Strike C2 Domain
 ns1.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 ns1.aliyunn.com.cn,Possible Cobalt Strike C2 Domain
@@ -169,6 +170,7 @@ ns1.rememdam.xyz,Possible Cobalt Strike C2 Domain
 ns1.sangfor911.top,Possible Cobalt Strike C2 Domain
 ns1.siegemachine.cn,Possible Cobalt Strike C2 Domain
 ns1.sojuan.top,Possible Cobalt Strike C2 Domain
+ns1.teleradiocom.com,Possible Cobalt Strike C2 Domain
 ns1.vip404.eu.org,Possible Cobalt Strike C2 Domain
 ns1.we-bank.icu,Possible Cobalt Strike C2 Domain
 ns1.weepstakes.com,Possible Cobalt Strike C2 Domain
@@ -178,6 +180,7 @@ ns1.zengjunhe.top,Possible Cobalt Strike C2 Domain
 ns18.clsr.ca,Possible Cobalt Strike C2 Domain
 ns2.163microsoft.com,Possible Cobalt Strike C2 Domain
 ns2.227api.com,Possible Cobalt Strike C2 Domain
+ns2.623866.xyz,Possible Cobalt Strike C2 Domain
 ns2.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain
 ns2.aliyunn.com.cn,Possible Cobalt Strike C2 Domain
 ns2.anaitea.com,Possible Cobalt Strike C2 Domain
