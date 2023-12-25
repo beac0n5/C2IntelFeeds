@@ -27,6 +27,7 @@ cache.thorjane.com,Possible Cobalt Strike C2 Domain
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain
 cc.emergency-coms.com,Possible PoshC2 Domain
 cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain
+cdn-hackersdobem.com,Possible Cobalt Strike C2 Domain
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain
 cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
@@ -320,6 +321,8 @@ verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 viewservice.org,Possible PoshC2 Domain
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 windows.dns-supports.online,Possible Cobalt Strike C2 Domain
+windows.systeam.site,Possible Cobalt Strike C2 Domain
+windows2.systeam.site,Possible Cobalt Strike C2 Domain
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain
