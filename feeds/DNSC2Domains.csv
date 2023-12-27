@@ -67,11 +67,9 @@
 "osslog.com","Possible Cobaltstrike DNS C2 Domain","167.179.74.154","a.osslog.com"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "rememdam.xyz","Possible Cobaltstrike DNS C2 Domain","195.54.171.198","ns1.rememdam.xyz ns2.rememdam.xyz"
-"ringatpstul.com","Possible Cobaltstrike DNS C2 Domain","5.188.183.171","dns.ringatpstul.com ringatpstul.com"
 "siegemachine.cn","Possible Cobaltstrike DNS C2 Domain","124.71.5.199","ns1.siegemachine.cn ns2.siegemachine.cn"
 "skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
-"starbucksvip.com","Possible Cobaltstrike DNS C2 Domain","47.101.148.200","dns31.starbucksvip.com dns32.starbucksvip.com"
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "superpeggy.com","Possible Cobaltstrike DNS C2 Domain","68.170.2.60","spf1.superpeggy.com"
@@ -86,4 +84,3 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
