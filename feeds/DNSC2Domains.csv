@@ -40,8 +40,6 @@
 "gxzf.site","Possible Cobaltstrike DNS C2 Domain","23.94.76.46","one.gxzf.site"
 "h1ck0r.com","Possible Cobaltstrike DNS C2 Domain","116.211.120.25","ns1.h1ck0r.com"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
-"ibmxwork.com","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ibmxwork.com"
-"ifcr.top","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ifcr.top"
 "imedicalhub.com","Possible Cobaltstrike DNS C2 Domain","138.197.127.231","updates.imedicalhub.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
@@ -84,4 +82,3 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
