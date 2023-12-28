@@ -14,7 +14,7 @@
 "baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","106.54.228.198","ns1.baidu12366.xyz"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "bphsearch.com","Possible Cobaltstrike DNS C2 Domain","216.120.201.106","ssa.bphsearch.com"
-"bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
+"bre1ce.top", "Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "c1oudflare.com","Possible Cobaltstrike DNS C2 Domain","39.104.204.12","ns1.c1oudflare.com ns2.c1oudflare.com ns3.c1oudflare.com"
 "cdn-hackersdobem.com","Possible Cobaltstrike DNS C2 Domain","83.97.73.202","cdn-hackersdobem.com"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
