@@ -15,7 +15,9 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.9
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.67.152
 arbfile.azureedge.net,Possible Cobalt Strike C2 Domain,/nntp.xml,165.227.184.119
 as.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr,147.78.47.178
+astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,62.138.6.20
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,206.71.149.42
+bac.acs551.top,Possible Cobalt Strike C2 Domain,/g.pixel,43.163.204.20
 baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/panel,62.234.54.38
 biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/FAQ,62.234.54.38
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad,54.145.9.123
@@ -58,7 +60,6 @@ d1.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif,165.169.94
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
 d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/,91.92.251.4
-d2ll6bzzm7brny.cloudfront.net,Possible Cobalt Strike C2 Domain,/divide/carofthemonth/DOBACWL6PZ,62.138.6.20
 dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.248.177.82
 dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,208.85.19.189
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search,38.54.45.144

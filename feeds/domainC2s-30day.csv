@@ -15,7 +15,9 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 arbfile.azureedge.net,Possible Cobalt Strike C2 Domain
 as.regsvcast.com,Possible Cobalt Strike C2 Domain
+astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
+bac.acs551.top,Possible Cobalt Strike C2 Domain
 baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain
 block.health-degree.com,Possible Cobalt Strike C2 Domain
@@ -57,7 +59,6 @@ d1.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain
-d2ll6bzzm7brny.cloudfront.net,Possible Cobalt Strike C2 Domain
 dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain

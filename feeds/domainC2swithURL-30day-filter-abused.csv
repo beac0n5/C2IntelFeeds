@@ -15,7 +15,9 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 arbfile.azureedge.net,Possible Cobalt Strike C2 Domain,/nntp.xml
 as.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr
+astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+bac.acs551.top,Possible Cobalt Strike C2 Domain,/g.pixel
 baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/panel
 biaozhu.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/FAQ
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -52,7 +54,6 @@ ctic.azureedge.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
 d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/
-d2ll6bzzm7brny.cloudfront.net,Possible Cobalt Strike C2 Domain,/divide/carofthemonth/DOBACWL6PZ
 dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain,/search
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
