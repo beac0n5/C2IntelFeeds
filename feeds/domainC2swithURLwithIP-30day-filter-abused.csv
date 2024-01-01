@@ -1,10 +1,8 @@
 #domain,ioc,uri_path,ip
 1.jangholi.info,Possible Cobalt Strike C2 Domain,/match,188.121.110.191
 MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain,/Recite/v6.1/1SV8OW5G,5.188.86.24
-a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,43.155.75.235
 a.osslog.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js,167.179.74.154
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain,/ad71d350-167d-4337-b3b8-d146b5d3d96b/,85.10.151.25
-a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.155.75.235
 activity.quicksmartmoney.com,Possible Cobalt Strike C2 Domain,/j.ad,18.226.79.33
 annualraises2023.zip,Possible Cobalt Strike C2 Domain,/visit.js,143.198.17.52
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity,47.75.108.68
@@ -234,7 +232,6 @@ percheck.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.mi
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain,/en_US/all.js,167.172.147.163
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/lib/ajax/jquery-3.0.1.min.js,137.184.101.24
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.94.43.210
-pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,119.91.31.246
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3,47.243.104.189
 qq.monolthicpower.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.52.219.135
 qw.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr,147.78.47.178
