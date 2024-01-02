@@ -61,7 +61,7 @@
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "superpeggy.com","Possible Cobaltstrike DNS C2 Domain","68.170.2.60","spf1.superpeggy.com"
 "systeam.site","Possible Cobaltstrike DNS C2 Domain","38.46.11.186","windows.systeam.site windows2.systeam.site"
-"teleradiocom.com","Possible Cobaltstrike DNS C2 Domain","2.58.14.243" ,"ns1.teleradiocom.com"
+"teleradiocom.com","Possible Cobaltstrike DNS C2 Domain","2.58.14.243","ns1.teleradiocom.com"
 "thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
 "vip404.eu.org","Possible Cobaltstrike DNS C2 Domain","114.115.157.144","ns1.vip404.eu.org ns2.vip404.eu.org ns3.vip404.eu.org"
@@ -69,4 +69,3 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
