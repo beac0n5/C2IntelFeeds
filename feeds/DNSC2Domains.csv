@@ -8,6 +8,7 @@
 "allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www1.allegiancefithealth.com"
 "amazon-shopping.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.245","cdn.amazon-shopping.nl"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
+"az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17","ns1.az-gateway.com ns2.az-gateway.com"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "cdn-hackersdobem.com","Possible Cobaltstrike DNS C2 Domain","83.97.73.202","cdn-hackersdobem.com"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
@@ -44,6 +45,7 @@
 "microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsoftkernel.com"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
+"mqpslop.com","Possible Cobaltstrike DNS C2 Domain","35.72.79.151","nris-d.mqpslop.com"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
 "mylcyz.top","Possible Cobaltstrike DNS C2 Domain","23.94.77.121","ns1.mylcyz.top ns2.mylcyz.top"
 "n0reply.eu.org","Possible Cobaltstrike DNS C2 Domain","167.86.127.180","ns.n0reply.eu.org"
@@ -67,4 +69,3 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
