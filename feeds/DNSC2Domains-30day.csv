@@ -114,7 +114,7 @@
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","186.64.113.28","dns.veriernano.com veriernano.com"
 "vip404.eu.org","Possible Cobaltstrike DNS C2 Domain","114.115.157.144","ns1.vip404.eu.org ns2.vip404.eu.org ns3.vip404.eu.org"
-"vvvvvbeng.com"," Possible Cobaltstrike DNS C2 Domain","103.24.219.42 103.24.219.44 185.254.97.17","dy.vvvvvbeng.com xmr1.vvvvvbeng.com xmr2.vvvvvbeng.com"
+"vvvvvbeng.com","Possible Cobaltstrike DNS C2 Domain","103.24.219.42 103.24.219.44 185.254.97.17","dy.vvvvvbeng.com xmr1.vvvvvbeng.com xmr2.vvvvvbeng.com"
 "we-bank.icu","Possible Cobaltstrike DNS C2 Domain","43.136.113.152","ns1.we-bank.icu ns2.we-bank.icu"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "wps.bj.cn","Possible Cobaltstrike DNS C2 Domain","43.138.10.232","ns_update1.wps.bj.cn ns_update2.wps.bj.cn"
@@ -123,4 +123,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
