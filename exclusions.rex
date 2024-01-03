@@ -249,5 +249,6 @@
 ^cdn\.az\.gov,
 ^cdn\.yougov\.com,
 ^cdn\.zendesk\.com,
+^api\.hsbc\.com,
 ^http,
 ^https,
