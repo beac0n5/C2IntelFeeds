@@ -17,6 +17,7 @@
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
+"container911.site","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","nsns1.container911.site"
 "controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","ns.controlcavi.com"
 "crnbchina.top","Possible Cobaltstrike DNS C2 Domain","47.242.37.176","ns1.crnbchina.top ns2.crnbchina.top"
 "d1am0nd.ddns.net","Possible Cobaltstrike DNS C2 Domain","194.135.17.31","d1am0nd.ddns.net"
@@ -68,3 +69,4 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
