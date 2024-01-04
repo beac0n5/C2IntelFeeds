@@ -99,6 +99,7 @@ exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 f0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif
 forcorpor.com,Possible Cobalt Strike C2 Domain,/dpixel
 gertefin.com,Possible Cobalt Strike C2 Domain,/compose/v2.85/CIEU4A5V4T5
+graph.microsoft.com,Possible Cobalt Strike C2 Domain,/_
 hahnevohjoo.spenserfitolife.com,Possible Cobalt Strike C2 Domain,/doFor/Credentials/76STLDEX
 high.ehealthnutrition.com,Possible Cobalt Strike C2 Domain,/j.ad
 hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates
