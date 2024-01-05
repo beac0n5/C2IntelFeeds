@@ -11,7 +11,6 @@ api.taipowers.com,Possible Cobalt Strike C2 Domain,/login
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
-arbfile.azureedge.net,Possible Cobalt Strike C2 Domain,/nntp.xml
 as.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr
 astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -30,7 +29,6 @@ cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
 cdn.mlcrosoft.fyi,Possible Cobalt Strike C2 Domain,/enable/v9.35/OTEIZVY9GDN
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
-cdn.t411.re,Possible Cobalt Strike C2 Fronted Domain,/___utm.gif
 charon561.xyz,Possible Cobalt Strike C2 Domain,/compute/antivirus/KWOJUX68KS
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js
@@ -76,7 +74,6 @@ dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 domline.online,Possible Cobalt Strike C2 Domain,/owa/
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
-dsbrwv9wmb7cj.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/___utm.gif
 dy.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/ga.js
 easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 engie.red,Possible Cobalt Strike C2 Domain,/api/v1/getLast
@@ -110,8 +107,6 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/o
 login.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 logs.ddm11125.com,Possible Cobalt Strike C2 Domain,/api/get_log.txt
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
-m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/hp/api/v1/carousel
-m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/hp/api/v1/carousel
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 metersphere.zenmen.cloud,Possible Cobalt Strike C2 Domain,/match
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/
@@ -277,7 +272,6 @@ swf.help.drb_da.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 thuushohkeengeidohteemai.spenserfitolife.com,Possible Cobalt Strike C2 Domain,/start/pic/5T0IGVJXMR3
 torusdt.vvvvvbeng.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-unzip2.xyz,Possible Cobalt Strike C2 Domain,/api/3
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
