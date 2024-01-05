@@ -27,6 +27,8 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif,104.223.121.37
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 conectmeto.net,Possible Cobalt Strike C2 Domain,/reactivate/robotics/6JMNBRXRQKFK,45.155.249.144
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/push,8.140.135.23
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push,8.140.135.23
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/Level/printenv/D2UDLM17,20.196.198.116
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,20.196.198.116
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,152.32.210.127
