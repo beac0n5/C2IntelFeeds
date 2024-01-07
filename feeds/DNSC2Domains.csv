@@ -47,7 +47,7 @@
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsofthk.com"
 "microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsoftkernel.com"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
-"mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
+"mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7"," v2ray1.mmsy.top v2ray2.mmsy.top"
 "mqpslop.com","Possible Cobaltstrike DNS C2 Domain","35.72.79.151","nris-d.mqpslop.com"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
 "mylcyz.top","Possible Cobaltstrike DNS C2 Domain","23.94.77.121","ns1.mylcyz.top ns2.mylcyz.top"
