@@ -8,7 +8,6 @@ annualraises2023.zip,Possible Cobalt Strike C2 Domain
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api.hsbc.com,Possible PoshC2 Fronting Domain
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain
-api.taipowers.com,Possible Cobalt Strike C2 Domain
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
@@ -16,6 +15,7 @@ as.regsvcast.com,Possible Cobalt Strike C2 Domain
 astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 bac.acs551.top,Possible Cobalt Strike C2 Domain
+baidu.com,Possible Cobalt Strike C2 Domain
 block.health-degree.com,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
 c1.dudu365.club,Possible Cobalt Strike C2 Domain
@@ -27,7 +27,11 @@ cdn-hackersdobem.com,Possible Cobalt Strike C2 Domain
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain
 cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
+cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain
+cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
+cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
+cdn.microsolt.top,Possible Cobalt Strike C2 Domain
 cdn.mlcrosoft.fyi,Possible Cobalt Strike C2 Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
 charon561.xyz,Possible Cobalt Strike C2 Domain
@@ -49,11 +53,15 @@ cs2.francy.world,Possible Cobalt Strike C2 Domain
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
-d1lrw1z9ssp44c.cloudfront.net,Possible Cobalt Strike C2 Domain
 d20pexcm9ot6hj.cloudfront.net,Possible PoshC2 Fronted Domain
 d2kb8sccbn3wgs.cloudfront.net,Possible Cobalt Strike C2 Domain
+d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain
+d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain
+d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain
+d8g.lol,Possible Cobalt Strike C2 Domain
 dashboard.help.drb_da.info,Possible Cobalt Strike C2 Domain
 dc.sunsetwxllc.com,Possible Cobalt Strike C2 Domain
+dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
@@ -63,7 +71,6 @@ dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain
-dns.greypsecurity.training,Possible Cobalt Strike C2 Domain
 dns.nightmare.su,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain
@@ -77,7 +84,6 @@ doc.bluework.ink,Possible Cobalt Strike C2 Domain
 domline.online,Possible Cobalt Strike C2 Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 dy.vvvvvbeng.com,Possible Cobalt Strike C2 Domain
-easycard-t.sumikuma.tw,Possible Cobalt Strike C2 Domain
 engie.red,Possible Cobalt Strike C2 Domain
 epsonupdate.uk,Possible Cobalt Strike C2 Domain
 equal.fairtaxcolorado.org,Possible Cobalt Strike C2 Domain
@@ -90,6 +96,7 @@ forcorpor.com,Possible Cobalt Strike C2 Domain
 gertefin.com,Possible Cobalt Strike C2 Domain
 graph.microsoft.com,Possible Cobalt Strike C2 Domain
 hahnevohjoo.spenserfitolife.com,Possible Cobalt Strike C2 Domain
+helloone.accountants.monster,Possible Cobalt Strike C2 Domain
 high.ehealthnutrition.com,Possible Cobalt Strike C2 Domain
 hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain
@@ -112,6 +119,9 @@ logs.ddm11125.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 metersphere.zenmen.cloud,Possible Cobalt Strike C2 Domain
+miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
+micrusroft.com,Possible Cobalt Strike C2 Domain
+mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain
 myappsec.eu,Possible Cobalt Strike C2 Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
@@ -134,7 +144,6 @@ ns1.c1oudflare.com,Possible Cobalt Strike C2 Domain
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain
-ns1.data.microsoftdata.site,Possible Cobalt Strike C2 Domain
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain
 ns1.dmitolt.com,Possible Cobalt Strike C2 Domain
 ns1.dns-supports.online,Possible Cobalt Strike C2 Domain
@@ -170,7 +179,6 @@ ns2.c1oudflare.com,Possible Cobalt Strike C2 Domain
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain
-ns2.data.microsoftdata.site,Possible Cobalt Strike C2 Domain
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain
 ns2.dns-supports.online,Possible Cobalt Strike C2 Domain
 ns2.dnslogik.com,Possible Cobalt Strike C2 Domain
@@ -194,14 +202,12 @@ ns3.227api.com,Possible Cobalt Strike C2 Domain
 ns3.aliyunn.com.cn,Possible Cobalt Strike C2 Domain
 ns3.c1oudflare.com,Possible Cobalt Strike C2 Domain
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
-ns3.data.microsoftdata.site,Possible Cobalt Strike C2 Domain
 ns3.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain
 ns3.gsafc.co,Possible Cobalt Strike C2 Domain
 ns3.microsoftgame.online,Possible Cobalt Strike C2 Domain
 ns3.simplence.cn,Possible Cobalt Strike C2 Domain
 ns3.vip404.eu.org,Possible Cobalt Strike C2 Domain
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain
-ns4.data.microsoftdata.site,Possible Cobalt Strike C2 Domain
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain
 ns_update1.wps.bj.cn,Possible Cobalt Strike C2 Domain
@@ -216,7 +222,6 @@ oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 one.gxzf.site,Possible Cobalt Strike C2 Domain
 ongmanibeimeihong.cdnaliyun.top,Possible Cobalt Strike C2 Domain
-opsqhv54xl33qcahhakpdl7gf40bkhoj.lambda-url.us-east-1.on.aws,Possible Cobalt Strike C2 Domain
 osssss.huawei.com,Possible Cobalt Strike C2 Fronting Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain
@@ -239,10 +244,12 @@ sanjianke.icu,Possible Cobalt Strike C2 Domain
 schumacherbar.com,Possible Cobalt Strike C2 Domain
 seeusdt.com,Possible Cobalt Strike C2 Domain
 septcntr.com,Possible Cobalt Strike C2 Domain
+seruvadessigen.3utilities.com,Possible Cobalt Strike C2 Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
 service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain
 service-18c6z8nb-1303896379.sh.tencentapigw.cn,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -255,21 +262,23 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dlsvfir0-1319620322.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
+service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-lqsfxdz9-1307700818.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-ndozu6av-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-oca34jj9-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
+service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 social.soft-update.services,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 solar.huawei.com,Possible Cobalt Strike C2 Fronted Domain
 spenserfitolife.com,Possible Cobalt Strike C2 Domain
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain
-srns.matrika.cn,Possible Cobalt Strike C2 Domain
 ssa.bphsearch.com,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
 swf.help.drb_da.info,Possible Cobalt Strike C2 Domain
@@ -277,6 +286,7 @@ thuushohkeengeidohteemai.spenserfitolife.com,Possible Cobalt Strike C2 Domain
 torusdt.vvvvvbeng.com,Possible Cobalt Strike C2 Domain
 twlifeuat.sumikuma.tw,Possible Cobalt Strike C2 Domain
 updataus.com,Possible Cobalt Strike C2 Fronted Domain
+update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
