@@ -49,7 +49,7 @@
 "ericleexx.com","Possible Cobaltstrike DNS C2 Domain","114.132.159.186","c1.ericleexx.com"
 "euskinc.com","Possible Cobaltstrike DNS C2 Domain","202.144.192.62","ns0248.euskinc.com"
 "fairtaxcolorado.org","Possible Cobaltstrike DNS C2 Domain","18.219.103.66","equal.fairtaxcolorado.org"
-"forcorpor.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.73","dns.forcorpor.com forcorpor.com"
+"forcorpor.com", "Possible Cobaltstrike DNS C2 Domain","31.44.184.73","dns.forcorpor.com forcorpor.com"
 "francy.world","Possible Cobaltstrike DNS C2 Domain","95.169.27.92","cs1.francy.world cs2.francy.world"
 "fuckworldxxx.shop","Possible Cobaltstrike DNS C2 Domain","123.207.51.53","ns1.fuckworldxxx.shop ns2.fuckworldxxx.shop ns3.fuckworldxxx.shop"
 "gsafc.co","Possible Cobaltstrike DNS C2 Domain","106.52.251.233","ns1.gsafc.co ns2.gsafc.co ns3.gsafc.co"
@@ -122,4 +122,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xtest.asia","Possible Cobaltstrike DNS C2 Domain","139.9.186.196","ns1.xtest.asia"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
