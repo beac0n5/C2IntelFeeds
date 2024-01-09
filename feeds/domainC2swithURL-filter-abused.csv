@@ -67,6 +67,7 @@ epsonupdate.uk,Possible Cobalt Strike C2 Domain,/match
 erihudeg.com,Possible Cobalt Strike C2 Domain,/Validate/Account/KDIKPCOYWU
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
+federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/updates.rss
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
@@ -151,7 +152,6 @@ po.vigorlabs.info,Possible PoshC2 Fronting Domain,/classroom/sharewidget/widget_
 qw.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
-redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
 septcntr.com,Possible Cobalt Strike C2 Domain,/annotate/project/48Q040IJC
