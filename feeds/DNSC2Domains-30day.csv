@@ -1,4 +1,5 @@
 #domain,ioc,IPs,C2Domains
+"10nf0x.com","Possible Cobaltstrike DNS C2 Domain","134.209.92.85","t.10nf0x.com"
 "163microsoft.com","Possible Cobaltstrike DNS C2 Domain","152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","103.146.141.98 154.92.16.150","ns2.227api.com ns3.227api.com nt1.227api.com nt2.227api.com nt3.227api.com"
 "623866.xyz","Possible Cobaltstrike DNS C2 Domain","43.143.58.212","ns1.623866.xyz ns2.623866.xyz"
@@ -12,6 +13,7 @@
 "az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17","ns1.az-gateway.com ns2.az-gateway.com"
 "baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","106.54.228.198","ns1.baidu12366.xyz"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
+"blueseaedu.com","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","ns1.blueseaedu.com ns2.blueseaedu.com"
 "bphsearch.com","Possible Cobaltstrike DNS C2 Domain","216.120.201.106","ssa.bphsearch.com"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "c1oudflare.com","Possible Cobaltstrike DNS C2 Domain","39.104.204.12","ns1.c1oudflare.com ns2.c1oudflare.com ns3.c1oudflare.com"
@@ -58,6 +60,7 @@
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
 "health-degree.com","Possible Cobaltstrike DNS C2 Domain","54.145.9.123","block.health-degree.com"
 "ibmxwork.com","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ibmxwork.com"
+"icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","49.234.12.22","api.icbcbc.com.cn git.icbcbc.com.cn m1.icbcbc.com.cn webtest.icbcbc.com.cn"
 "ifcr.top","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ifcr.top"
 "imedicalhub.com","Possible Cobaltstrike DNS C2 Domain","138.197.127.231","updates.imedicalhub.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
