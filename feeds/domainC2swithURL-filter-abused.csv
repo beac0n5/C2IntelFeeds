@@ -44,6 +44,8 @@ cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/updates.rss
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
+d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d1railx6y20syj.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d20tk7ygz8ugsj.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d2kb8sccbn3wgs.cloudfront.net,Possible Cobalt Strike C2 Domain,/favicon
@@ -51,6 +53,7 @@ d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d8g.lol,Possible Cobalt Strike C2 Domain,/api/3
+dde7q711skl5j.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 dftrqgmt6hzf2.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -226,7 +229,7 @@ www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
 www.temt.top,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
-www.xss.mba,Possible Cobalt Strike C2 Domain,/ga.js
+www.xss.mba,Possible Cobalt Strike C2 Domain,/ca
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 zx.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr
