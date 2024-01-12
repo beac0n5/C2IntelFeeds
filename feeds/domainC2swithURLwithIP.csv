@@ -86,6 +86,7 @@ dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast,195.25.243.89
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.218.129.91
 domline.online,Possible Cobalt Strike C2 Domain,/owa/,91.92.246.43
+download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 engie.red,Possible Cobalt Strike C2 Domain,/api/v1/getLast,195.25.243.89
 erihudeg.com,Possible Cobalt Strike C2 Domain,/Validate/Account/KDIKPCOYWU,185.196.8.89
@@ -224,6 +225,7 @@ success.165gov.cyou,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,47
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 t.10nf0x.com,Possible Cobalt Strike C2 Domain,/owa/,134.209.92.85
 test.wiiooiij.tk,Possible Cobalt Strike C2 Domain,/api/3,8.130.94.202
+thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
 updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation,149.40.62.54
 updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation,5.42.66.50
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
