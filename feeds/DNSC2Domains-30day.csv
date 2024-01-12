@@ -38,6 +38,7 @@
 "dns-supports.online","Possible Cobaltstrike DNS C2 Domain","45.8.158.71","ns1.dns-supports.online ns2.dns-supports.online"
 "dnslogik.com","Possible Cobaltstrike DNS C2 Domain","107.150.5.221","ns1.dnslogik.com ns2.dnslogik.com"
 "douosadgaadonline.org","Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
+"dracumi.com","Possible Cobaltstrike DNS C2 Domain","44.221.115.240","ns1.dracumi.com"
 "dudu365.club","Possible Cobaltstrike DNS C2 Domain","47.106.171.201","c1.dudu365.club"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "ehealthnutrition.com","Possible Cobaltstrike DNS C2 Domain","52.70.93.129","high.ehealthnutrition.com"
@@ -99,7 +100,7 @@
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
 "starbucksvip.com","Possible Cobaltstrike DNS C2 Domain","47.101.148.200","dns31.starbucksvip.com dns32.starbucksvip.com"
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
-"sumikuma.tw","Possible Cobaltstrike DNS C2 Domain","35.77.79.179","twlifeuat.sumikuma.tw"
+"sumikuma.tw","Possible Cobaltstrike DNS C2 Domain","35.75.17.163 35.77.79.179","carrefour-uat.sumikuma.tw twlifeuat.sumikuma.tw"
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "sunsetwxllc.com","Possible Cobaltstrike DNS C2 Domain","38.54.45.144","dc.sunsetwxllc.com"
 "superpeggy.com","Possible Cobaltstrike DNS C2 Domain","68.170.2.60","spf1.superpeggy.com"
@@ -117,4 +118,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
