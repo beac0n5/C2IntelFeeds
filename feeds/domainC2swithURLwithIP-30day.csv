@@ -141,7 +141,6 @@ jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/ca,75.90.35.49
 jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/push,75.90.35.49
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.44.149
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.49.116
-k597s.cn110bet.top,Possible Cobalt Strike C2 Fronted Domain,/maps/overlaybfpr,45.32.11.46
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,103.16.231.87
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 lindacolor.com,Possible Cobalt Strike C2 Domain,/Test/v3.56/NJ4PFEOSIGF,45.155.249.250
@@ -274,7 +273,6 @@ po.vigorlabs.info,Possible PoshC2 Domain,/classroom/sharewidget/widget_stable.ht
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/lib/ajax/jquery-3.0.1.min.js,137.184.101.24
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.94.43.210
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3,47.243.104.189
-qq.monolthicpower.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.52.219.135
 qw.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr,147.78.47.178
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,103.16.231.87
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
@@ -338,7 +336,6 @@ update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
 update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_,185.179.216.11
-updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.95.15.23
 updates.adobe-soft.net,Possible Cobalt Strike C2 Domain,/dot.gif,101.33.33.237
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
@@ -358,7 +355,6 @@ workday.us.org,Possible Cobalt Strike C2 Fronted Domain,/en-us/silentauth,3.137.
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3,39.100.83.53
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3,47.99.76.75
-www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/maps/overlaybfpr,45.32.11.46
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/V1/V2/ASA/qw,36.140.95.168
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain,/owa/,47.243.236.236
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/,47.76.72.11
