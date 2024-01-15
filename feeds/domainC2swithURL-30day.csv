@@ -323,6 +323,7 @@ windows.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 windows2.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 workday.us.org,Possible Cobalt Strike C2 Fronted Domain,/en-us/silentauth
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Fronting Domain,/business/retail-business/insurance.asp/
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain,/api/3
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/V1/V2/ASA/qw
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain,/owa/

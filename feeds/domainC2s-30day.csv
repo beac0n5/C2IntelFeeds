@@ -313,6 +313,7 @@ windows.systeam.site,Possible Cobalt Strike C2 Domain
 windows2.systeam.site,Possible Cobalt Strike C2 Domain
 workday.us.org,Possible Cobalt Strike C2 Fronted Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
+wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain
 www.emohack.xyz,Possible Cobalt Strike C2 Domain
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain

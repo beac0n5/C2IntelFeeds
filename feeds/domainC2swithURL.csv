@@ -44,6 +44,7 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/visit.js
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
@@ -223,6 +224,7 @@ windows.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 windows2.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 workday.us.org,Possible Cobalt Strike C2 Fronted Domain,/en-us/silentauth
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Fronting Domain,/business/retail-business/insurance.asp/
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain,/owa/
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
