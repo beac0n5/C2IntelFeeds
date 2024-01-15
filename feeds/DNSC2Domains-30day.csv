@@ -12,7 +12,7 @@
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17","ns1.az-gateway.com ns2.az-gateway.com"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
-"blueseaedu.com","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","ns1.blueseaedu.com ns2.blueseaedu.com"
+"blueseaedu.com ","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","ns1.blueseaedu.com ns2.blueseaedu.com"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "c1oudflare.com","Possible Cobaltstrike DNS C2 Domain","39.104.204.12","ns1.c1oudflare.com ns2.c1oudflare.com ns3.c1oudflare.com"
 "cdn-hackersdobem.com","Possible Cobaltstrike DNS C2 Domain","83.97.73.202","cdn-hackersdobem.com"
