@@ -316,7 +316,7 @@ service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/visit.js,1.15.189.30
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.106.171.201
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/j.ad,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss,85.175.101.203
 social.soft-update.services,Possible Cobalt Strike C2 Domain,/ca,170.64.210.127
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 solar.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
@@ -333,7 +333,10 @@ updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation,149.40.62.54
 updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation,5.42.66.50
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/cm,103.148.202.12
+update.microsofthk.com,Possible Cobalt Strike C2 Domain,/ca,103.148.202.10
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
+update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.148.202.10
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
 update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_,185.179.216.11
 updates.adobe-soft.net,Possible Cobalt Strike C2 Domain,/dot.gif,101.33.33.237
