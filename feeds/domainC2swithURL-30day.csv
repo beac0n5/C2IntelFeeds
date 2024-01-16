@@ -42,7 +42,7 @@ check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/case.css
 citrix-update.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/functionalStatus/v9-gZHSFuz8492wJyNJITV7oUML6xE
-cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif
+cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cms.credsera.org,Possible Cobalt Strike C2 Domain,/owa/
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
@@ -76,7 +76,7 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dns.check.support,Possible Cobalt Strike C2 Domain,/jquery-3.5.0.min.js
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
-dns.cityoall.com,Possible Cobalt Strike C2 Domain,/cm
+dns.cityoall.com,Possible Cobalt Strike C2 Domain,/ptj
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/cx
 dns.nightmare.su,Possible Cobalt Strike C2 Domain,/PZVM
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
@@ -102,7 +102,6 @@ forcorpor.com,Possible Cobalt Strike C2 Domain,/dpixel
 gertefin.com,Possible Cobalt Strike C2 Domain,/compose/v2.85/CIEU4A5V4T5
 git.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/hp/api/v1/carousel
 graph.microsoft.com,Possible Cobalt Strike C2 Domain,/_
-hahnevohjoo.spenserfitolife.com,Possible Cobalt Strike C2 Domain,/doFor/Credentials/76STLDEX
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 hostapimgmt.com,Possible Cobalt Strike C2 Domain,/posting.html
