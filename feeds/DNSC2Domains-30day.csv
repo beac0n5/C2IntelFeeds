@@ -11,6 +11,7 @@
 "amazon-shopping.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.245","cdn.amazon-shopping.nl"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17","ns1.az-gateway.com ns2.az-gateway.com"
+"baidusec.top","Possible Cobaltstrike DNS C2 Domain","62.234.54.38","ns1.baidusec.top ns2.baidusec.top ns3.baidusec.top"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "blueseaedu.com","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","ns1.blueseaedu.com ns2.blueseaedu.com"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
@@ -54,6 +55,7 @@
 "ifcr.top","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ifcr.top"
 "imedicalhub.com","Possible Cobaltstrike DNS C2 Domain","138.197.127.231","updates.imedicalhub.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
+"jd-1111.cn","Possible Cobaltstrike DNS C2 Domain","62.234.13.73","ns1.jd-1111.cn ns2.jd-1111.cn"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "johnchen88.com","Possible Cobaltstrike DNS C2 Domain","43.139.189.54","n1.johnchen88.com"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
@@ -103,3 +105,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
