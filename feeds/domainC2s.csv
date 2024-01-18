@@ -1,6 +1,7 @@
 #domain,ioc
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain
+ad.urlz.ws,Possible Cobalt Strike C2 Domain
 annualraises2023.zip,Possible Cobalt Strike C2 Domain
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
@@ -62,10 +63,12 @@ dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.nightmare.su,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
+dns.stoneco.network,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
+education.mccoe.org,Possible Cobalt Strike C2 Domain
 erihudeg.com,Possible Cobalt Strike C2 Domain
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain
@@ -74,7 +77,6 @@ fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 git.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain
-hostapimgmt.com,Possible Cobalt Strike C2 Domain
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 kr.i110.fun,Possible Cobalt Strike C2 Domain
@@ -194,10 +196,12 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+set.urlz.ws,Possible Cobalt Strike C2 Domain
 shomyo.secru.it,Possible Cobalt Strike C2 Domain
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain
+su.urlz.ws,Possible Cobalt Strike C2 Domain
 success.165gov.cyou,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
 t.10nf0x.com,Possible Cobalt Strike C2 Domain
