@@ -10,7 +10,7 @@
 "allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www1.allegiancefithealth.com"
 "amazon-shopping.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.245","cdn.amazon-shopping.nl"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
-"az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17","ns1.az-gateway.com ns2.az-gateway.com"
+"az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17" ,"ns1.az-gateway.com ns2.az-gateway.com"
 "baidusec.top","Possible Cobaltstrike DNS C2 Domain","62.234.54.38","ns1.baidusec.top ns2.baidusec.top ns3.baidusec.top"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "blueseaedu.com","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","ns1.blueseaedu.com ns2.blueseaedu.com"
@@ -105,4 +105,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
