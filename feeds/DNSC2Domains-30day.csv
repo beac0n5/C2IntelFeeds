@@ -17,7 +17,7 @@
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "c1oudflare.com","Possible Cobaltstrike DNS C2 Domain","39.104.204.12","ns1.c1oudflare.com ns2.c1oudflare.com ns3.c1oudflare.com"
 "cdn-hackersdobem.com","Possible Cobaltstrike DNS C2 Domain","83.97.73.202","cdn-hackersdobem.com"
-"centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
+"centos-yum.xyz ","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
 "check.support","Possible Cobaltstrike DNS C2 Domain","18.182.225.116","dns.check.support"
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"

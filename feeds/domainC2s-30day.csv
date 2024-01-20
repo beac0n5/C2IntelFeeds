@@ -262,6 +262,7 @@ service-b3iwjlaj-1322248009.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bauue492-1309306755.gz.tencentapigw.cn,Possible Cobalt Strike C2 Domain
 service-bvvdi136-1317500845.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
+service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dlsvfir0-1319620322.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
@@ -312,6 +313,7 @@ workday.us.org,Possible Cobalt Strike C2 Fronted Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain
 www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain
+www.checkupdates50.com,Possible Cobalt Strike C2 Domain
 www.emohack.xyz,Possible Cobalt Strike C2 Domain
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain
@@ -321,6 +323,7 @@ www.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 www.mygoogleupdate.com,Possible Cobalt Strike C2 Domain
 www.sangfor.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.temt.top,Possible Cobalt Strike C2 Domain
+www.updategateway.com,Possible Cobalt Strike C2 Domain
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain
 www.weepstakes.com,Possible Cobalt Strike C2 Domain
 www.xiongge.space,Possible Cobalt Strike C2 Domain
