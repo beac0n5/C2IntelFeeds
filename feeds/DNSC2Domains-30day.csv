@@ -26,7 +26,6 @@
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
 "container911.site","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","nsns1.container911.site"
 "controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","ns.controlcavi.com"
-"credsera.org","Possible Cobaltstrike DNS C2 Domain","5.255.114.119","cms.credsera.org"
 "crnbchina.top","Possible Cobaltstrike DNS C2 Domain","47.242.37.176","ns1.crnbchina.top ns2.crnbchina.top"
 "d1am0nd.ddns.net","Possible Cobaltstrike DNS C2 Domain","194.135.17.31","d1am0nd.ddns.net"
 "d3fgg12.lol","Possible Cobaltstrike DNS C2 Domain","71.24.150.141","pics.d3fgg12.lol"
@@ -51,9 +50,7 @@
 "gxzf.site","Possible Cobaltstrike DNS C2 Domain","23.94.76.46","one.gxzf.site"
 "h1ck0r.com","Possible Cobaltstrike DNS C2 Domain","116.211.120.25","ns1.h1ck0r.com"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
-"ibmxwork.com","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ibmxwork.com"
 "icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","49.234.12.22","api.icbcbc.com.cn git.icbcbc.com.cn m1.icbcbc.com.cn webtest.icbcbc.com.cn"
-"ifcr.top","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","ifcr.top"
 "imedicalhub.com","Possible Cobaltstrike DNS C2 Domain","138.197.127.231","updates.imedicalhub.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jd-1111.cn","Possible Cobaltstrike DNS C2 Domain","62.234.13.73","ns1.jd-1111.cn ns2.jd-1111.cn"
@@ -107,4 +104,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
