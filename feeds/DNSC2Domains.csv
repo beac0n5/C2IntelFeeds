@@ -52,7 +52,7 @@
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "rememdam.xyz","Possible Cobaltstrike DNS C2 Domain","38.47.101.244","ns1.rememdam.xyz ns2.rememdam.xyz"
-"secru.it","Possible Cobaltstrike DNS C2 Domain","20.49.255.240","shomyo.secru.it"
+"secru.it","Possible Cobaltstrike DNS C2 Domain","20.49.255.240","shomyo.secru.it "
 "simplence.cn","Possible Cobaltstrike DNS C2 Domain","47.103.20.98","ns1.simplence.cn ns2.simplence.cn ns3.simplence.cn"
 "skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
@@ -71,3 +71,4 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
