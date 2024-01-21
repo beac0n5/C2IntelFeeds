@@ -92,6 +92,7 @@
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "superpeggy.com","Possible Cobaltstrike DNS C2 Domain","68.170.2.60","spf1.superpeggy.com"
 "systeam.site","Possible Cobaltstrike DNS C2 Domain","38.46.11.186","windows.systeam.site windows2.systeam.site"
+"tcc-internal.com","Possible Cobaltstrike DNS C2 Domain","138.124.180.159","sys.tcc-internal.com"
 "teleradiocom.com","Possible Cobaltstrike DNS C2 Domain","2.58.14.243","ns1.teleradiocom.com"
 "thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
 "urlz.ws","Possible Cobaltstrike DNS C2 Domain","38.54.86.90","ad.urlz.ws set.urlz.ws su.urlz.ws"
@@ -104,3 +105,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
