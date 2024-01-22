@@ -57,6 +57,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
+dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.4.1.min.js
 dns.check.support,Possible Cobalt Strike C2 Domain,/jquery-3.5.0.min.js
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
@@ -111,7 +112,7 @@ ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns1.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns1.dnsdnsdns.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
-ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.jd-1111.cn,Possible Cobalt Strike C2 Domain,/api/x
 ns1.kp1nm8ao.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 ns1.microsoft-update.one,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
@@ -134,7 +135,7 @@ ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns2.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns2.dnsdnsdns.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
-ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink
+ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js
 ns2.jd-1111.cn,Possible Cobalt Strike C2 Domain,/api/x
 ns2.kp1nm8ao.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 ns2.microsoft-update.one,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
@@ -175,6 +176,7 @@ service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-8cdlt0mn-1310256589.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/zC
+service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/index.jsp
 service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream

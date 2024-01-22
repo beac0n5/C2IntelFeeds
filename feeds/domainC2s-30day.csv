@@ -76,6 +76,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
+dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain
 dns.check.support,Possible Cobalt Strike C2 Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
@@ -264,6 +265,7 @@ service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-8cdlt0mn-1310256589.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-b3iwjlaj-1322248009.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
