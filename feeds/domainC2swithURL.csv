@@ -12,6 +12,7 @@ apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_1
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+buy-dnd.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 c2.sangfor.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
 carrefour-uat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -61,6 +62,7 @@ dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js
+dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain,/fwlink
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.4.1.min.js
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
@@ -177,6 +179,7 @@ server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
+service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-8cdlt0mn-1310256589.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/zC
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/index.jsp
@@ -224,7 +227,7 @@ www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
 www.updategateway.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
-www.xiongge.space,Possible Cobalt Strike C2 Domain,/ga.js
+www.xiongge.space,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.xss.mba,Possible Cobalt Strike C2 Domain,/__utm.gif
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
