@@ -130,6 +130,7 @@ m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 metersphere.zenmen.cloud,Possible Cobalt Strike C2 Domain
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
+microsoftwindows.one,Possible Cobalt Strike C2 Domain
 micrusroft.com,Possible Cobalt Strike C2 Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain
@@ -257,7 +258,6 @@ schumacherbar.com,Possible Cobalt Strike C2 Domain
 septcntr.com,Possible Cobalt Strike C2 Domain
 seruvadessigen.3utilities.com,Possible Cobalt Strike C2 Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
-service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain
 service-18c6z8nb-1303896379.sh.tencentapigw.cn,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -268,7 +268,6 @@ service-8cdlt0mn-1310256589.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-b3iwjlaj-1322248009.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bauue492-1309306755.gz.tencentapigw.cn,Possible Cobalt Strike C2 Domain
 service-bvvdi136-1317500845.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
@@ -321,7 +320,6 @@ windows2.systeam.site,Possible Cobalt Strike C2 Domain
 workday.us.org,Possible Cobalt Strike C2 Fronted Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain
-www.baidu.cn,Possible Cobalt Strike C2 Fronting Domain
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain
 www.emohack.xyz,Possible Cobalt Strike C2 Domain
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain
