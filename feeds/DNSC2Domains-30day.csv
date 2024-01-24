@@ -96,6 +96,7 @@
 "teleradiocom.com","Possible Cobaltstrike DNS C2 Domain","2.58.14.243","ns1.teleradiocom.com"
 "tgu-future.cn","Possible Cobaltstrike DNS C2 Domain","119.91.214.104","cdn.tgu-future.cn"
 "thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
+"trackgroup.net","Possible Cobaltstrike DNS C2 Domain","149.28.105.251","dns.trackgroup.net"
 "triumphp.com","Possible Cobaltstrike DNS C2 Domain","139.59.239.123","ns1.triumphp.com ns2.triumphp.com"
 "urlz.ws","Possible Cobaltstrike DNS C2 Domain","38.54.86.90","ad.urlz.ws set.urlz.ws su.urlz.ws"
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
@@ -108,4 +109,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-

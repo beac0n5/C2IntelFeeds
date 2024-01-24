@@ -74,6 +74,7 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
 dns.nightmare.su,Possible Cobalt Strike C2 Domain,/PZVM
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.stoneco.network,Possible Cobalt Strike C2 Domain,/ca
+dns.trackgroup.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/fwlink
 dnsa.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPAMFE
 dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPAMFE
