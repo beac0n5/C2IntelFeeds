@@ -65,6 +65,8 @@ cs.xcb.one,Possible Cobalt Strike C2 Domain,/cm,20.196.198.116
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/cx,20.196.198.116
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,20.196.198.116
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/load,20.196.198.116
+cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae,24.137.215.159
+cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae,72.142.102.158
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,152.32.210.127
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
