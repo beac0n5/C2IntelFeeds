@@ -54,7 +54,10 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/Level/printenv/D2UDLM17
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/cm
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/cx
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/load
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
@@ -100,7 +103,7 @@ epsonupdate.uk,Possible Cobalt Strike C2 Domain,/match
 erihudeg.com,Possible Cobalt Strike C2 Domain,/Validate/Account/KDIKPCOYWU
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
-federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/cm
+federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/pixel
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 forcorpor.com,Possible Cobalt Strike C2 Domain,/dpixel
