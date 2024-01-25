@@ -30,6 +30,7 @@ cdn.microsolt.top,Possible Cobalt Strike C2 Domain,/wp-admin
 cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -99,6 +100,7 @@ log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+mcfupdservice.com,Possible Cobalt Strike C2 Domain,/activity
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3

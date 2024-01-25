@@ -137,6 +137,7 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/o
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+mcfupdservice.com,Possible Cobalt Strike C2 Domain,/activity
 metersphere.zenmen.cloud,Possible Cobalt Strike C2 Domain,/ga.js
 metersphere.zenmen.cloud,Possible Cobalt Strike C2 Domain,/match
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
