@@ -15,7 +15,7 @@
 "baidusec.top","Possible Cobaltstrike DNS C2 Domain","62.234.54.38","ns1.baidusec.top ns2.baidusec.top ns3.baidusec.top"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "blueseaedu.com","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","ns1.blueseaedu.com ns2.blueseaedu.com"
-"bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
+"bre1ce.top ","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "cdn-hackersdobem.com","Possible Cobaltstrike DNS C2 Domain","83.97.73.202","cdn-hackersdobem.com"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
@@ -37,7 +37,7 @@
 "dmitolt.com","Possible Cobaltstrike DNS C2 Domain","54.89.165.37","ns1.dmitolt.com"
 "dns-supports.online","Possible Cobaltstrike DNS C2 Domain","45.8.158.71","ns1.dns-supports.online ns2.dns-supports.online"
 "dnsdnsdns.online","Possible Cobaltstrike DNS C2 Domain","45.159.50.128","ns1.dnsdnsdns.online ns2.dnsdnsdns.online"
-"dnslogik.com","Possible Cobaltstrike DNS C2 Domain","107.150.5.221","ns1.dnslogik.com ns2.dnslogik.com"
+"dnslogik.com ","Possible Cobaltstrike DNS C2 Domain","107.150.5.221","ns1.dnslogik.com ns2.dnslogik.com"
 "douosadgaadonline.org","Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
 "dracumi.com","Possible Cobaltstrike DNS C2 Domain","44.221.115.240","ns1.dracumi.com"
 "dudu365.club","Possible Cobaltstrike DNS C2 Domain","47.106.171.201","c1.dudu365.club"
@@ -111,4 +111,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
