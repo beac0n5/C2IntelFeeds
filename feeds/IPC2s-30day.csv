@@ -453,6 +453,7 @@
 165.154.131.126,Possible Cobaltstrike C2 IP
 165.154.132.129,Possible Cobaltstrike C2 IP
 165.22.184.218,Possible Cobaltstrike C2 IP
+165.227.246.129,Possible PoshC2 IP
 165.232.114.60,Possible Cobaltstrike C2 IP
 165.3.113.96,Possible Cobaltstrike C2 IP
 167.172.147.163,Possible Cobaltstrike C2 IP
@@ -677,6 +678,7 @@
 43.136.71.208,Possible Cobaltstrike C2 IP
 43.136.84.234,Possible Cobaltstrike C2 IP
 43.136.93.47,Possible Metasploit C2 IP
+43.137.5.20,Possible Cobaltstrike C2 IP
 43.138.10.232,Possible Cobaltstrike C2 IP
 43.138.104.220,Possible Cobaltstrike C2 IP
 43.138.106.54,Possible Cobaltstrike C2 IP
