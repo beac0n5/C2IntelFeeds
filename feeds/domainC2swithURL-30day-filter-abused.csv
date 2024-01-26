@@ -146,6 +146,7 @@ newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca
 nris-d.mqpslop.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.0.min.js
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
+ns.chrome-crash.com,Possible Cobalt Strike C2 Domain,/dpixel
 ns.controlcavi.com,Possible Cobalt Strike C2 Domain,/_/SubscriptionsManagementUi/data/batchexecute
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 ns.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/updates.rss
@@ -289,6 +290,7 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss
 social.soft-update.services,Possible Cobalt Strike C2 Domain,/ca
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
+sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 success.165gov.cyou,Possible Cobalt Strike C2 Domain,/mht_image/
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
