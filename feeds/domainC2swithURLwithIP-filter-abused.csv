@@ -122,8 +122,6 @@ micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF,46.17.46.226
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM,46.17.46.226
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.44.149
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.49.116
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm,8.212.0.206
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.chrome-crash.com,Possible Cobalt Strike C2 Domain,/dpixel,91.149.237.145
@@ -238,11 +236,8 @@ vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation,149.40.62.
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation,5.42.66.50
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif,121.40.233.196
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
-www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,74.48.162.145
-www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/,47.76.72.11
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg,8.210.2.157
-www.updategateway.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,74.48.162.145
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js,47.242.203.102
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
 www.xiongge.space,Possible Cobalt Strike C2 Domain,/__utm.gif,8.130.82.167
