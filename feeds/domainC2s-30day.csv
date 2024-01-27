@@ -18,6 +18,8 @@ astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 bac.acs551.top,Possible Cobalt Strike C2 Domain
 baidu.com,Possible Cobalt Strike C2 Domain
+beacon.evilginx2.bio,Possible Cobalt Strike C2 Domain
+bec.security-ssl.org,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
 buy-dnd.shop,Possible Cobalt Strike C2 Domain
 c1.dudu365.club,Possible Cobalt Strike C2 Domain
@@ -85,7 +87,10 @@ dns.azurewinservice.com,Possible Cobalt Strike C2 Domain
 dns.check.support,Possible Cobalt Strike C2 Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
+dns.currentbee.net,Possible Cobalt Strike C2 Domain
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain
+dns.investmenttech.net,Possible Cobalt Strike C2 Domain
+dns.modernbeem.net,Possible Cobalt Strike C2 Domain
 dns.nightmare.su,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.stoneco.network,Possible Cobalt Strike C2 Domain
@@ -314,7 +319,6 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
-windows.dns-supports.online,Possible Cobalt Strike C2 Domain
 windows.systeam.site,Possible Cobalt Strike C2 Domain
 windows2.systeam.site,Possible Cobalt Strike C2 Domain
 workday.us.org,Possible Cobalt Strike C2 Fronted Domain
