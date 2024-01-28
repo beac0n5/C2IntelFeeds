@@ -28,6 +28,7 @@ c1.ericleexx.com,Possible Cobalt Strike C2 Domain,/pixel,114.132.159.186
 c2.cache.ubernet.info,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,158.180.85.205
 c2.sangfor.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,47.92.110.61
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search,38.180.78.177
+caranthir.zapto.org,Possible Cobalt Strike C2 Domain,/pixel.gif,44.211.174.103
 carrefour-uat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.75.17.163
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif,89.116.44.121
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/,104.143.47.137
@@ -280,7 +281,6 @@ po.vigorlabs.info,Possible PoshC2 Domain,/classroom/sharewidget/widget_stable.ht
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,18.220.59.241
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,18.223.156.30
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.94.43.210
-qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3,47.243.104.189
 qw.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
 qw.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr,147.78.47.178
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,103.16.231.87
@@ -326,7 +326,6 @@ service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain,/VLeNAth,94.156.6
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 shomyo.secru.it,Possible Cobalt Strike C2 Domain,/secure.html,20.49.255.240
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,85.175.101.203
-social.soft-update.services,Possible Cobalt Strike C2 Domain,/ca,170.64.210.127
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.60
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
