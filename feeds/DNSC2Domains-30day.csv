@@ -3,7 +3,6 @@
 "163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","154.92.16.150","nt1.227api.com nt2.227api.com nt3.227api.com"
 "623866.xyz","Possible Cobaltstrike DNS C2 Domain","43.143.58.212","ns1.623866.xyz ns2.623866.xyz"
-"a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "aliyunn.com.cn","Possible Cobaltstrike DNS C2 Domain","47.111.182.150","ns1.aliyunn.com.cn ns2.aliyunn.com.cn ns3.aliyunn.com.cn"
 "allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62 52.229.108.220","www1.allegiancefithealth.com"
@@ -47,7 +46,6 @@
 "ericleexx.com","Possible Cobaltstrike DNS C2 Domain","114.132.159.186","c1.ericleexx.com"
 "euskinc.com","Possible Cobaltstrike DNS C2 Domain","202.144.192.62","ns0248.euskinc.com"
 "evilginx2.bio","Possible Cobaltstrike DNS C2 Domain","64.23.174.74","beacon.evilginx2.bio"
-"forcorpor.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.73","dns.forcorpor.com forcorpor.com"
 "fuckworldxxx.shop","Possible Cobaltstrike DNS C2 Domain","123.207.51.53","ns1.fuckworldxxx.shop ns2.fuckworldxxx.shop ns3.fuckworldxxx.shop"
 "gxzf.site","Possible Cobaltstrike DNS C2 Domain","23.94.76.46","one.gxzf.site"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
@@ -115,4 +113,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
