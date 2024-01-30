@@ -51,6 +51,7 @@ citrix-update.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/mes
 cityoall.com,Possible Cobalt Strike C2 Domain,/ptj
 cloud-dnssync.com,Possible Cobalt Strike C2 Domain,/load
 cloud.huawel.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+cloudflairly.com,Possible Cobalt Strike C2 Domain,/Originate/temporal/YV3BJPO5BTV9
 cloudflairly.com,Possible Cobalt Strike C2 Domain,/devise/v7.13/DBE4YDCY84F
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 conectmeto.net,Possible Cobalt Strike C2 Domain,/reactivate/robotics/6JMNBRXRQKFK
@@ -118,14 +119,12 @@ heiyejiang.tpddns.cn,Possible Cobalt Strike C2 Domain,/pixel
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 hostapimgmt.com,Possible Cobalt Strike C2 Domain,/posting.html
-iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 igo0gle.com,Possible Cobalt Strike C2 Domain,/accelerate/FAQ/VO9D46J8
 jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/ca
 jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/push
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity
 kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 lindacolor.com,Possible Cobalt Strike C2 Domain,/Test/v3.56/NJ4PFEOSIGF
 locall.miragov.info,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -246,7 +245,6 @@ poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 qw.reg32.com,Possible Cobalt Strike C2 Domain,/profile
 qw.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr
-rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
