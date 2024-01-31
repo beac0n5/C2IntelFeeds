@@ -3,6 +3,7 @@
 "10nf0x.com","Possible Cobaltstrike DNS C2 Domain","134.209.92.85","t.10nf0x.com"
 "163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","154.92.16.150","nt1.227api.com nt2.227api.com nt3.227api.com"
+"365ub.cn","Possible Cobaltstrike DNS C2 Domain","43.159.136.92","ns.365ub.cn"
 "623866.xyz","Possible Cobaltstrike DNS C2 Domain","43.143.58.212","ns1.623866.xyz ns2.623866.xyz"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "aliyunn.com.cn","Possible Cobaltstrike DNS C2 Domain","47.111.182.150","ns1.aliyunn.com.cn ns2.aliyunn.com.cn ns3.aliyunn.com.cn"
@@ -85,6 +86,7 @@
 "ndgnetlabs.com","Possible Cobaltstrike DNS C2 Domain","18.220.59.241 18.223.156.30","cdn.ndgnetlabs.com poop.ndgnetlabs.com"
 "network-checkin.info","Possible Cobaltstrike DNS C2 Domain","178.79.130.174","network-checkin.info"
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
+"officeserver.at","Possible Cobaltstrike DNS C2 Domain","20.170.42.196","css2.officeserver.at"
 "osslog.com","Possible Cobaltstrike DNS C2 Domain","167.179.74.154","a.osslog.com"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "rememdam.xyz","Possible Cobaltstrike DNS C2 Domain","38.47.101.244","ns1.rememdam.xyz ns2.rememdam.xyz"
@@ -107,6 +109,7 @@
 "tqrjfru.cn","Possible Cobaltstrike DNS C2 Domain","114.115.210.125","c1.tqrjfru.cn"
 "trackgroup.net","Possible Cobaltstrike DNS C2 Domain","149.28.105.251","dns.trackgroup.net"
 "triumphp.com","Possible Cobaltstrike DNS C2 Domain","139.59.239.123","ns1.triumphp.com ns2.triumphp.com"
+"unitedromtech.com","Possible Cobaltstrike DNS C2 Domain","8.212.183.173","dns.unitedromtech.com"
 "urlz.ws","Possible Cobaltstrike DNS C2 Domain","38.54.86.90","ad.urlz.ws set.urlz.ws su.urlz.ws"
 "verbinding-voor-cobalt.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.25","a.verbinding-voor-cobalt.nl"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","5.101.0.245","dns.veriernano.com veriernano.com"
@@ -118,4 +121,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-

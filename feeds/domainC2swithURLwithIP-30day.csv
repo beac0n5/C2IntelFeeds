@@ -87,6 +87,7 @@ cs.xcb.one,Possible Cobalt Strike C2 Domain,/load,20.196.198.116
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae,24.137.215.159
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae,72.142.102.158
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,152.32.210.127
+css2.officeserver.at,Possible Cobalt Strike C2 Domain,/cm,20.170.42.196
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
 d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,54.89.165.37
@@ -123,6 +124,7 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
 dns.stoneco.network,Possible Cobalt Strike C2 Domain,/ca,80.78.22.159
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel,8.218.137.213
 dns.trackgroup.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,149.28.105.251
+dns.unitedromtech.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF,8.212.183.173
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/activity,5.101.0.245
 dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast,195.25.243.89
 dnsa.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPAMFE,45.32.94.53
@@ -184,6 +186,7 @@ n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push,43.139.189.54
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.49.116
 nris-d.mqpslop.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.0.min.js,35.72.79.151
+ns.365ub.cn,Possible Cobalt Strike C2 Domain,/ptj,43.159.136.92
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm,8.212.0.206
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.chrome-crash.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,91.149.237.145
