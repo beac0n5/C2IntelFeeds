@@ -28,7 +28,7 @@
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "dns-supports.online","Possible Cobaltstrike DNS C2 Domain","45.8.158.71","ns1.dns-supports.online ns2.dns-supports.online"
 "dnsdnsdns.online","Possible Cobaltstrike DNS C2 Domain","45.159.50.128","ns1.dnsdnsdns.online ns2.dnsdnsdns.online"
-"douosadgaadonline.org","Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
+"douosadgaadonline.org"," Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "evilginx2.bio","Possible Cobaltstrike DNS C2 Domain","64.23.174.74","beacon.evilginx2.bio"
 "gac-oa.com","Possible Cobaltstrike DNS C2 Domain","119.45.62.15","ns1.gac-oa.com ns2.gac-oa.com ns3.gac-oa.com"
@@ -37,7 +37,7 @@
 "ibmxwork.com","Possible Cobaltstrike DNS C2 Domain","3.74.161.55","dns.ibmxwork.com support.ibmxwork.com"
 "icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","150.158.34.235","api.icbcbc.com.cn git.icbcbc.com.cn webtest.icbcbc.com.cn"
 "imedicalhub.com","Possible Cobaltstrike DNS C2 Domain","138.197.127.231","updates.imedicalhub.com"
-"index-gpt.pro","Possible Cobaltstrike DNS C2 Domain","176.96.138.158","xmr.index-gpt.pro"
+"index-gpt.pro","Possible Cobaltstrike DNS C2 Domain","176.96.138.158" ,"xmr.index-gpt.pro"
 "inpex589.info","Possible Cobaltstrike DNS C2 Domain","13.211.149.176","ns1.inpex589.info"
 "investmenttech.net","Possible Cobaltstrike DNS C2 Domain","45.77.193.76","dns.investmenttech.net"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
@@ -84,3 +84,4 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
+
