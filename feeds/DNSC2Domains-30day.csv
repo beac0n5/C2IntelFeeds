@@ -11,7 +11,6 @@
 "amazon-shopping.nl","Possible Cobaltstrike DNS C2 Domain","85.10.151.245","cdn.amazon-shopping.nl"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "atchesonprint.com","Possible Cobaltstrike DNS C2 Domain","81.19.136.234","dns.atchesonprint.com"
-"az-gateway.com","Possible Cobaltstrike DNS C2 Domain","185.161.211.17","ns1.az-gateway.com ns2.az-gateway.com"
 "azurewinservice.com","Possible Cobaltstrike DNS C2 Domain","108.61.165.29","dns.azurewinservice.com"
 "baidusec.top","Possible Cobaltstrike DNS C2 Domain","62.234.54.38","ns1.baidusec.top ns2.baidusec.top ns3.baidusec.top"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
@@ -79,7 +78,6 @@
 "modernbeem.net","Possible Cobaltstrike DNS C2 Domain","95.179.177.89","dns.modernbeem.net"
 "mqpslop.com","Possible Cobaltstrike DNS C2 Domain","35.72.79.151","nris-d.mqpslop.com"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
-"mylcyz.top","Possible Cobaltstrike DNS C2 Domain","23.94.77.121","ns1.mylcyz.top ns2.mylcyz.top"
 "n0reply.eu.org","Possible Cobaltstrike DNS C2 Domain","167.86.127.180","ns.n0reply.eu.org"
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "nanyafpg.com","Possible Cobaltstrike DNS C2 Domain","52.195.16.11","ns88.nanyafpg.com"
@@ -121,3 +119,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
