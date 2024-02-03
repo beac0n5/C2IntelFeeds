@@ -45,7 +45,7 @@ cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,
 cdn.microsolt.top,Possible Cobalt Strike C2 Domain,/wp-admin,43.134.23.107
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,107.191.57.153
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,119.91.214.104
-cdns.casacam.net,Possible Cobalt Strike C2 Domain,/scripts/main.js,104.168.158.242
+cdns.casacam.net,Possible Cobalt Strike C2 Domain,/ping,104.168.158.242
 check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.154.2.102
 check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,65.49.210.124
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
