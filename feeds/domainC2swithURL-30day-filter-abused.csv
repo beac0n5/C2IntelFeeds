@@ -27,6 +27,7 @@ c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/visit.js
 c2.cache.ubernet.info,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 c2.sangfor.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
+can.comewithme.info,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 caranthir.zapto.org,Possible Cobalt Strike C2 Domain,/pixel.gif
 carrefour-uat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -61,6 +62,7 @@ comewithme.info,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167
 conectmeto.net,Possible Cobalt Strike C2 Domain,/reactivate/robotics/6JMNBRXRQKFK
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
+copper-king.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/61279305_
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/cx
@@ -291,7 +293,6 @@ service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI
-service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/dot.gif
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get

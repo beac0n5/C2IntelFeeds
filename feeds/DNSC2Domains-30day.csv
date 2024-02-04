@@ -26,8 +26,10 @@
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
 "cloud-dnssync.com","Possible Cobaltstrike DNS C2 Domain","178.79.130.174","cloud-dnssync.com"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
+"comewithme.info","Possible Cobaltstrike DNS C2 Domain","84.45.122.150","can.comewithme.info"
 "container911.site","Possible Cobaltstrike DNS C2 Domain","45.150.65.159","nsns1.container911.site"
 "controlcavi.com","Possible Cobaltstrike DNS C2 Domain","84.32.131.0","ns.controlcavi.com"
+"copper-king.com","Possible Cobaltstrike DNS C2 Domain","193.222.96.25","copper-king.com"
 "crnbchina.top","Possible Cobaltstrike DNS C2 Domain","47.242.37.176","ns1.crnbchina.top ns2.crnbchina.top"
 "currentbee.net","Possible Cobaltstrike DNS C2 Domain","95.179.142.153","dns.currentbee.net"
 "d1am0nd.ddns.net","Possible Cobaltstrike DNS C2 Domain","194.135.17.31","d1am0nd.ddns.net"
@@ -120,4 +122,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-

@@ -27,6 +27,7 @@ c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain
 c2.cache.ubernet.info,Possible Cobalt Strike C2 Domain
 c2.sangfor.com,Possible Cobalt Strike C2 Fronting Domain
 cache.thorjane.com,Possible Cobalt Strike C2 Domain
+can.comewithme.info,Possible Cobalt Strike C2 Domain
 caranthir.zapto.org,Possible Cobalt Strike C2 Domain
 carrefour-uat.sumikuma.tw,Possible Cobalt Strike C2 Domain
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain
@@ -62,6 +63,7 @@ conectmeto.net,Possible Cobalt Strike C2 Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
+copper-king.com,Possible Cobalt Strike C2 Domain
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 cs.xcb.one,Possible Cobalt Strike C2 Domain
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain
@@ -288,7 +290,6 @@ service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
