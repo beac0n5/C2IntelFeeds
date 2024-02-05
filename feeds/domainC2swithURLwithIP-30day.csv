@@ -151,7 +151,6 @@ git.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/ge
 git.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/hp/api/v1/carousel,49.234.12.22
 google.com,Possible Cobalt Strike C2 Fronting Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF,46.17.46.226
 google.com,Possible Cobalt Strike C2 Fronting Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM,46.17.46.226
-graph.microsoft.com,Possible Cobalt Strike C2 Domain,/_,165.22.184.218
 graph.microsoft.com,Possible Cobalt Strike C2 Domain,/_,206.189.206.61
 heiyejiang.tpddns.cn,Possible Cobalt Strike C2 Domain,/pixel,125.70.238.155
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp,121.37.206.148
