@@ -46,7 +46,7 @@
 "magication.us","Possible Cobaltstrike DNS C2 Domain","89.208.103.187","kami.magication.us"
 "microsoft-hk.com","Possible Cobaltstrike DNS C2 Domain","124.220.19.234","cdn.microsoft-hk.com"
 "microsoft-update.one","Possible Cobaltstrike DNS C2 Domain","38.207.179.24","ns1.microsoft-update.one ns2.microsoft-update.one"
-"microsoft2888.top","Possible Cobaltstrike DNS C2 Domain","1.117.93.65 ","ns1.microsoft2888.top"
+"microsoft2888.top","Possible Cobaltstrike DNS C2 Domain","1.117.93.65","ns1.microsoft2888.top"
 "microsoftgame.online","Possible Cobaltstrike DNS C2 Domain","117.50.178.197","ns1.microsoftgame.online ns2.microsoftgame.online ns3.microsoftgame.online"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
@@ -78,3 +78,4 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
+
