@@ -15,7 +15,6 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 as.reg32.com,Possible Cobalt Strike C2 Domain
-as.regsvcast.com,Possible Cobalt Strike C2 Domain
 astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 beacon.evilginx2.bio,Possible Cobalt Strike C2 Domain
@@ -73,7 +72,6 @@ d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 d1railx6y20syj.cloudfront.net,Possible Cobalt Strike C2 Domain
 d20tk7ygz8ugsj.cloudfront.net,Possible Cobalt Strike C2 Domain
-d2kb8sccbn3wgs.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -161,7 +159,6 @@ ns.checkavail.space,Possible Cobalt Strike C2 Domain
 ns.chrome-crash.com,Possible Cobalt Strike C2 Domain
 ns.controlcavi.com,Possible Cobalt Strike C2 Domain
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain
-ns.tqrjfru.cn,Possible Cobalt Strike C2 Domain
 ns0248.euskinc.com,Possible Cobalt Strike C2 Domain
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain
 ns1.623866.xyz,Possible Cobalt Strike C2 Domain
@@ -242,6 +239,7 @@ nt2.227api.com,Possible Cobalt Strike C2 Domain
 nt3.227api.com,Possible Cobalt Strike C2 Domain
 oa.cncb.info,Possible Cobalt Strike C2 Domain
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain
+ogind.drobpox.us,Possible Cobalt Strike C2 Domain
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 okled.cc,Possible Cobalt Strike C2 Fronted Domain
 one.gxzf.site,Possible Cobalt Strike C2 Domain
@@ -253,7 +251,6 @@ po.vigorlabs.info,Possible PoshC2 Domain
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain
 qw.reg32.com,Possible Cobalt Strike C2 Domain
-qw.regsvcast.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
@@ -348,4 +345,3 @@ www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 xgcs.ceshi897.cn,Possible Cobalt Strike C2 Domain
 xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain
 zx.reg32.com,Possible Cobalt Strike C2 Domain
-zx.regsvcast.com,Possible Cobalt Strike C2 Domain

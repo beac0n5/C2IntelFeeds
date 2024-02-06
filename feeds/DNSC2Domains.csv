@@ -29,7 +29,6 @@
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "dns-supports.online","Possible Cobaltstrike DNS C2 Domain","45.8.158.71","ns1.dns-supports.online ns2.dns-supports.online"
 "dnsdnsdns.online","Possible Cobaltstrike DNS C2 Domain","45.159.50.128","ns1.dnsdnsdns.online ns2.dnsdnsdns.online"
-"douosadgaadonline.org","Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "gac-oa.com","Possible Cobaltstrike DNS C2 Domain","119.45.62.15","ns1.gac-oa.com ns2.gac-oa.com ns3.gac-oa.com"
 "gxzf.site","Possible Cobaltstrike DNS C2 Domain","23.94.76.46","one.gxzf.site"
@@ -59,7 +58,6 @@
 "officeserver.at","Possible Cobaltstrike DNS C2 Domain","20.170.42.196","css2.officeserver.at"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "security-ssl.org","Possible Cobaltstrike DNS C2 Domain","20.172.163.134","bec.security-ssl.org"
-"skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
 "sumikuma.tw","Possible Cobaltstrike DNS C2 Domain","35.75.17.163","carrefour-uat.sumikuma.tw"
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
@@ -78,4 +76,3 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
-
