@@ -96,7 +96,7 @@
 "stoneco.network","Possible Cobaltstrike DNS C2 Domain","80.78.22.159","dns.stoneco.network"
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","107.191.57.153 45.76.125.214","cdn.suiteb.io"
 "sumikuma.tw","Possible Cobaltstrike DNS C2 Domain","35.75.17.163","carrefour-uat.sumikuma.tw"
-"summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99", "summerevent2023.com"
+"summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "superpeggy.com","Possible Cobaltstrike DNS C2 Domain","68.170.2.60","spf1.superpeggy.com"
 "systeam.site","Possible Cobaltstrike DNS C2 Domain","38.46.11.186","windows.systeam.site windows2.systeam.site"
 "t0nger.com","Possible Cobaltstrike DNS C2 Domain","8.218.137.213","dns.t0nger.com"
@@ -119,3 +119,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
