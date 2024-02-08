@@ -74,7 +74,7 @@
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","103.148.202.10 149.127.215.132","update.microsofthk.com"
 "microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain","103.148.202.10 149.127.215.132","update.microsoftkernel.com"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
-"mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
+"mmsy.top","Possible Cobaltstrike DNS C2 Domain", "52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
 "modernbeem.net","Possible Cobaltstrike DNS C2 Domain","95.179.177.89","dns.modernbeem.net"
 "mqpslop.com","Possible Cobaltstrike DNS C2 Domain","35.72.79.151","nris-d.mqpslop.com"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
@@ -119,3 +119,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
