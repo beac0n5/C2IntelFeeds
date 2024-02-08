@@ -157,6 +157,8 @@ micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca
 nris-d.mqpslop.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.0.min.js
@@ -318,7 +320,9 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/ca
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 updates.adobe-soft.net,Possible Cobalt Strike C2 Domain,/dot.gif
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -335,6 +339,7 @@ windows2.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Fronting Domain,/business/retail-business/insurance.asp/
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain,/owa/
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/

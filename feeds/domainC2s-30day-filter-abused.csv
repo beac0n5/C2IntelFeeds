@@ -148,6 +148,8 @@ microsoftwindows.one,Possible Cobalt Strike C2 Domain
 micrusroft.com,Possible Cobalt Strike C2 Domain
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 nris-d.mqpslop.com,Possible Cobalt Strike C2 Domain
@@ -306,7 +308,9 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 update.windows-beta.info,Possible Cobalt Strike C2 Domain
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 updates.adobe-soft.net,Possible Cobalt Strike C2 Domain
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain
@@ -323,6 +327,7 @@ windows2.systeam.site,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain
+www.fucksec.buzz,Possible Cobalt Strike C2 Domain
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain

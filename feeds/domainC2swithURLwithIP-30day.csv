@@ -183,6 +183,8 @@ micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF,46.17.46.226
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM,46.17.46.226
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push,43.139.189.54
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.49.116
@@ -351,7 +353,9 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/ca,103.148.202.10
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.148.202.10
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_,185.179.216.11
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 updates.adobe-soft.net,Possible Cobalt Strike C2 Domain,/dot.gif,101.33.33.237
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
@@ -372,6 +376,7 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain,/business/retail-business/insurance.asp/,172.206.251.179
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,84.45.122.150
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,74.48.162.145
+www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3,107.174.253.49
 www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain,/owa/,47.243.236.236
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/,47.76.72.11
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
