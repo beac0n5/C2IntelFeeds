@@ -23,7 +23,7 @@
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"
 "checkinfomation.tk","Possible Cobaltstrike DNS C2 Domain","45.32.94.53","dnsa.checkinfomation.tk dnsb.checkinfomation.tk"
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
-"cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
+"cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37 94.20.88.63","cityoall.com dns.cityoall.com"
 "cloud-dnssync.com","Possible Cobaltstrike DNS C2 Domain","178.79.130.174","cloud-dnssync.com"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
 "comewithme.info","Possible Cobaltstrike DNS C2 Domain","84.45.122.150","can.comewithme.info"
@@ -82,6 +82,7 @@
 "ndgnetlabs.com","Possible Cobaltstrike DNS C2 Domain","18.220.59.241 18.223.156.30","cdn.ndgnetlabs.com poop.ndgnetlabs.com"
 "network-checkin.info","Possible Cobaltstrike DNS C2 Domain","178.79.130.174","network-checkin.info"
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
+"nsfocus.cn.com","Possible Cobaltstrike DNS C2 Domain","107.148.1.41","vpn.nsfocus.cn.com"
 "officeserver.at","Possible Cobaltstrike DNS C2 Domain","20.170.42.196","css2.officeserver.at"
 "osslog.com","Possible Cobaltstrike DNS C2 Domain","167.179.74.154","a.osslog.com"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
@@ -117,4 +118,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
