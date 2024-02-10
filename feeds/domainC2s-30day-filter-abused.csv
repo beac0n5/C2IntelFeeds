@@ -66,6 +66,7 @@ cs.xcb.one,Possible Cobalt Strike C2 Domain
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain
 css2.officeserver.at,Possible Cobalt Strike C2 Domain
+cupdater.bbtecno.com,Possible Cobalt Strike C2 Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -97,8 +98,12 @@ dns.investmenttech.net,Possible Cobalt Strike C2 Domain
 dns.modernbeem.net,Possible Cobalt Strike C2 Domain
 dns.nightmare.su,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
+dns.pwd-reset.net,Possible Cobalt Strike C2 Domain
+dns.sstr.com.br,Possible Cobalt Strike C2 Domain
+dns.startupmartec.net,Possible Cobalt Strike C2 Domain
 dns.stoneco.network,Possible Cobalt Strike C2 Domain
 dns.t0nger.com,Possible Cobalt Strike C2 Domain
+dns.thenewbees.org,Possible Cobalt Strike C2 Domain
 dns.trackgroup.net,Possible Cobalt Strike C2 Domain
 dns.unitedromtech.com,Possible Cobalt Strike C2 Domain
 dns.veriernano.com,Possible Cobalt Strike C2 Domain
@@ -166,6 +171,7 @@ ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain
+ns1.dmitolt.com,Possible Cobalt Strike C2 Domain
 ns1.dns-supports.online,Possible Cobalt Strike C2 Domain
 ns1.dnsdnsdns.online,Possible Cobalt Strike C2 Domain
 ns1.dnslogik.com,Possible Cobalt Strike C2 Domain
@@ -188,6 +194,7 @@ ns1.weepstakes.com,Possible Cobalt Strike C2 Domain
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain
 ns1.yuejinjianke.cn,Possible Cobalt Strike C2 Domain
 ns1.zengjunhe.top,Possible Cobalt Strike C2 Domain
+ns2.0-2.pw,Possible Cobalt Strike C2 Domain
 ns2.163microsoft.com,Possible Cobalt Strike C2 Domain
 ns2.623866.xyz,Possible Cobalt Strike C2 Domain
 ns2.aliyunn.com.cn,Possible Cobalt Strike C2 Domain
@@ -300,6 +307,7 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
+update.theasiagroupai.com,Possible Cobalt Strike C2 Domain
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 update.windows-beta.info,Possible Cobalt Strike C2 Domain
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
