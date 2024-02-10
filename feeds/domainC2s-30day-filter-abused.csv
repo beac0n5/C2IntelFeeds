@@ -1,7 +1,6 @@
 #domain,ioc
 360sec.online,Possible Cobalt Strike C2 Fronting Domain
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain
-a.osslog.com,Possible Cobalt Strike C2 Domain
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain
 ad.urlz.ws,Possible Cobalt Strike C2 Domain
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -16,7 +15,6 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 as.reg32.com,Possible Cobalt Strike C2 Domain
 as.regcssv.com,Possible Cobalt Strike C2 Domain
-astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 beacon.evilginx2.bio,Possible Cobalt Strike C2 Domain
@@ -34,7 +32,6 @@ carrefour-uat.sumikuma.tw,Possible Cobalt Strike C2 Domain
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain
 cc.youku.zip,Possible Cobalt Strike C2 Domain
 cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain
-cdn-hackersdobem.com,Possible Cobalt Strike C2 Domain
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain
 cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain
@@ -276,7 +273,6 @@ service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-fkkrrv8q-1307850644.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
@@ -319,8 +315,6 @@ vpn.nsfocus.cn.com,Possible Cobalt Strike C2 Domain
 waltonfoods.com,Possible Cobalt Strike C2 Domain
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
-windows.systeam.site,Possible Cobalt Strike C2 Domain
-windows2.systeam.site,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain

@@ -1,7 +1,6 @@
 #domain,ioc,uri_path,ip
 360sec.online,Possible Cobalt Strike C2 Fronting Domain,/api/3,149.104.24.154
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/dot.gif,8.222.206.196
-a.osslog.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js,167.179.74.154
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain,/ad71d350-167d-4337-b3b8-d146b5d3d96b/,85.10.151.25
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,104.131.9.172
@@ -17,7 +16,6 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.9
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.67.152
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
-astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,62.138.6.20
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2022/11/lvJH6WKebIxYOP5aqCjtB,54.224.134.117
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,206.71.149.42
 beacon.evilginx2.bio,Possible Cobalt Strike C2 Domain,/__utm.gif,64.23.174.74
@@ -35,7 +33,6 @@ carrefour-uat.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif,89.116.44.121
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/,104.143.47.137
 cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/updates.rss,185.196.9.234
-cdn-hackersdobem.com,Possible Cobalt Strike C2 Domain,/common/oauth2/1.0/authorize?client_id=1,83.97.73.202
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,185.196.9.234
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain,/c986e4a8-46ff-4083-b6e8-e744c780e36b/,85.10.151.245
 cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,39.100.105.247
@@ -175,9 +172,13 @@ micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF,46.17.46.226
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM,46.17.46.226
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,13.82.186.9
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,13.82.186.9
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
@@ -313,7 +314,6 @@ service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss,117.50.174.131
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.93.112
-service-fkkrrv8q-1307850644.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,110.41.189.19
 service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,198.98.48.31
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,150.158.180.97
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
@@ -345,10 +345,14 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/ca,103.148.202.10
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.148.202.10
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,13.82.186.9
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
 update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_,185.179.216.11
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,13.82.186.9
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
@@ -367,8 +371,6 @@ waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U,47.76.56
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif,121.40.233.196
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername,150.158.34.235
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername,49.234.12.22
-windows.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.46.11.186
-windows2.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.46.11.186
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain,/business/retail-business/insurance.asp/,172.206.251.179
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,74.48.162.145
