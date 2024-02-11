@@ -8,6 +8,7 @@
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "atchesonprint.com","Possible Cobaltstrike DNS C2 Domain","81.19.136.234","dns.atchesonprint.com"
 "azurewinservice.com","Possible Cobaltstrike DNS C2 Domain","108.61.165.29","dns.azurewinservice.com"
+"bbtecno.com","Possible Cobaltstrike DNS C2 Domain","173.212.224.123","dev.cabul.bbtecno.com hom.cabul.bbtecno.com"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
@@ -34,7 +35,9 @@
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
 "magication.us","Possible Cobaltstrike DNS C2 Domain","89.208.103.187","kami.magication.us"
+"mb-testing.de","Possible Cobaltstrike DNS C2 Domain","64.225.111.119","ns1.mb-testing.de"
 "microsoft-update.one","Possible Cobaltstrike DNS C2 Domain","38.207.179.24","ns1.microsoft-update.one ns2.microsoft-update.one"
+"microsoftapply.com","Possible Cobaltstrike DNS C2 Domain","103.186.215.56","update.microsoftapply.com"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
 "modernbeem.net","Possible Cobaltstrike DNS C2 Domain","95.179.177.89","dns.modernbeem.net"
@@ -64,3 +67,4 @@
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
+
