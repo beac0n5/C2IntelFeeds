@@ -84,7 +84,7 @@
 "network-checkin.info","Possible Cobaltstrike DNS C2 Domain","178.79.130.174","network-checkin.info"
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
 "nsfocus.cn.com","Possible Cobaltstrike DNS C2 Domain","107.148.1.41","vpn.nsfocus.cn.com"
-"officeserver.at","Possible Cobaltstrike DNS C2 Domain","20.170.42.196","css2.officeserver.at"
+"officeserver.at","Possible Cobaltstrike DNS C2 Domain", "20.170.42.196","css2.officeserver.at"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "pwd-reset.net","Possible Cobaltstrike DNS C2 Domain","63.34.195.83","dns.pwd-reset.net"
 "rememdam.xyz","Possible Cobaltstrike DNS C2 Domain","38.47.101.244","ns1.rememdam.xyz ns2.rememdam.xyz"
@@ -122,4 +122,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
