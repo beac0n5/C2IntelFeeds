@@ -131,6 +131,7 @@ helloone.accountants.monster,Possible Cobalt Strike C2 Domain
 hom.cabul.bbtecno.com,Possible Cobalt Strike C2 Domain
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain
+import.sbdatabase.com,Possible Cobalt Strike C2 Fronting Domain
 invoce-social.com,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 k-hbgsakedfme8azej.a03.azurefd.net,Possible Cobalt Strike C2 Domain
@@ -257,6 +258,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain
 rw1.dbgblack.com,Possible Cobalt Strike C2 Domain
 sanjianke.icu,Possible Cobalt Strike C2 Domain
+sbdatabase.com,Possible Cobalt Strike C2 Fronted Domain
 seruvadessigen.3utilities.com,Possible Cobalt Strike C2 Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
 server1.updateservice.store,Possible Cobalt Strike C2 Domain
@@ -282,6 +284,7 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain

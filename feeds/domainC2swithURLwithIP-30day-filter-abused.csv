@@ -150,6 +150,7 @@ helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp,121.37.
 hom.cabul.bbtecno.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js,47.92.110.61
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
+import.sbdatabase.com,Possible Cobalt Strike C2 Fronting Domain,/css,159.100.30.156
 invoce-social.com,Possible Cobalt Strike C2 Domain,/Latest/v2.36/MZ6PHZVYK,88.214.25.253
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.44.149
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.49.116
@@ -294,6 +295,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.22
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.92.146.233
 rw1.dbgblack.com,Possible Cobalt Strike C2 Domain,/__utm.gif,24.137.215.164
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates,165.154.131.126
+sbdatabase.com,Possible Cobalt Strike C2 Fronted Domain,/css,159.100.30.156
 seruvadessigen.3utilities.com,Possible Cobalt Strike C2 Domain,/apiv8/getStatus,5.181.80.82
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
 server1.updateservice.store,Possible Cobalt Strike C2 Domain,/css/jp.css,154.82.81.114
@@ -319,6 +321,7 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.93.112
 service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,198.98.48.31
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,150.158.180.97
+service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.212.90
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI,157.245.222.152
