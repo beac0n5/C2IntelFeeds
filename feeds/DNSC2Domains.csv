@@ -5,6 +5,7 @@
 "227api.com","Possible Cobaltstrike DNS C2 Domain","154.92.16.150","nt1.227api.com nt2.227api.com nt3.227api.com"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www1.allegiancefithealth.com"
+"artstrailman.com","Possible Cobaltstrike DNS C2 Domain","95.179.189.177","dns.artstrailman.com"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "atchesonprint.com","Possible Cobaltstrike DNS C2 Domain","81.19.136.234","dns.atchesonprint.com"
 "azurewinservice.com","Possible Cobaltstrike DNS C2 Domain","108.61.165.29","dns.azurewinservice.com"
@@ -72,4 +73,3 @@
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
-
