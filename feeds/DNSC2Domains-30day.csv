@@ -1,5 +1,5 @@
 #domain,ioc,IPs,C2Domains
-"0-2.pw","Possible Cobaltstrike DNS C2 Domain ","178.128.229.91","ns2.0-2.pw"
+"0-2.pw","Possible Cobaltstrike DNS C2 Domain","178.128.229.91","ns2.0-2.pw"
 "10010.buzz","Possible Cobaltstrike DNS C2 Domain","110.41.189.19","ns3.10010.buzz ns4.10010.buzz"
 "10nf0x.com","Possible Cobaltstrike DNS C2 Domain","134.209.92.85","t.10nf0x.com"
 "163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
@@ -120,3 +120,4 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
+
