@@ -14,6 +14,7 @@ cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/
 cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/updates.rss
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -40,7 +41,6 @@ d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d8g.lol,Possible Cobalt Strike C2 Domain,/api/3
-dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/match
 dctrvi.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 dev.cabul.bbtecno.com,Possible Cobalt Strike C2 Domain,/download/
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0

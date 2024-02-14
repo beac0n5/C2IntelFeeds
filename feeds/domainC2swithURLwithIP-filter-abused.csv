@@ -13,6 +13,7 @@ cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif,89.116.44.121
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/,104.143.47.137
 cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/updates.rss,185.196.9.234
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,185.196.9.234
+cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.139.177.77
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q,213.61.251.56
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,148.66.6.26
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,148.66.6.27
@@ -49,7 +50,6 @@ d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d8g.lol,Possible Cobalt Strike C2 Domain,/api/3,159.75.104.157
-dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/match,43.139.177.77
 dctrvi.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,64.225.12.181
 dev.cabul.bbtecno.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0,3.66.49.194

@@ -34,6 +34,7 @@ cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/updates.rss
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain,/c986e4a8-46ff-4083-b6e8-e744c780e36b/
 cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
+cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -82,7 +83,6 @@ d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d8g.lol,Possible Cobalt Strike C2 Domain,/api/3
-dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/match
 dctrvi.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 dde7q711skl5j.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 dev.cabul.bbtecno.com,Possible Cobalt Strike C2 Domain,/download/
@@ -331,7 +331,6 @@ waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Fronting Domain,/business/retail-business/insurance.asp/
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3
