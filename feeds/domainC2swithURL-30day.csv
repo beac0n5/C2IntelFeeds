@@ -160,6 +160,7 @@ mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWL
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca
 ns.365ub.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -307,6 +308,7 @@ support.ibmxwork.com,Possible Cobalt Strike C2 Domain,/ml.js
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain,/pixel
 t.10nf0x.com,Possible Cobalt Strike C2 Domain,/owa/
 tab.is-not-really-a.space,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js
+teamsupd.azurewebsites.net,Possible Cobalt Strike C2 Domain,/pkg/b/
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 traincaster.net,Possible Cobalt Strike C2 Domain,/___utm.gif
 updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation
@@ -340,6 +342,7 @@ www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js
+www.itaberabanoticias.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
 www.micros0fti.com,Possible Cobalt Strike C2 Domain,/api/methon/scan
 www.okled.cc,Possible Cobalt Strike C2 Fronted Domain,/api/3
@@ -352,6 +355,7 @@ www.xss.mba,Possible Cobalt Strike C2 Domain,/load
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
+www2.itaberabanoticias.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 xgcs.ceshi897.cn,Possible Cobalt Strike C2 Domain,/cm
 xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/ga.js
 zx.reg32.com,Possible Cobalt Strike C2 Domain,/remove
