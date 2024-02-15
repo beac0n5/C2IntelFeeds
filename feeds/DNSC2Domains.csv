@@ -28,6 +28,7 @@
 "dns-supports.online","Possible Cobaltstrike DNS C2 Domain","45.8.158.71","ns1.dns-supports.online ns2.dns-supports.online"
 "dnsdnsdns.online","Possible Cobaltstrike DNS C2 Domain","45.159.50.128","ns1.dnsdnsdns.online ns2.dnsdnsdns.online"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
+"freshstartupusa.org","Possible Cobaltstrike DNS C2 Domain","207.246.74.189","dns.freshstartupusa.org"
 "gxzf.site","Possible Cobaltstrike DNS C2 Domain","23.94.76.46","one.gxzf.site"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
 "imedicalhub.com","Possible Cobaltstrike DNS C2 Domain","138.197.127.231","updates.imedicalhub.com"
@@ -73,4 +74,3 @@
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
-

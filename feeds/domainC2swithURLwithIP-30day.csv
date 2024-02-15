@@ -119,6 +119,7 @@ dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel,104.223.121.37
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif,94.20.88.63
 dns.currentbee.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,95.179.142.153
+dns.freshstartupusa.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,207.246.74.189
 dns.ibmxwork.com,Possible Cobalt Strike C2 Domain,/ml.js,3.74.161.55
 dns.investmenttech.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.77.193.76
 dns.modernbeem.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,95.179.177.89
@@ -334,7 +335,7 @@ service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain,/VLeNAth,94.156.64.124
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 shomyo.secru.it,Possible Cobalt Strike C2 Domain,/secure.html,20.49.255.240
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ptj,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 solar.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.92.146.233
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.60
