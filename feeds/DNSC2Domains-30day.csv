@@ -88,7 +88,6 @@
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "pwd-reset.net","Possible Cobaltstrike DNS C2 Domain","63.34.195.83","dns.pwd-reset.net"
 "rememdam.xyz","Possible Cobaltstrike DNS C2 Domain","38.47.101.244","ns1.rememdam.xyz ns2.rememdam.xyz"
-"secru.it","Possible Cobaltstrike DNS C2 Domain","20.49.255.240","shomyo.secru.it"
 "security-ssl.org","Possible Cobaltstrike DNS C2 Domain","20.172.163.134","bec.security-ssl.org"
 "simplence.cn","Possible Cobaltstrike DNS C2 Domain","47.103.20.98","ns1.simplence.cn ns2.simplence.cn ns3.simplence.cn"
 "skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
@@ -120,4 +119,3 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
-
