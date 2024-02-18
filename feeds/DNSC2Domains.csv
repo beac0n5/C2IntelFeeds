@@ -21,7 +21,6 @@
 "crnbchina.top","Possible Cobaltstrike DNS C2 Domain","47.242.37.176","ns1.crnbchina.top ns2.crnbchina.top"
 "digihealthlocker.com","Possible Cobaltstrike DNS C2 Domain","54.226.3.99","recommendation.digihealthlocker.com"
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
-"dmitolt.com","Possible Cobaltstrike DNS C2 Domain","54.89.165.37","ns1.dmitolt.com"
 "dnsdnsdns.online","Possible Cobaltstrike DNS C2 Domain","45.159.50.128","ns1.dnsdnsdns.online ns2.dnsdnsdns.online"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "freshstartupusa.org","Possible Cobaltstrike DNS C2 Domain","207.246.74.189","dns.freshstartupusa.org"
@@ -68,4 +67,3 @@
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
-
