@@ -10,6 +10,7 @@
 "atchesonprint.com","Possible Cobaltstrike DNS C2 Domain","81.19.136.234","dns.atchesonprint.com"
 "azurewinservice.com","Possible Cobaltstrike DNS C2 Domain","108.61.165.29","dns.azurewinservice.com"
 "bbtecno.com","Possible Cobaltstrike DNS C2 Domain","173.212.224.123","dev.cabul.bbtecno.com hom.cabul.bbtecno.com"
+"bewiser.at","Possible Cobaltstrike DNS C2 Domain","95.179.137.233","ns1.bewiser.at"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "cert-ex.net","Possible Cobaltstrike DNS C2 Domain","89.116.44.121","cc.cert-ex.net"
