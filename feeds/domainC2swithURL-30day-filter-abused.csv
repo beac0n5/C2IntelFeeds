@@ -153,7 +153,6 @@ msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca
 ns.365ub.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
@@ -265,6 +264,7 @@ service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI
+service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain,/VLeNAth
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -307,9 +307,7 @@ waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3
-www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js
 www.itaberabanoticias.com,Possible Cobalt Strike C2 Domain,/pkg/b/
@@ -317,7 +315,6 @@ www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg
 www.micros0fti.com,Possible Cobalt Strike C2 Domain,/api/methon/scan
 www.okled.cc,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif
-www.updategateway.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www.xiongge.space,Possible Cobalt Strike C2 Domain,/__utm.gif

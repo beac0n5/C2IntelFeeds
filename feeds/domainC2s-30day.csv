@@ -150,7 +150,6 @@ mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 ns.365ub.cn,Possible Cobalt Strike C2 Domain
 ns.b1ing.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
@@ -262,6 +261,7 @@ service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain
 set.urlz.ws,Possible Cobalt Strike C2 Domain
@@ -303,9 +303,7 @@ wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
-www.checkupdates50.com,Possible Cobalt Strike C2 Domain
 www.fucksec.buzz,Possible Cobalt Strike C2 Domain
-www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain
 www.itaberabanoticias.com,Possible Cobalt Strike C2 Domain
@@ -313,7 +311,6 @@ www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.micros0fti.com,Possible Cobalt Strike C2 Domain
 www.okled.cc,Possible Cobalt Strike C2 Fronted Domain
 www.qichen.fun,Possible Cobalt Strike C2 Domain
-www.updategateway.com,Possible Cobalt Strike C2 Domain
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain
 www.weepstakes.com,Possible Cobalt Strike C2 Domain
 www.xiongge.space,Possible Cobalt Strike C2 Domain
