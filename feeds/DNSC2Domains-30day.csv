@@ -14,7 +14,7 @@
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "atchesonprint.com","Possible Cobaltstrike DNS C2 Domain","81.19.136.234","dns.atchesonprint.com"
 "azurewinservice.com","Possible Cobaltstrike DNS C2 Domain","108.61.165.29","dns.azurewinservice.com"
-"bbtecno.com","Possible Cobaltstrike DNS C2 Domain","173.212.224.123","dev.cabul.bbtecno.com hom.cabul.bbtecno.com"
+"bbtecno.com"," Possible Cobaltstrike DNS C2 Domain","173.212.224.123","dev.cabul.bbtecno.com hom.cabul.bbtecno.com"
 "bewiser.at","Possible Cobaltstrike DNS C2 Domain","95.179.137.233","ns1.bewiser.at"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
@@ -104,4 +104,3 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
-
