@@ -221,6 +221,8 @@ primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.
 qw.reg32.com,Possible Cobalt Strike C2 Domain,/profile
 qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
+rd.0x115c.click,Possible Cobalt Strike C2 Domain,/cm
+rd.0x3f34.dev,Possible Cobalt Strike C2 Domain,/activity
 realusatruck.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
@@ -261,7 +263,7 @@ service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain,/VLeNAth
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ptj
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

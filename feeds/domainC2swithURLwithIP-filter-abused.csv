@@ -68,7 +68,6 @@ import.sbdatabase.com,Possible Cobalt Strike C2 Fronting Domain,/css,159.100.30.
 invoce-social.com,Possible Cobalt Strike C2 Domain,/Latest/v2.36/MZ6PHZVYK,88.214.25.253
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.44.149
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.49.116
-k-hbgsakedfme8azej.a03.azurefd.net,Possible Cobalt Strike C2 Domain,/w3c.js,167.172.234.147
 kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.141.136.133
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
@@ -113,6 +112,8 @@ one.gxzf.site,Possible Cobalt Strike C2 Domain,/clemente/details,23.94.76.46
 qw.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
 qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
+rd.0x115c.click,Possible Cobalt Strike C2 Domain,/cm,45.76.123.14
+rd.0x3f34.dev,Possible Cobalt Strike C2 Domain,/activity,45.76.123.14
 realusatruck.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned,173.44.141.86
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.92.146.233
@@ -144,7 +145,7 @@ service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ptj,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
