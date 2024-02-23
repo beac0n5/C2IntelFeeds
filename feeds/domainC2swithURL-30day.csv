@@ -96,6 +96,7 @@ dns.artstrailman.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.artstrailreviews.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.atchesonprint.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.4.1.min.js
+dns.byresolved.com,Possible Cobalt Strike C2 Domain,/acct.php
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -122,6 +123,7 @@ doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 du7wh8bicca0t.cloudfront.net,Possible Cobalt Strike C2 Domain,/functionalStatus/2k69tWX54Rr2WJefwLa6zyrX9Va
+eu.webmailservice.at,Possible Cobalt Strike C2 Domain,/ca
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/pixel
@@ -175,6 +177,7 @@ ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns1.dmitolt.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ns1.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns1.dnsdnsdns.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.ftoffice.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ns1.gac-oa.com,Possible Cobalt Strike C2 Domain,/help
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.inpex589.info,Possible Cobalt Strike C2 Domain,/5a8b3c9d1/sig_ver
