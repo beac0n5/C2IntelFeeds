@@ -78,6 +78,7 @@
 "nsfocus.cn.com","Possible Cobaltstrike DNS C2 Domain","107.148.1.41","vpn.nsfocus.cn.com"
 "officeserver.at","Possible Cobaltstrike DNS C2 Domain","20.170.42.196","css2.officeserver.at"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
+"pain.capetown","Possible Cobaltstrike DNS C2 Domain","88.214.25.36","a.pain.capetown"
 "pwd-reset.net","Possible Cobaltstrike DNS C2 Domain","63.34.195.83","dns.pwd-reset.net"
 "ringatpstul.com","Possible Cobaltstrike DNS C2 Domain","148.72.132.181","dns.ringatpstul.com ringatpstul.com"
 "security-ssl.org","Possible Cobaltstrike DNS C2 Domain","20.172.163.134","bec.security-ssl.org"
@@ -106,4 +107,3 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
-

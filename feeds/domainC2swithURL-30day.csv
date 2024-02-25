@@ -2,6 +2,7 @@
 360sec.online,Possible Cobalt Strike C2 Fronting Domain,/api/3
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/cx
 MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain,/Enable/v9/WDOBLGWR0S
+a.pain.capetown,Possible Cobalt Strike C2 Domain,/ga.js
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain,/ad71d350-167d-4337-b3b8-d146b5d3d96b/
 abillioncoin.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -266,7 +267,7 @@ service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain,/VLeNAth
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 software.ftoffice.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 solar.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -307,6 +308,7 @@ wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+www.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js
@@ -316,6 +318,7 @@ www.nbcnews.site,Possible Cobalt Strike C2 Domain,/sm.css
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.okled.cc,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif
+www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www.xss.mba,Possible Cobalt Strike C2 Domain,/en_US/all.js
