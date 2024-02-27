@@ -1,5 +1,6 @@
 #domain,ioc
 360sec.online,Possible Cobalt Strike C2 Fronting Domain
+3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain
 MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain
 a.pain.capetown,Possible Cobalt Strike C2 Domain
@@ -19,7 +20,6 @@ as.regcssv.com,Possible Cobalt Strike C2 Domain
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 baidu.com,Possible Cobalt Strike C2 Domain
-beacon.evilginx2.bio,Possible Cobalt Strike C2 Domain
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
 buy-dnd.shop,Possible Cobalt Strike C2 Domain
@@ -41,7 +41,6 @@ cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.microsolt.top,Possible Cobalt Strike C2 Domain
-cdn.suiteb.io,Possible Cobalt Strike C2 Domain
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain
 cdncloud.info,Possible Cobalt Strike C2 Domain
 cdns.casacam.net,Possible Cobalt Strike C2 Domain
@@ -120,6 +119,7 @@ eu.webmailservice.at,Possible Cobalt Strike C2 Domain
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain
 federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain
+files.jslibc.com,Possible Cobalt Strike C2 Domain
 firmwarefusion.com,Possible Cobalt Strike C2 Fronted Domain
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 git.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
@@ -268,7 +268,6 @@ ssjcw.com,Possible Cobalt Strike C2 Fronting Domain
 ssjcw.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
 su.urlz.ws,Possible Cobalt Strike C2 Domain
-success.165gov.icu,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
 support.ibmxwork.com,Possible Cobalt Strike C2 Domain
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain
