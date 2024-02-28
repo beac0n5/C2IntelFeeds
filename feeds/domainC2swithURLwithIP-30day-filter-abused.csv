@@ -156,7 +156,6 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/o
 logotep.xyz,Possible Cobalt Strike C2 Fronting Domain,/index.htm,5.181.80.82
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
-mcfupdservice.com,Possible Cobalt Strike C2 Domain,/activity,162.221.204.234
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,124.70.140.36
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
