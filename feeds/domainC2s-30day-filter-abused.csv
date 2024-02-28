@@ -17,6 +17,7 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 as.reg32.com,Possible Cobalt Strike C2 Domain
 as.regcssv.com,Possible Cobalt Strike C2 Domain
+assets.samfund.co,Possible Cobalt Strike C2 Domain
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain
@@ -102,6 +103,7 @@ dns.startupmartec.net,Possible Cobalt Strike C2 Domain
 dns.t0nger.com,Possible Cobalt Strike C2 Domain
 dns.thenewbees.org,Possible Cobalt Strike C2 Domain
 dns.trackgroup.net,Possible Cobalt Strike C2 Domain
+dns.trailcosolutions.com,Possible Cobalt Strike C2 Domain
 dns.unitedromtech.com,Possible Cobalt Strike C2 Domain
 dns.veriernano.com,Possible Cobalt Strike C2 Domain
 dnsa.checkinfomation.tk,Possible Cobalt Strike C2 Domain
