@@ -71,7 +71,7 @@
 "samfund.co","Possible Cobaltstrike DNS C2 Domain","159.223.86.140","assets.samfund.co"
 "security-ssl.org","Possible Cobaltstrike DNS C2 Domain","20.172.163.134","bec.security-ssl.org"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
-"sstr.com.br","Possible Cobaltstrike DNS C2 Domain","18.222.142.217","dns.sstr.com.br"
+"sstr.com.br", "Possible Cobaltstrike DNS C2 Domain","18.222.142.217","dns.sstr.com.br"
 "startupmartec.net","Possible Cobaltstrike DNS C2 Domain","45.77.116.186","dns.startupmartec.net"
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "t0nger.com","Possible Cobaltstrike DNS C2 Domain","8.218.137.213","dns.t0nger.com"
@@ -89,3 +89,4 @@
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
+
