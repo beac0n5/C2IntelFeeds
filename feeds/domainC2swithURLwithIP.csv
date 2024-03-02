@@ -127,6 +127,7 @@ rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 rd.0x115c.click,Possible Cobalt Strike C2 Domain,/cm,45.76.123.14
 rd.0x3f34.dev,Possible Cobalt Strike C2 Domain,/activity,45.76.123.14
 realusatruck.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned,173.44.141.86
+realzoogroup.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned,170.130.55.139
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/244E7DA752DCA7A602D55EA79CB79681.html,5.42.66.14
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/push,148.72.132.181
