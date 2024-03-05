@@ -19,6 +19,7 @@ assets.samfund.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,159.223.
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2022/11/lvJH6WKebIxYOP5aqCjtB,54.224.134.117
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain,/dpixel,20.172.163.134
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4ZT2Say1WKoheml0X8bBfa,8.210.65.76
+buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/q9dyQU9X6RjWVCdQhUmRMY,8.210.65.76
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/pixel.gif,8.210.65.76
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search,38.180.78.177
 can.comewithme.info,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,84.45.122.150
@@ -164,7 +165,7 @@ msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,23.101.122.219
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,40.86.174.181
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.44.149
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ptj,8.212.49.116
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.49.116
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm,8.212.0.206
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,167.86.127.180

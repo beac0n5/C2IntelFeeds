@@ -19,6 +19,7 @@ assets.samfund.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2022/11/lvJH6WKebIxYOP5aqCjtB
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain,/dpixel
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4ZT2Say1WKoheml0X8bBfa
+buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/q9dyQU9X6RjWVCdQhUmRMY
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/pixel.gif
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
 can.comewithme.info,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -134,7 +135,6 @@ msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ptj
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
