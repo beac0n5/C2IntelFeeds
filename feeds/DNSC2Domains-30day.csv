@@ -77,7 +77,7 @@
 "tcc-internal.com","Possible Cobaltstrike DNS C2 Domain","138.124.180.159","sys.tcc-internal.com"
 "theasiagroupai.com","Possible Cobaltstrike DNS C2 Domain","154.22.123.68","update.theasiagroupai.com"
 "thenewbees.org","Possible Cobaltstrike DNS C2 Domain","199.247.30.209","dns.thenewbees.org"
-"thorjane.com","Possible Cobaltstrike DNS C2 Domain", "38.180.78.177","cache.thorjane.com"
+"thorjane.com","Possible Cobaltstrike DNS C2 Domain","38.180.78.177","cache.thorjane.com"
 "trackgroup.net","Possible Cobaltstrike DNS C2 Domain","149.28.105.251","dns.trackgroup.net"
 "trailcocompany.com","Possible Cobaltstrike DNS C2 Domain","137.220.55.94","dns.trailcocompany.com"
 "trailcosolutions.com","Possible Cobaltstrike DNS C2 Domain","78.141.217.186","dns.trailcosolutions.com"
@@ -88,4 +88,3 @@
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
-
