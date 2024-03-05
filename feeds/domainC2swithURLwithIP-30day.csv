@@ -27,7 +27,7 @@ can.comewithme.info,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-329
 cb.1ancast3r.top,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned,138.68.40.6
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif,89.116.44.121
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/,104.143.47.137
-cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/updates.rss,185.196.9.234
+cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/push,185.196.9.234
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,185.196.9.234
 cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/api/x,43.139.177.77
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q,213.61.251.56
@@ -134,8 +134,8 @@ intl.ccb.com.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 invoce-social.com,Possible Cobalt Strike C2 Domain,/Latest/v2.36/MZ6PHZVYK,88.214.25.253
 ipadd.show,Possible Cobalt Strike C2 Domain,/mod/resellers/2E4WLR6U3UV,172.200.160.7
 jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-2.8.4.min.js,4.158.105.167
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel,8.212.44.149
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel,8.212.49.116
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.44.149
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.49.116
 k-hbgsakedfme8azej.a03.azurefd.net,Possible Cobalt Strike C2 Domain,/w3c.js,167.172.234.147
 kami.magication.us,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg,89.208.103.187
 kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.141.136.133
@@ -169,7 +169,7 @@ msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,20.226.21.146
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,23.101.122.219
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,40.86.174.181
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ptj,8.212.44.149
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ptj,8.212.49.116
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm,8.212.0.206
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35

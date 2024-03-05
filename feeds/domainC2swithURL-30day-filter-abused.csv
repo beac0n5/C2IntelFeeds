@@ -25,7 +25,7 @@ can.comewithme.info,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-329
 cb.1ancast3r.top,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/
-cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/updates.rss
+cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/push
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/api/x
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
@@ -115,7 +115,7 @@ import.sbdatabase.com,Possible Cobalt Strike C2 Fronting Domain,/css
 intl.ccb.com.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 invoce-social.com,Possible Cobalt Strike C2 Domain,/Latest/v2.36/MZ6PHZVYK
 ipadd.show,Possible Cobalt Strike C2 Domain,/mod/resellers/2E4WLR6U3UV
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity
 k-hbgsakedfme8azej.a03.azurefd.net,Possible Cobalt Strike C2 Domain,/w3c.js
 kami.magication.us,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg
 kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -133,6 +133,7 @@ mscs.v1.vscll.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ptj
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
