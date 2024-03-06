@@ -53,6 +53,7 @@
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
 "modernbeem.net","Possible Cobaltstrike DNS C2 Domain","95.179.177.89","dns.modernbeem.net"
+"msn-microsoft.co","Possible Cobaltstrike DNS C2 Domain","206.237.16.117","ns1.msn-microsoft.co ns2.msn-microsoft.co"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
 "n0reply.eu.org","Possible Cobaltstrike DNS C2 Domain","167.86.127.180","ns.n0reply.eu.org"
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
