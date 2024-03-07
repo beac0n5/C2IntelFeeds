@@ -21,6 +21,7 @@ aws-apps.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/other
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain,/dpixel
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4ZT2Say1WKoheml0X8bBfa
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4xcGQyhFKT0Cmh8kMDtZRH
+buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/8uB8QyhVfkeHhmFR4DgCou1vLKki6Dw1ssuJ3L6p7si3oMdEAN
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/q9dyQU9X6RjWVCdQhUmRMY
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/pixel.gif
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
@@ -269,7 +270,6 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/visit.js
 update.theasiagroupai.com,Possible Cobalt Strike C2 Domain,/v1/buckets/main/collections/hijack-blocklists
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
-update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

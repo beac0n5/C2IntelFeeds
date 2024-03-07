@@ -23,6 +23,7 @@ baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,60.204.187.184
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain,/dpixel,20.172.163.134
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4ZT2Say1WKoheml0X8bBfa,8.210.65.76
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4xcGQyhFKT0Cmh8kMDtZRH,8.210.65.76
+buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/8uB8QyhVfkeHhmFR4DgCou1vLKki6Dw1ssuJ3L6p7si3oMdEAN,8.210.65.76
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/q9dyQU9X6RjWVCdQhUmRMY,8.210.65.76
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/pixel.gif,8.210.65.76
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search,38.180.78.177
@@ -319,7 +320,6 @@ update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,20.226.21.146
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
-update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_,185.179.216.11
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,13.82.186.9
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
