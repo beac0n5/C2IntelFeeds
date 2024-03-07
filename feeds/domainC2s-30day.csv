@@ -33,6 +33,7 @@ cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain
+cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain
 cdn043sc.azureedge.net,Possible Cobalt Strike C2 Domain
 cdncloud.info,Possible Cobalt Strike C2 Domain
 check.judicical.ml,Possible Cobalt Strike C2 Domain
@@ -100,6 +101,7 @@ dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
+dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 du7wh8bicca0t.cloudfront.net,Possible Cobalt Strike C2 Domain
 eu.webmailservice.at,Possible Cobalt Strike C2 Domain
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain
@@ -137,14 +139,18 @@ mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 mscs.v1.vscll.com,Possible Cobalt Strike C2 Domain
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+n1.johnchen88.com,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 ns.b1ing.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain
+ns1.623866.xyz,Possible Cobalt Strike C2 Domain
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
+ns1.baidu12366.xyz,Possible Cobalt Strike C2 Domain
 ns1.bewiser.at,Possible Cobalt Strike C2 Domain
 ns1.bre1ce.top,Possible Cobalt Strike C2 Domain
+ns1.bwork.online,Possible Cobalt Strike C2 Domain
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain
@@ -152,26 +158,39 @@ ns1.dmitolt.com,Possible Cobalt Strike C2 Domain
 ns1.dns-supports.online,Possible Cobalt Strike C2 Domain
 ns1.dnsdnsdns.online,Possible Cobalt Strike C2 Domain
 ns1.ftoffice.com,Possible Cobalt Strike C2 Domain
+ns1.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 ns1.mb-testing.de,Possible Cobalt Strike C2 Domain
 ns1.microsoft-update.one,Possible Cobalt Strike C2 Domain
 ns1.msn-microsoft.co,Possible Cobalt Strike C2 Domain
 ns1.netiapp.org,Possible Cobalt Strike C2 Domain
+ns1.vip404.eu.org,Possible Cobalt Strike C2 Domain
 ns1.weepstakes.com,Possible Cobalt Strike C2 Domain
+ns1.yuejinjianke.cn,Possible Cobalt Strike C2 Domain
+ns1.zengjunhe.top,Possible Cobalt Strike C2 Domain
 ns2.0-2.pw,Possible Cobalt Strike C2 Domain
 ns2.163microsoft.com,Possible Cobalt Strike C2 Domain
+ns2.623866.xyz,Possible Cobalt Strike C2 Domain
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain
 ns2.dns-supports.online,Possible Cobalt Strike C2 Domain
 ns2.dnsdnsdns.online,Possible Cobalt Strike C2 Domain
+ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 ns2.microsoft-update.one,Possible Cobalt Strike C2 Domain
 ns2.msn-microsoft.co,Possible Cobalt Strike C2 Domain
 ns2.netiapp.org,Possible Cobalt Strike C2 Domain
+ns2.vip404.eu.org,Possible Cobalt Strike C2 Domain
+ns2.yuejinjianke.cn,Possible Cobalt Strike C2 Domain
+ns2.zengjunhe.top,Possible Cobalt Strike C2 Domain
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
+ns3.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain
+ns3.vip404.eu.org,Possible Cobalt Strike C2 Domain
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain
 ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain
+ns_update1.wps.bj.cn,Possible Cobalt Strike C2 Domain
+ns_update2.wps.bj.cn,Possible Cobalt Strike C2 Domain
 nt1.227api.com,Possible Cobalt Strike C2 Domain
 nt2.227api.com,Possible Cobalt Strike C2 Domain
 nt3.227api.com,Possible Cobalt Strike C2 Domain
