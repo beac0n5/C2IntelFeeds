@@ -11,7 +11,6 @@ ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,104.131.9.172
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,159.89.187.246
 all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.92.146.233
-annualraises2023.zip,Possible Cobalt Strike C2 Domain,/visit.js,143.198.17.52
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,124.223.62.233
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
@@ -34,21 +33,6 @@ cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/push,185.196.9.234
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,185.196.9.234
 cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/api/x,43.139.177.77
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q,213.61.251.56
-cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,148.66.6.26
-cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,148.66.6.27
-cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,148.66.6.28
-cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,148.66.6.29
-cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,148.66.6.30
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,148.66.6.26
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,148.66.6.27
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,148.66.6.28
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,148.66.6.29
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,148.66.6.30
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,148.66.6.26
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,148.66.6.27
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,148.66.6.28
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,148.66.6.29
-cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,148.66.6.30
 cdn.prdcdn.com,Possible Cobalt Strike C2 Domain,/hcp.php,20.104.183.199
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,119.91.214.104
 cdn043sc.azureedge.net,Possible Cobalt Strike C2 Domain,/ms-settings-proximity,143.244.186.189
