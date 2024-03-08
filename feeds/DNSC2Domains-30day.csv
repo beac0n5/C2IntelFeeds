@@ -71,6 +71,7 @@
 "officeserver.at","Possible Cobaltstrike DNS C2 Domain","20.170.42.196","css2.officeserver.at"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "pain.capetown","Possible Cobaltstrike DNS C2 Domain","88.214.25.36","a.pain.capetown"
+"prdcdn.com","Possible Cobaltstrike DNS C2 Domain","20.104.183.199","cdn.prdcdn.com citrix.prdcdn.com dnsrv.prdcdn.com updates.prdcdn.com"
 "pwd-reset.net","Possible Cobaltstrike DNS C2 Domain","63.34.195.83","dns.pwd-reset.net"
 "recentbeelive.com","Possible Cobaltstrike DNS C2 Domain","45.77.160.60","dns.recentbeelive.com"
 "ringatpstul.com","Possible Cobaltstrike DNS C2 Domain","148.72.132.181","dns.ringatpstul.com ringatpstul.com"
