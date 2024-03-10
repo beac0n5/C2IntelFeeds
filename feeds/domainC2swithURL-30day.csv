@@ -11,15 +11,17 @@ adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
+arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 assets.samfund.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2022/11/lvJH6WKebIxYOP5aqCjtB
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain,/dpixel
+buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/0aB7zTvqL7n68TmoDJMicD
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4ZT2Say1WKoheml0X8bBfa
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4xcGQyhFKT0Cmh8kMDtZRH
-buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/AfTDJDu0UPPzuALDkjdqnDbzxabXckBtM6H8ZReo1wi15htkq0
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/q9dyQU9X6RjWVCdQhUmRMY
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/pixel.gif
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
@@ -307,7 +309,7 @@ www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif
 www.shelter-paws.com,Possible Cobalt Strike C2 Domain,/visit.js
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
-www.xss.mba,Possible Cobalt Strike C2 Domain,/ca
+www.xss.mba,Possible Cobalt Strike C2 Domain,/pixel
 www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
