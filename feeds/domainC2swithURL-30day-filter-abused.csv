@@ -49,6 +49,7 @@ cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity
+cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ga.js
 css2.officeserver.at,Possible Cobalt Strike C2 Domain,/cm
 csvs.ter.one,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 cupdater.bbtecno.com,Possible Cobalt Strike C2 Domain,/download/
