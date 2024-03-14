@@ -45,7 +45,7 @@
 "is-not-really-a.space","Possible Cobaltstrike DNS C2 Domain","195.65.41.209","tab.is-not-really-a.space"
 "is-not-really-a.website","Possible Cobaltstrike DNS C2 Domain","195.65.41.209","www.is-not-really-a.website"
 "jd-vip.cn","Possible Cobaltstrike DNS C2 Domain","62.234.13.73","ns1.jd-vip.cn ns2.jd-vip.cn"
-"jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251" ,"dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
+"jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "johnchen88.com","Possible Cobaltstrike DNS C2 Domain","43.139.189.54","n1.johnchen88.com"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
 "marfei.zone","Possible Cobaltstrike DNS C2 Domain","121.40.119.94","c2.marfei.zone"
