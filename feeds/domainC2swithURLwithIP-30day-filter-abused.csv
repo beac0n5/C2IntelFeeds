@@ -55,8 +55,6 @@ css2.officeserver.at,Possible Cobalt Strike C2 Domain,/cm,20.170.42.196
 csvs.ter.one,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,94.156.71.76
 cyprusvillahomes.com,Possible Cobalt Strike C2 Domain,/assets/scripts/a0aba203-e3f4-4a26-81f8/get/jQuery-UI-1.12.1,20.91.244.250
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
-d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,107.23.38.171
-d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,107.23.38.171
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
@@ -70,7 +68,6 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js,62.234.13.73
 dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain,/fwlink,62.234.13.73
-dmobd90auod5w.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,107.23.38.171
 dns.artstrailman.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,95.179.189.177
 dns.artstrailreviews.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.77.72.150
 dns.atchesonprint.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF,81.19.136.234
@@ -140,10 +137,8 @@ mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.ph
 mscs.v1.vscll.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.147.172.234
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
-msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
-msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,13.82.186.9
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,159.112.177.137
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/pkg/b/,20.226.21.146
@@ -240,7 +235,6 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.22
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/dam.html,5.42.66.14
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.158.101
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/push,148.72.132.181
-rw1.dbgblack.com,Possible Cobalt Strike C2 Domain,/__utm.gif,24.137.215.164
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates,165.154.131.126
 saturnexa.com,Possible Cobalt Strike C2 Domain,/produce/editorial/YDPOBKJG,179.60.149.220
 saturnreviews.com,Possible Cobalt Strike C2 Domain,/Alert/welcome/QJ81AIZ9QHK,179.60.149.231
@@ -307,10 +301,8 @@ update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.12.84.6
 update.theasiagroupai.com,Possible Cobalt Strike C2 Domain,/v1/buckets/main/collections/hijack-blocklists,154.22.123.68
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
-update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
-update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
 updates.prdcdn.com,Possible Cobalt Strike C2 Domain,/hcp.php,20.104.183.199
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
