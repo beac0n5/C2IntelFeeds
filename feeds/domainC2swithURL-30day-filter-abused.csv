@@ -13,6 +13,7 @@ adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
+apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/bm.css
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile
@@ -30,8 +31,8 @@ c2.marfei.zone,Possible Cobalt Strike C2 Domain,/activity
 cb.1ancast3r.top,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/
+cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/match
 cdn-1488.winstate.cc,Possible Cobalt Strike C2 Domain,/visit.js
-cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/load
 cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain,/api/x
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
@@ -296,7 +297,7 @@ vpn.nsfocus.cn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U
 wiZjqPI1.azureedge.net,Possible Cobalt Strike C2 Domain,/filesystem.htm
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-www.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.cdnyychanlun.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 www.cloudflarecache.top,Possible Cobalt Strike C2 Domain,/j.ad
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
@@ -305,6 +306,7 @@ www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.j
 www.itaberabanoticias.com,Possible Cobalt Strike C2 Domain,/pkg/b/
 www.micshcnds.top,Possible Cobalt Strike C2 Domain,/cs
 www.nbcnews.site,Possible Cobalt Strike C2 Domain,/sm.css
+www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain,/bm.css
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif
 www.shelter-paws.com,Possible Cobalt Strike C2 Domain,/visit.js
