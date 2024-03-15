@@ -70,6 +70,7 @@
 "no-war-make.love","Possible Cobaltstrike DNS C2 Domain","195.65.41.209","dns.no-war-make.love"
 "nsfocus.cn.com","Possible Cobaltstrike DNS C2 Domain","107.148.1.41","vpn.nsfocus.cn.com"
 "officeserver.at","Possible Cobaltstrike DNS C2 Domain","20.170.42.196","css2.officeserver.at"
+"ontexcare.com","Possible Cobaltstrike DNS C2 Domain","95.179.190.134","dns.ontexcare.com"
 "otxcarecosmetics.com","Possible Cobaltstrike DNS C2 Domain","168.100.11.227","dns.otxcarecosmetics.com"
 "otxcosmeticscare.com","Possible Cobaltstrike DNS C2 Domain","134.209.87.204","dns.otxcosmeticscare.com"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
@@ -103,4 +104,3 @@
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-

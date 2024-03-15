@@ -49,6 +49,7 @@
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "nanyafpg.com","Possible Cobaltstrike DNS C2 Domain","52.195.16.11","ns88.nanyafpg.com"
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
+"ontexcare.com","Possible Cobaltstrike DNS C2 Domain","95.179.190.134","dns.ontexcare.com"
 "otxcarecosmetics.com","Possible Cobaltstrike DNS C2 Domain","168.100.11.227","dns.otxcarecosmetics.com"
 "otxcosmeticscare.com","Possible Cobaltstrike DNS C2 Domain","134.209.87.204","dns.otxcosmeticscare.com"
 "prdcdn.com","Possible Cobaltstrike DNS C2 Domain","20.104.183.199","cdn.prdcdn.com citrix.prdcdn.com dnsrv.prdcdn.com updates.prdcdn.com"
@@ -70,4 +71,3 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-
