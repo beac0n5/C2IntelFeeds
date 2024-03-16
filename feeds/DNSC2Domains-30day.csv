@@ -35,7 +35,7 @@
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "freshstartupusa.org","Possible Cobaltstrike DNS C2 Domain","207.246.74.189","dns.freshstartupusa.org"
-"ftoffice.com","Possible Cobaltstrike DNS C2 Domain","46.101.147.204","ns1.ftoffice.com"
+" ftoffice.com","Possible Cobaltstrike DNS C2 Domain","46.101.147.204","ns1.ftoffice.com"
 "fuckworldxxx.shop","Possible Cobaltstrike DNS C2 Domain","123.207.51.53","ns1.fuckworldxxx.shop ns2.fuckworldxxx.shop ns3.fuckworldxxx.shop"
 "gxzf.site","Possible Cobaltstrike DNS C2 Domain","23.94.76.46","one.gxzf.site"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","134.122.129.173 156.234.211.226","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
