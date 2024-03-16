@@ -17,6 +17,7 @@
 "baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","106.54.228.198","ns1.baidu12366.xyz"
 "bewiser.at","Possible Cobaltstrike DNS C2 Domain","95.179.137.233","ns1.bewiser.at"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
+"bois.sh","Possible Cobaltstrike DNS C2 Domain","20.55.16.22","bad.bois.sh good.bois.sh scoring.bois.sh"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
 "bwork.online","Possible Cobaltstrike DNS C2 Domain","124.221.133.199","ns1.bwork.online"
 "byresolved.com","Possible Cobaltstrike DNS C2 Domain","18.219.198.202","dns.byresolved.com"
@@ -88,6 +89,7 @@
 "tgu-future.cn","Possible Cobaltstrike DNS C2 Domain","119.91.214.104","cdn.tgu-future.cn"
 "theasiagroupai.com","Possible Cobaltstrike DNS C2 Domain","154.22.123.68","update.theasiagroupai.com"
 "thenewbees.org","Possible Cobaltstrike DNS C2 Domain","199.247.30.209","dns.thenewbees.org"
+"tqrjfru.cn","Possible Cobaltstrike DNS C2 Domain","114.115.210.125","c1.tqrjfru.cn"
 "trailcocompany.com","Possible Cobaltstrike DNS C2 Domain","137.220.55.94","dns.trailcocompany.com"
 "trailcosolutions.com","Possible Cobaltstrike DNS C2 Domain","78.141.217.186","dns.trailcosolutions.com"
 "unitedromtech.com","Possible Cobaltstrike DNS C2 Domain","8.212.183.173","dns.unitedromtech.com"
@@ -102,4 +104,3 @@
 "yuejinjianke.cn","Possible Cobaltstrike DNS C2 Domain","101.43.191.108","ns1.yuejinjianke.cn ns2.yuejinjianke.cn"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-

@@ -6,7 +6,7 @@
 55.18.131.34.bc.googleusercontent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 69uiu06es5.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/search/
 Jango-pulse.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
-a.pain.capetown,Possible Cobalt Strike C2 Domain,/updates.rss
+a.pain.capetown,Possible Cobalt Strike C2 Domain,/j.ad
 abillioncoin.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
@@ -19,6 +19,7 @@ arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-sta
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 assets.samfund.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+bad.bois.sh,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bbo.microsoft360.xyz,Possible Cobalt Strike C2 Domain,/image/
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain,/dpixel
@@ -28,6 +29,7 @@ buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4ZT2Say1WKoheml0X8bBfa
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4xcGQyhFKT0Cmh8kMDtZRH
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/q9dyQU9X6RjWVCdQhUmRMY
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/pixel.gif
+c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/load
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/activity
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/
@@ -112,6 +114,7 @@ exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 firmwarefusion.com,Possible Cobalt Strike C2 Fronted Domain,/dam.html
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
+good.bois.sh,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 googlesupportacc.top,Possible Cobalt Strike C2 Domain,/bg
 hathat.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
@@ -232,6 +235,7 @@ sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
 saturnexa.com,Possible Cobalt Strike C2 Domain,/produce/editorial/YDPOBKJG
 saturnreviews.com,Possible Cobalt Strike C2 Domain,/Alert/welcome/QJ81AIZ9QHK
 sbdatabase.com,Possible Cobalt Strike C2 Fronted Domain,/css
+scoring.bois.sh,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 security-socks.expert,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL
 security-socks777.com,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
@@ -263,7 +267,7 @@ service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 sfzd.tianxuesong.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 shopmoneyweb.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/dpixel
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 software.ftoffice.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ss.wfpay.xyz.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -314,8 +318,8 @@ www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www.xss.mba,Possible Cobalt Strike C2 Domain,/pixel
 www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
-www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson
-www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
+www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos
+www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/ga.js
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif
