@@ -8,7 +8,6 @@ aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,159.89.187.246
 apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/bm.css,154.82.81.136
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
-as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,60.204.187.184
 bbo.microsoft360.xyz,Possible Cobalt Strike C2 Domain,/image/,23.95.208.14
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS,194.165.16.59
@@ -154,7 +153,6 @@ payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr,45.82.78
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.94.43.210
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,1.14.69.16
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.153.228.97
-qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/dam.html,5.42.66.14
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.158.101
@@ -217,4 +215,3 @@ www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson,2
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js,1.94.52.236
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif,60.204.208.32
 z886888.top,Possible Cobalt Strike C2 Domain,/ca,8.222.147.15
-zx.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175

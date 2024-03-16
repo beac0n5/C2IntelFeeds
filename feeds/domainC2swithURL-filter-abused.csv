@@ -8,7 +8,6 @@ aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/bm.css
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
-as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 bbo.microsoft360.xyz,Possible Cobalt Strike C2 Domain,/image/
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/0aB7zTvqL7n68TmoDJMicD
@@ -146,7 +145,6 @@ payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
-qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/dam.html
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
@@ -208,4 +206,3 @@ www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif
 z886888.top,Possible Cobalt Strike C2 Domain,/ca
-zx.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
