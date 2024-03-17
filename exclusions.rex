@@ -250,5 +250,8 @@
 ^cdn\.yougov\.com,
 ^cdn\.zendesk\.com,
 ^api\.hsbc\.com,
+^client-api\.arkoselabs\.com,
+^epic-games-api\.arkoselabs\.com,
+^prod-ireland\.arkoselabs\.com,
 ^http,
 ^https,
