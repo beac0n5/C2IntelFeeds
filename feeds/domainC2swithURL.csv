@@ -4,6 +4,7 @@
 69uiu06es5.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/search/
 Jango-pulse.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
 a.pain.capetown,Possible Cobalt Strike C2 Domain,/j.ad
+ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/sm.css
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -176,11 +177,13 @@ service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-mx77zdhn-1303081427.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/user
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
+set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 shopmoneyweb.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/pixel.gif
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/load
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL
+su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 support.ibmxwork.com,Possible Cobalt Strike C2 Domain,/ml.js
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain,/pixel
