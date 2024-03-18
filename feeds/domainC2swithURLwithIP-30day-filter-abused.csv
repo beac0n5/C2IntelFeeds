@@ -13,7 +13,7 @@ adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,104.131.9.172
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,159.89.187.246
 all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.92.146.233
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,124.223.62.233
-apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/bm.css,154.82.81.136
+apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/sm.css,154.82.81.136
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
@@ -159,6 +159,7 @@ ns1.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.181.70
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.94.43.210
 ns1.ftoffice.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,46.101.147.204
 ns1.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
+ns1.fwmtest.cn,Possible Cobalt Strike C2 Domain,/fwlink,1.94.110.130
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink,156.234.211.226
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ptj,134.122.129.173
 ns1.jd-vip.cn,Possible Cobalt Strike C2 Domain,/dot.gif,62.234.13.73
@@ -183,6 +184,7 @@ ns2.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.242.3
 ns2.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.181.70.201
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.94.43.210
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
+ns2.fwmtest.cn,Possible Cobalt Strike C2 Domain,/dpixel,1.94.110.130
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/dpixel,134.122.129.173
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js,156.234.211.226
 ns2.jd-vip.cn,Possible Cobalt Strike C2 Domain,/g.pixel,62.234.13.73
@@ -282,6 +284,7 @@ t.10nf0x.com,Possible Cobalt Strike C2 Domain,/owa/,159.223.220.165
 tab.is-not-really-a.space,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js,195.65.41.209
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,1.14.69.16
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,43.153.228.97
+tgsk.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,49.232.191.68
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
 udptestsh6062.ialicdn.com.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.92.146.233
 umfi.live,Possible Cobalt Strike C2 Domain,/pixel.gif,34.216.132.82
@@ -311,17 +314,17 @@ www.hotzhuan.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js,195.65.41.209
 www.micshcnds.top,Possible Cobalt Strike C2 Domain,/cs,107.151.246.236
 www.nbcnews.site,Possible Cobalt Strike C2 Domain,/sm.css,154.82.81.114
-www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain,/bm.css,154.82.81.136
+www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain,/sm.css,154.82.81.136
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,94.156.71.76
 www.shelter-paws.com,Possible Cobalt Strike C2 Domain,/visit.js,74.235.140.183
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.192.104
+www.temt.top,Possible Cobalt Strike C2 Domain,/visit.js,43.138.151.163
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.177.59
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx,47.99.177.59
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
 www.xss.mba,Possible Cobalt Strike C2 Domain,/pixel,58.51.152.18
 www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,94.156.71.76
-www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos,20.104.172.62
-www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb,20.104.172.62
+www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos,20.104.172.62
 xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/ga.js,176.96.138.158
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js,1.94.52.236
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif,60.204.208.32

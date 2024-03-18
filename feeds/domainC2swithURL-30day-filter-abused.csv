@@ -13,7 +13,7 @@ adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
-apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/bm.css
+apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/sm.css
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile
@@ -156,6 +156,7 @@ ns1.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns1.ftoffice.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ns1.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
+ns1.fwmtest.cn,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ptj
 ns1.jd-vip.cn,Possible Cobalt Strike C2 Domain,/dot.gif
@@ -179,6 +180,7 @@ ns2.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
+ns2.fwmtest.cn,Possible Cobalt Strike C2 Domain,/dpixel
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/dpixel
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js
 ns2.jd-vip.cn,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -276,6 +278,7 @@ sys.tcc-internal.com,Possible Cobalt Strike C2 Domain,/pixel
 t.10nf0x.com,Possible Cobalt Strike C2 Domain,/owa/
 tab.is-not-really-a.space,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
+tgsk.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 udptestsh6062.ialicdn.com.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 umfi.live,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -305,17 +308,17 @@ www.hotzhuan.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js
 www.micshcnds.top,Possible Cobalt Strike C2 Domain,/cs
 www.nbcnews.site,Possible Cobalt Strike C2 Domain,/sm.css
-www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain,/bm.css
+www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain,/sm.css
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.shelter-paws.com,Possible Cobalt Strike C2 Domain,/visit.js
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.temt.top,Possible Cobalt Strike C2 Domain,/visit.js
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www.xss.mba,Possible Cobalt Strike C2 Domain,/pixel
 www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
-www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos
-www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
+www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos
 xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/ga.js
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif
