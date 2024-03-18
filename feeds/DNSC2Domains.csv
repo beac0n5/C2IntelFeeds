@@ -6,7 +6,6 @@
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "aliyunn.com.cn","Possible Cobaltstrike DNS C2 Domain","121.43.55.149","ns1.aliyunn.com.cn ns2.aliyunn.com.cn ns3.aliyunn.com.cn"
 "allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www1.allegiancefithealth.com"
-"artstrailreviews.com","Possible Cobaltstrike DNS C2 Domain","45.77.72.150","dns.artstrailreviews.com"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","106.54.228.198","ns1.baidu12366.xyz"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
@@ -69,4 +68,3 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-

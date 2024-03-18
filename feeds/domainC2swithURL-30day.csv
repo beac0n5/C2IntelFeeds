@@ -253,6 +253,7 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-89u0y7ij-1305550121.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/index.jsp
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-akqr4y12-1300243308.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/ca
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 service-bvvdi136-1317500845.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-d1ssjklq-1306655841.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/pixel
@@ -317,7 +318,6 @@ www.micshcnds.top,Possible Cobalt Strike C2 Domain,/cs
 www.nbcnews.site,Possible Cobalt Strike C2 Domain,/sm.css
 www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain,/bm.css
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
-www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif
 www.shelter-paws.com,Possible Cobalt Strike C2 Domain,/visit.js
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
