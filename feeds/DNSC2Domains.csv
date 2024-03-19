@@ -44,7 +44,7 @@
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
-"n0reply.eu.org"," Possible Cobaltstrike DNS C2 Domain","167.86.127.180","ns.n0reply.eu.org"
+"n0reply.eu.org","Possible Cobaltstrike DNS C2 Domain","167.86.127.180","ns.n0reply.eu.org"
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "nanyafpg.com","Possible Cobaltstrike DNS C2 Domain","52.195.16.11","ns88.nanyafpg.com"
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
