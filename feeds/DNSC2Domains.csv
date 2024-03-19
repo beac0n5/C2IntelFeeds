@@ -50,7 +50,7 @@
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
 "ontexcare.com","Possible Cobaltstrike DNS C2 Domain","95.179.190.134","dns.ontexcare.com"
 "otxcarecosmetics.com","Possible Cobaltstrike DNS C2 Domain","168.100.11.227","dns.otxcarecosmetics.com"
-"otxcosmeticscare.com ","Possible Cobaltstrike DNS C2 Domain","134.209.87.204","dns.otxcosmeticscare.com"
+"otxcosmeticscare.com","Possible Cobaltstrike DNS C2 Domain","134.209.87.204","dns.otxcosmeticscare.com"
 "pain.capetown","Possible Cobaltstrike DNS C2 Domain","88.214.25.36","a.pain.capetown"
 "recentbeelive.com","Possible Cobaltstrike DNS C2 Domain","45.77.160.60","dns.recentbeelive.com"
 "ringatpstul.com","Possible Cobaltstrike DNS C2 Domain","148.72.132.181","dns.ringatpstul.com ringatpstul.com"
@@ -70,3 +70,4 @@
 "www2.eastus.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www2.eastus.cloudapp.azure.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
