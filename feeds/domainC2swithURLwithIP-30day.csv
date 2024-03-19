@@ -228,6 +228,7 @@ posh.dreads.io,Possible PoshC2 Domain,/utag/lbg/main/prod/utag.15.js/,92.8.139.1
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.94.43.210
 prod-ireland.arkoselabs.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,107.175.245.109
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,1.14.69.16
+qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,43.153.228.97
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.153.228.97
 qw.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
 qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
@@ -269,6 +270,7 @@ service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-f8oy6qld-1322248009.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.92.146.233
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
+service-jby1ivts-1324864909.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,103.27.109.33
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI,157.245.222.152
 service-lhtzt3wh-1319979259.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit,45.152.66.91
 service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,42.193.178.194
