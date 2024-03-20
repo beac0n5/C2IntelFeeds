@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get
 Jango-pulse.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
 a.pain.capetown,Possible Cobalt Strike C2 Domain,/j.ad
