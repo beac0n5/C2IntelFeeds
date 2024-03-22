@@ -69,6 +69,7 @@ d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d8g.lol,Possible Cobalt Strike C2 Domain,/api/3,159.75.104.157
 d9msk9dy9tbnk.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-2.8.4.min.js,4.158.105.167
 dctrvi.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,64.225.12.181
+delabfactory.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,185.196.9.63
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -131,7 +132,6 @@ js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/match,8.212.44.149
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/match,8.212.49.116
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
-kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.141.136.133
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
@@ -146,6 +146,7 @@ n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push,43.139.189.54
 newcleos.com,Possible Cobalt Strike C2 Domain,/appdata.aspx,142.93.97.142
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.49.116
+nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain,/visit.js,82.65.203.196
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/dot.gif,8.212.0.206
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,167.86.127.180
@@ -316,6 +317,7 @@ wiZjqPI1.azureedge.net,Possible Cobalt Strike C2 Domain,/filesystem.htm,159.203.
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.10086cn.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,107.175.245.109
 www.10086cn.xyz,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,107.175.245.109
+www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,185.196.9.63
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,4.210.191.162
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,46.101.147.204
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,54.220.110.175

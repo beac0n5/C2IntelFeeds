@@ -68,6 +68,7 @@ d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d8g.lol,Possible Cobalt Strike C2 Domain,/api/3
 d9msk9dy9tbnk.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-2.8.4.min.js
 dctrvi.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
+delabfactory.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -129,7 +130,6 @@ jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-2.8.4.min.js
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/match
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
-kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
@@ -143,6 +143,7 @@ mscs.v1.vscll.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
 newcleos.com,Possible Cobalt Strike C2 Domain,/appdata.aspx
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad
+nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain,/visit.js
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/dot.gif
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
