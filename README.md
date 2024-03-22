@@ -35,6 +35,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
     |[Evilginx/EvilGoPhish](https://help.evilginx.com)|`services.software.product: {Evilginx, EvilGoPhish}`|
     |Hookbot/Pegasus|`services.http.response.html_title="HOOKBOT PANEL" OR services.http.response.favicons.hashes="sha256:b13b77f0b3d95c1146394ea855d915f189d3ea374179755cfb2ac47bfc8f306c"`|
     |[Interactsh](https://github.com/projectdiscovery/interactsh)|`services.software.uniform_resource_identifier: "cpe:2.3:a:interactsh:interactsh:*:*:*:*:*:*:*:*"`|
+    |SocGholish|`same_service(services.http.response.body_hashes="sha256:9e17cb15dd75bbbd5dbb984eda674863c3b10ab72613cf8a39a00c3e11a8492a" and services.port="80") and same_service(services.tls.certificates.leaf_data.subject_dn="C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, CN=*" and services.port="443" and services.banner_hashes="sha256:adccff99dd0290cb0ccfbb1d1c041556ff0f494e5f61f3a54d6ebf04307e3279")`|
     
   The easiest files for most of you to use should be [C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/IPC2s.csv), [C2 Domains Filtered](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/domainC2s-filter-abused.csv) and [Unverified C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/unverified/IPC2s.csv) or their 30 day counterparts.  
   
