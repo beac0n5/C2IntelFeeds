@@ -17,7 +17,6 @@ all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min
 apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain,/sm.css,154.82.81.136
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
-as.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
 assets.samfund.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,159.223.86.140
 bad.bois.sh,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,20.55.16.22
@@ -58,7 +57,6 @@ cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity,156.234.211.226
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/cx,134.122.129.173
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js,134.122.129.173
 csvs.ter.one,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,94.156.71.76
-cyprusvillahomes.com,Possible Cobalt Strike C2 Domain,/assets/scripts/a0aba203-e3f4-4a26-81f8/get/jQuery-UI-1.12.1,20.91.244.250
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
@@ -132,7 +130,6 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,124.70.140.36
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
-mscs.v1.vscll.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.147.172.234
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push,43.139.189.54
 newcleos.com,Possible Cobalt Strike C2 Domain,/appdata.aspx,142.93.97.142
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.44.149
@@ -222,7 +219,6 @@ primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,1.14.69.16
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,43.153.228.97
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.153.228.97
-qw.reg32.com,Possible Cobalt Strike C2 Domain,/profile,5.188.86.23
 qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 rd.0x115c.click,Possible Cobalt Strike C2 Domain,/cm,45.76.123.14
@@ -244,7 +240,6 @@ security-socks777.com,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
-service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.173.226
 service-2kd9w0iu-1302672236.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,43.139.177.77
 service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match,119.91.144.105
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,81.70.29.244
@@ -337,5 +332,4 @@ xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/ga.js,176.96.138.158
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js,1.94.52.236
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif,60.204.208.32
 z886888.top,Possible Cobalt Strike C2 Domain,/ca,8.222.147.15
-zx.reg32.com,Possible Cobalt Strike C2 Domain,/remove,5.188.86.23
 zx.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175

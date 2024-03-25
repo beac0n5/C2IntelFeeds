@@ -6,7 +6,6 @@
 "akadns.us","Possible Cobaltstrike DNS C2 Domain","143.198.30.16 35.226.178.85","aka.akadns.us"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "aliyunn.com.cn","Possible Cobaltstrike DNS C2 Domain","121.43.55.149","ns1.aliyunn.com.cn ns2.aliyunn.com.cn ns3.aliyunn.com.cn"
-"allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","20.104.172.62","www1.allegiancefithealth.com"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "bois.sh","Possible Cobaltstrike DNS C2 Domain","143.198.30.16 20.55.16.22 35.226.178.85","bad.bois.sh good.bois.sh scoring.bois.sh"
@@ -31,7 +30,7 @@
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "etallyall.com","Possible Cobaltstrike DNS C2 Domain","45.32.196.110","beacon.etallyall.com"
 "fuckworldxxx.shop","Possible Cobaltstrike DNS C2 Domain","123.207.51.53","ns1.fuckworldxxx.shop ns2.fuckworldxxx.shop ns3.fuckworldxxx.shop"
-"fwmtest.cn","Possible Cobaltstrike DNS C2 Domain"," 1.94.110.130","ns1.fwmtest.cn ns2.fwmtest.cn"
+"fwmtest.cn","Possible Cobaltstrike DNS C2 Domain","1.94.110.130","ns1.fwmtest.cn ns2.fwmtest.cn"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","134.122.129.173","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
 "jd-vip.cn","Possible Cobaltstrike DNS C2 Domain","62.234.13.73","ns1.jd-vip.cn ns2.jd-vip.cn"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
@@ -76,3 +75,4 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "zodo.tech","Possible Cobaltstrike DNS C2 Domain","143.198.30.16","support.zodo.tech"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
