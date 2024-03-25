@@ -207,6 +207,7 @@ view.msedge.live,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/20
 view.msedge.live,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,35.226.178.85
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.10086cn.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,107.175.245.109
+www.10086cn.xyz,Possible Cobalt Strike C2 Domain,/lib/v2/wcp-consent.js,107.175.245.109
 www.10086cn.xyz,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,107.175.245.109
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,185.196.9.63
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,54.220.110.175
