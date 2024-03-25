@@ -52,6 +52,8 @@ content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 csvs.ter.one,Possible Cobalt Strike C2 Fronting Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
+d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Domain
+d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -65,6 +67,7 @@ dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain
+dmobd90auod5w.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 dns.artstrailman.com,Possible Cobalt Strike C2 Domain
 dns.artstrailreviews.com,Possible Cobalt Strike C2 Domain
 dns.atchesonprint.com,Possible Cobalt Strike C2 Domain
