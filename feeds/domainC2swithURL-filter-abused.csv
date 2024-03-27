@@ -64,7 +64,6 @@ endpointinfrart.azureedge.net,Possible Cobalt Strike C2 Domain,/Collector/2.0/se
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 find-ball.com,Possible Cobalt Strike C2 Fronted Domain,/ch
-firmwarefusion.com,Possible Cobalt Strike C2 Fronted Domain,/dam.html
 g.fyss888.com,Possible Cobalt Strike C2 Domain,/ca
 ipadd.show,Possible Cobalt Strike C2 Domain,/mod/resellers/2E4WLR6U3UV
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/match
@@ -118,7 +117,6 @@ qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 redir-s49f828c.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/visit.js
-releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/dam.html
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 scoring.bois.sh,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 search.zfly.fun,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
