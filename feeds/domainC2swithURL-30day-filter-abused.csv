@@ -160,7 +160,6 @@ ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ptj
 ns1.jd-vip.cn,Possible Cobalt Strike C2 Domain,/dot.gif
 ns1.kogyoung.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns1.microsoft-update.one,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
 ns1.microsoft2888.top,Possible Cobalt Strike C2 Domain,/visit.js
 ns1.microsoftgame.online,Possible Cobalt Strike C2 Domain,/owa/
 ns1.msn-microsoft.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -185,7 +184,6 @@ ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js
 ns2.jd-vip.cn,Possible Cobalt Strike C2 Domain,/g.pixel
 ns2.kogyoung.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns2.microsoft-update.one,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
 ns2.microsoftgame.online,Possible Cobalt Strike C2 Domain,/owa/
 ns2.msn-microsoft.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.netiapp.org,Possible Cobalt Strike C2 Domain,/app/v2/api/health/check
@@ -240,6 +238,7 @@ service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-20ww8i3o-1300612713.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/ga.js
 service-2kd9w0iu-1302672236.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
+service-2saemj0p-1319375115.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-75oa09db-1317471892.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/SendMsg
 service-89u0y7ij-1305550121.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -325,7 +324,6 @@ www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/
 www.xss.mba,Possible Cobalt Strike C2 Domain,/activity
 www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos
-xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/ga.js
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif
 z886888.top,Possible Cobalt Strike C2 Domain,/ca
