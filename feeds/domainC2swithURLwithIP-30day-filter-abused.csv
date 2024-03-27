@@ -55,7 +55,7 @@ citrix.prdcdn.com,Possible Cobalt Strike C2 Domain,/hcp.php,20.104.183.199
 cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif,94.20.88.63
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3,101.35.4.152
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel,8.140.135.23
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss,8.140.135.23
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity,156.234.211.226
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/cx,134.122.129.173
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js,134.122.129.173
@@ -251,6 +251,7 @@ security-socks777.com,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
+service-20ww8i3o-1300612713.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/ga.js,159.75.254.173
 service-2kd9w0iu-1302672236.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,43.139.177.77
 service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match,119.91.144.105
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,81.70.29.244
@@ -325,6 +326,7 @@ www.10086cn.xyz,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,1
 www.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/image/,106.54.228.198
 www.cdnyychanlun.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,39.100.103.225
 www.cloudflarecache.top,Possible Cobalt Strike C2 Domain,/j.ad,91.245.253.85
+www.flash-update.info,Possible Cobalt Strike C2 Domain,/pixel,47.105.69.34
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.hotzhuan.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,39.100.103.225
 www.micshcnds.top,Possible Cobalt Strike C2 Domain,/cs,107.151.246.236

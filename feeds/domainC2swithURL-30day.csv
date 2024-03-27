@@ -57,8 +57,8 @@ client-api.arkoselabs.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/updates.rss
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/cx
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js
@@ -248,6 +248,7 @@ security-socks777.com,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
+service-20ww8i3o-1300612713.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/ga.js
 service-2kd9w0iu-1302672236.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -321,6 +322,7 @@ www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167
 www.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.cdnyychanlun.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 www.cloudflarecache.top,Possible Cobalt Strike C2 Domain,/j.ad
+www.flash-update.info,Possible Cobalt Strike C2 Domain,/pixel
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.hotzhuan.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 www.micshcnds.top,Possible Cobalt Strike C2 Domain,/cs
