@@ -13,7 +13,6 @@ admin.usaid2.org,Possible Cobalt Strike C2 Domain
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain
 aka.akadns.us,Possible Cobalt Strike C2 Domain
 all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain
-apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain
 as.regcssv.com,Possible Cobalt Strike C2 Domain
@@ -30,6 +29,7 @@ cc.cert-ex.net,Possible Cobalt Strike C2 Domain
 cc.youku.zip,Possible Cobalt Strike C2 Domain
 cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain
 cdn-1488.winstate.cc,Possible Cobalt Strike C2 Domain
+cdn-aws-amazon.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain
 cdn.3qweraa.beauty,Possible Cobalt Strike C2 Domain
 cdn.dadadsadaccsoong.top,Possible Cobalt Strike C2 Domain
@@ -49,6 +49,7 @@ cityoall.com,Possible Cobalt Strike C2 Domain
 cloudflear.cf,Possible Cobalt Strike C2 Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
+cs.buidu.site,Possible Cobalt Strike C2 Domain
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 csvs.ter.one,Possible Cobalt Strike C2 Fronting Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
@@ -99,6 +100,7 @@ docloudstorage.com,Possible Cobalt Strike C2 Fronted Domain
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
+endpointinfrart.azureedge.net,Possible Cobalt Strike C2 Domain
 eu.webmailservice.at,Possible Cobalt Strike C2 Domain
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain
@@ -130,6 +132,7 @@ mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
 newcleos.com,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
+nimappche.buzz,Possible Cobalt Strike C2 Domain
 nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain
 ns.b1ing.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
@@ -273,6 +276,7 @@ t.10nf0x.com,Possible Cobalt Strike C2 Domain
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
 tgsk.xyz,Possible Cobalt Strike C2 Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
+tools.trtyr.top,Possible Cobalt Strike C2 Domain
 udptestsh6062.ialicdn.com.w.cdngslb.com,Possible Cobalt Strike C2 Domain
 umfi.live,Possible Cobalt Strike C2 Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
