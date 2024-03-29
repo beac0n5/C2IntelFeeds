@@ -7,7 +7,7 @@
 55.18.131.34.bc.googleusercontent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 69uiu06es5.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/search/
 Jango-pulse.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
-a.pain.capetown,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+a.pain.capetown,Possible Cobalt Strike C2 Domain,/dpixel
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 admin.usaid2.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
@@ -51,6 +51,7 @@ cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/case.css
 citrix.prdcdn.com,Possible Cobalt Strike C2 Domain,/hcp.php
 cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
+clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss
 cs.buidu.site,Possible Cobalt Strike C2 Domain,/load
@@ -136,7 +137,6 @@ micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
 newcleos.com,Possible Cobalt Strike C2 Domain,/appdata.aspx
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel.gif
 nimappche.buzz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain,/visit.js

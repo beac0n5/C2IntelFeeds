@@ -2,7 +2,7 @@
 21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3,142.171.229.46
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get,167.99.112.140
 Jango-pulse.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS,194.165.16.59
-a.pain.capetown,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,88.214.25.36
+a.pain.capetown,Possible Cobalt Strike C2 Domain,/dpixel,88.214.25.36
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 admin.usaid2.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.81.35.71
 aka.akadns.us,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,143.198.30.16
@@ -33,6 +33,7 @@ check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/g.pixel,45.76.90.103
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/case.css,45.148.120.115
 cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif,94.20.88.63
+clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/updates.rss,8.140.135.23
@@ -277,8 +278,8 @@ mgteu4.averatechsolutions.com,Possible Cobalt Strike C2 Fronting Domain,/faqpage
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,124.70.140.36
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.49.116
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel.gif,8.212.44.149
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel.gif,8.212.49.116
 nimappche.buzz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.58.79
 nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain,/visit.js,82.65.203.196
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/dot.gif,8.212.0.206
