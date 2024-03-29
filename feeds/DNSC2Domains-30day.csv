@@ -1,5 +1,5 @@
 #domain,ioc,IPs,C2Domains
-"0-2.pw","Possible Cobaltstrike DNS C2 Domain","178.128.229.91","ns2.0-2.pw"
+"0-2.pw","Possible Cobaltstrike DNS C2 Domain ","178.128.229.91","ns2.0-2.pw"
 "10nf0x.com","Possible Cobaltstrike DNS C2 Domain","159.223.220.165","t.10nf0x.com"
 "163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","154.92.16.150","nt1.227api.com nt2.227api.com nt3.227api.com"
@@ -101,4 +101,3 @@
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zodo.tech","Possible Cobaltstrike DNS C2 Domain","143.198.30.16","support.zodo.tech"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-
