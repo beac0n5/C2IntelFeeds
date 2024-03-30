@@ -69,7 +69,7 @@
 "netiapp.org","Possible Cobaltstrike DNS C2 Domain","108.61.210.72","ns1.netiapp.org ns2.netiapp.org"
 "nightmare.su","Possible Cobaltstrike DNS C2 Domain","94.228.118.45","dns.nightmare.su"
 "nsfocus.cn.com","Possible Cobaltstrike DNS C2 Domain","107.148.1.41","vpn.nsfocus.cn.com"
-"ontexcare.com","Possible Cobaltstrike DNS C2 Domain","95.179.190.134","dns.ontexcare.com"
+"ontexcare.com","Possible Cobaltstrike DNS C2 Domain","95.179.190.134"," dns.ontexcare.com"
 "otxcarecosmetics.com","Possible Cobaltstrike DNS C2 Domain","168.100.11.227","dns.otxcarecosmetics.com"
 "otxcosmeticscare.com","Possible Cobaltstrike DNS C2 Domain","134.209.87.204","dns.otxcosmeticscare.com"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
@@ -102,3 +102,4 @@
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zodo.tech","Possible Cobaltstrike DNS C2 Domain","143.198.30.16","support.zodo.tech"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
