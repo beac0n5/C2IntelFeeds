@@ -463,6 +463,7 @@ onlinetraveler.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/
 oob.microsoft360.xyz,Possible Cobalt Strike C2 Domain,/image/,23.95.208.14
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ptj,45.76.90.103
 payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr,45.82.78.106
+po.vigorlabs.info,Possible PoshC2 Domain,/load/pages/index.php/,185.126.117.55
 posh.dreads.io,Possible PoshC2 Domain,/utag/lbg/main/prod/utag.15.js/,92.8.139.124
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.94.43.210
 prod-ireland.arkoselabs.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,107.175.245.109
@@ -490,6 +491,8 @@ service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-20ww8i3o-1300612713.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/ga.js,159.75.254.173
 service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match,119.91.144.105
 service-2saemj0p-1319375115.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.173.144.77
+service-43eyvs26-1312185610.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/cx,8.147.132.135
+service-43eyvs26-1312185610.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/dot.gif,8.147.132.135
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,81.70.29.244
 service-75oa09db-1317471892.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/SendMsg,43.143.184.128
 service-89u0y7ij-1305550121.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/__utm.gif,1.116.103.114
@@ -538,6 +541,7 @@ tgsk.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,49.232.191.68
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
 tools.trtyr.top,Possible Cobalt Strike C2 Domain,/api/3,82.157.164.51
 umfi.live,Possible Cobalt Strike C2 Domain,/pixel.gif,34.216.132.82
+update.360safety.xyz,Possible Cobalt Strike C2 Domain,/push,47.105.69.34
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel,103.186.215.56
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/dpixel,154.12.84.6
