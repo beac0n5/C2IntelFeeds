@@ -45,7 +45,7 @@
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
 "judicical.mm","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check0.judicical.mm"
 "kogyoung.com","Possible Cobaltstrike DNS C2 Domain","94.158.247.72","ns1.kogyoung.com ns2.kogyoung.com"
-"kudicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117", "check.kudicical.ml"
+"kudicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.kudicical.ml"
 "localhost-microsoft.com","Possible Cobaltstrike DNS C2 Domain","43.129.28.136","clouds.localhost-microsoft.com"
 "marfei.zone","Possible Cobaltstrike DNS C2 Domain","121.40.119.94","c2.marfei.zone"
 "matrika.cn","Possible Cobaltstrike DNS C2 Domain","60.204.208.32","yyns.matrika.cn"
@@ -99,4 +99,3 @@
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zodo.tech","Possible Cobaltstrike DNS C2 Domain","143.198.30.16","support.zodo.tech"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-
