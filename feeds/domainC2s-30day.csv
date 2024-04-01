@@ -39,7 +39,6 @@ cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.prdcdn.com,Possible Cobalt Strike C2 Domain
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain
-cdn043sc.azureedge.net,Possible Cobalt Strike C2 Domain
 cdncloud.info,Possible Cobalt Strike C2 Domain
 cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain
 check.judicical.ml,Possible Cobalt Strike C2 Domain
@@ -220,6 +219,8 @@ prod-ireland.arkoselabs.com,Possible Cobalt Strike C2 Fronted Domain
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
 qw.regcssv.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
+rdtest.static.hao123-wise.otp.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain
+rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 realzoogroup.com,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 redir-s49f828c.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
