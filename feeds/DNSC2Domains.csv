@@ -17,6 +17,7 @@
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "etallyall.com","Possible Cobaltstrike DNS C2 Domain","45.32.196.110","beacon.etallyall.com"
+"googletagmauager.com","Possible Cobaltstrike DNS C2 Domain","146.70.113.136","ns1.googletagmauager.com ns2.googletagmauager.com"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","134.122.129.173","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
