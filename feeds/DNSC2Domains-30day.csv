@@ -80,7 +80,7 @@
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
 "summerevent2023.com","Possible Cobaltstrike DNS C2 Domain","20.120.177.99","summerevent2023.com"
 "t0nger.com","Possible Cobaltstrike DNS C2 Domain","8.218.137.213","dns.t0nger.com"
-"tcc-internal.com","Possible Cobaltstrike DNS C2 Domain", "138.124.180.159","sys.tcc-internal.com"
+"tcc-internal.com","Possible Cobaltstrike DNS C2 Domain","138.124.180.159","sys.tcc-internal.com"
 "tecbanis.com","Possible Cobaltstrike DNS C2 Domain","3.141.100.233","dns.tecbanis.com"
 "tgu-future.cn","Possible Cobaltstrike DNS C2 Domain","119.91.214.104","cdn.tgu-future.cn"
 "tqrjfru.cn","Possible Cobaltstrike DNS C2 Domain","114.115.210.125","c1.tqrjfru.cn"
@@ -99,3 +99,4 @@
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zodo.tech","Possible Cobaltstrike DNS C2 Domain","143.198.30.16","support.zodo.tech"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","185.106.96.225","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
