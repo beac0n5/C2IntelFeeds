@@ -101,6 +101,8 @@ dockerupdate.xyz,Possible Cobalt Strike C2 Domain
 docloudstorage.com,Possible Cobalt Strike C2 Fronted Domain
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
+drive-east-us-fahybddhebhxejbb.z02.azurefd.net,Possible Cobalt Strike C2 Fronted Domain
+drive-us.azureedge.net,Possible Cobalt Strike C2 Fronting Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 endpointinfrart.azureedge.net,Possible Cobalt Strike C2 Domain
 epic-games-api.arkoselabs.com,Possible Cobalt Strike C2 Fronted Domain
@@ -122,7 +124,6 @@ heicehjuisyq.bond,Possible Cobalt Strike C2 Domain
 i-wallet.net,Possible Cobalt Strike C2 Fronted Domain
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain
 igo0gle.com,Possible Cobalt Strike C2 Domain
-invoce-social.com,Possible Cobalt Strike C2 Domain
 ipadd.show,Possible Cobalt Strike C2 Domain
 jquery.com,Possible Cobalt Strike C2 Fronting Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
@@ -137,7 +138,6 @@ mail.cncb.info,Possible Cobalt Strike C2 Domain
 mgteu4.averatechsolutions.com,Possible Cobalt Strike C2 Fronting Domain
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
 microsoftwindows.one,Possible Cobalt Strike C2 Domain
-micrusroft.com,Possible Cobalt Strike C2 Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
 newcleos.com,Possible Cobalt Strike C2 Domain
@@ -265,6 +265,7 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jby1ivts-1324864909.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-kjjaddjc-1309114380.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-lhtzt3wh-1319979259.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-lidgmacv-1317471912.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
