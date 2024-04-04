@@ -78,6 +78,7 @@ jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
+login.oraclecloudsig.com,Possible Cobalt Strike C2 Fronting Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain
 mgteu4.averatechsolutions.com,Possible Cobalt Strike C2 Fronting Domain
@@ -116,6 +117,7 @@ nt2.227api.com,Possible Cobalt Strike C2 Domain
 nt3.227api.com,Possible Cobalt Strike C2 Domain
 nytimes.com,Possible Cobalt Strike C2 Fronting Domain
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
+oraclecloudsig.com,Possible Cobalt Strike C2 Fronted Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 po.vigorlabs.info,Possible PoshC2 Domain
 pycharm-edu.us,Possible Cobalt Strike C2 Domain
