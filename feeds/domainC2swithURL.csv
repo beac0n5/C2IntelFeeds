@@ -15,7 +15,7 @@ bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/j.ad
 big-walls.com,Possible Cobalt Strike C2 Fronted Domain,/ch
 bing.com,Possible Cobalt Strike C2 Fronting Domain,/ch
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
-c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/j.ad
+c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/ga.js
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/activity
 canarapay-f5agf9ccgteqbpg2.z03.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/I7F9L/s0Rm6WOzIDfYrB6YAi2d
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -160,7 +160,7 @@ service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 shop.amazon-aws.fr,Possible Cobalt Strike C2 Domain,/visit.js
 shopmoneyweb.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/g.pixel
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/visit.js
 stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
