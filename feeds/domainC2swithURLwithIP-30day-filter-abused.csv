@@ -60,7 +60,9 @@ cs.buidu.site,Possible Cobalt Strike C2 Domain,/load,106.38.201.196
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/cx,134.122.129.173
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js,134.122.129.173
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/ga.js,103.116.247.207
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/j.ad,154.204.176.13
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/j.ad,154.204.177.22
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/load,154.204.176.13
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/load,154.204.177.22
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/push,103.116.247.207
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
@@ -363,6 +365,7 @@ googlesupportacc.top,Possible Cobalt Strike C2 Domain,/bg,95.141.41.8
 gostatts.com,Possible Cobalt Strike C2 Domain,/owa/o4GyiPjzznWaeY19WVGnuY7r2i,91.92.244.214
 heicehjuisyq.bond,Possible Cobalt Strike C2 Domain,/OmentGET,109.199.108.92
 i-wallet.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,4.210.191.162
+i.xlei.cc,Possible Cobalt Strike C2 Domain,/ca,42.192.53.52
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 igo0gle.com,Possible Cobalt Strike C2 Domain,/Enable/v9/WDOBLGWR0S,88.214.25.235
 ipadd.show,Possible Cobalt Strike C2 Domain,/mod/resellers/2E4WLR6U3UV,172.200.160.7
@@ -387,6 +390,7 @@ newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/cx,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/cx,8.212.49.116
 nimappche.buzz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.58.79
 nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain,/visit.js,82.65.203.196
+nodejsmysql.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,149.129.131.163
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/dot.gif,8.212.0.206
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,167.86.127.180
