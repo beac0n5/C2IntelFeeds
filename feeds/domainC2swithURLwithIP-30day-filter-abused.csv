@@ -15,7 +15,6 @@ aka.akadns.us,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/
 api.updateservices.org,Possible Cobalt Strike C2 Domain,/activity,94.131.13.68
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
 arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
-as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
 averatechsolutions.com,Possible Cobalt Strike C2 Fronted Domain,/faqpage.js,185.172.128.120
 bad.bois.sh,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,20.55.16.22
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/cx,116.205.189.199
@@ -458,7 +457,6 @@ pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,1.14.69.16
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,43.153.228.97
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.153.228.97
-qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
 rdtest.static.hao123-wise.otp.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain,/compute/cd/K7BA6V385V,82.156.136.79
 rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/compute/cd/K7BA6V385V,82.156.136.79
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
@@ -568,4 +566,3 @@ www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_pr
 xunleicloud.com,Possible Cobalt Strike C2 Domain,/ga.js,1.94.52.236
 yyns.matrika.cn,Possible Cobalt Strike C2 Domain,/pixel.gif,60.204.208.32
 z886888.top,Possible Cobalt Strike C2 Domain,/ca,8.222.147.15
-zx.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
