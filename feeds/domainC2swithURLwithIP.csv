@@ -65,7 +65,6 @@ dns.otxcarecosmetics.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1
 dns.otxcosmeticscare.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,134.209.87.204
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel,8.218.137.213
 dns.trailcosolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,78.141.217.186
-dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 dockerupdate.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,185.239.84.203
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
@@ -402,7 +401,7 @@ service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 shop.amazon-aws.fr,Possible Cobalt Strike C2 Domain,/visit.js,87.98.228.243
 shopmoneyweb.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned,170.130.165.129
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/visit.js,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,85.175.101.203
 stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.92.140.21
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL,47.243.108.86
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190

@@ -55,7 +55,6 @@ dns.otxcarecosmetics.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.otxcosmeticscare.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.trailcosolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 dockerupdate.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
@@ -154,7 +153,7 @@ service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 shop.amazon-aws.fr,Possible Cobalt Strike C2 Domain,/visit.js
 shopmoneyweb.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/visit.js
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
